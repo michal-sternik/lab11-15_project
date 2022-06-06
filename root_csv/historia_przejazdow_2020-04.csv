@@ -1,0 +1,160 @@
+UID wynajmu,Numer roweru,Data wynajmu,Data zwrotu,Stacja wynajmu,Stacja zwrotu,Czas trwania
+94037821,650287,2020-03-31 23:59:21,2020-04-01 00:04:42,Mińska / Stanisławowska,Graniczna / Strzegomska,6
+94037873,57009,2020-04-01 00:11:10,2020-04-01 00:15:16,Wyszyńskiego / Szczytnicka,Piaskowa / św. Ducha,5
+94037881,650349,2020-04-01 00:14:53,2020-04-01 00:24:44,Rondo Reagana,Jedności Narodowej / Wyszyńskiego,10
+94037959,650638,2020-04-01 00:36:52,2020-04-01 00:42:09,Poza stacją,Żmigrodzka / Broniewskiego,6
+94037976,57671,2020-04-01 00:43:48,2020-04-01 00:44:01,.RELOKACYJNA,Szczęśliwa (Sky Tower),1
+94037971,57459,2020-04-01 00:42:12,2020-04-01 00:49:34,Drzewieckiego / Dedala,Drzewieckiego / Dedala,8
+94037825,57765,2020-04-01 00:00:09,2020-04-01 00:54:14,Legnicka / Zachodnia ,Stacyjna (Dworzec Mikołajów),55
+94037972,650761,2020-04-01 00:42:22,2020-04-01 00:54:18,Sienkiewicza / Piastowska,Aleja Kromera,12
+94037826,651203,2020-04-01 00:00:28,2020-04-01 00:54:24,Legnicka / Zachodnia ,Stacyjna (Dworzec Mikołajów),54
+94037999,650683,2020-04-01 00:54:43,2020-04-01 00:55:28,Aleja Kromera,Aleja Kromera,1
+94038002,57320,2020-04-01 00:55:40,2020-04-01 00:56:37,Aleja Kromera,Aleja Kromera,1
+94037988,57671,2020-04-01 00:47:13,2020-04-01 01:00:27,Szczęśliwa (Sky Tower),Plac Jana Pawła II (Akademia Muzyczna),14
+94037987,650987,2020-04-01 00:47:12,2020-04-01 01:00:40,Szczęśliwa (Sky Tower),Plac Jana Pawła II (Akademia Muzyczna),14
+94009519,57985,2020-03-30 12:47:13,2020-04-01 01:07:56,"Kosmonautów / Fieldorfa, szpital wojewódzki","Kosmonautów / Fieldorfa, szpital wojewódzki",2181
+94038015,57671,2020-04-01 01:01:56,2020-04-01 01:15:15,Plac Jana Pawła II (Akademia Muzyczna),Legnicka (Park Magnolia),14
+94038016,650987,2020-04-01 01:02:07,2020-04-01 01:15:17,Plac Jana Pawła II (Akademia Muzyczna),Legnicka (Park Magnolia),14
+94038004,57913,2020-04-01 00:56:56,2020-04-01 01:20:14,Aleja Kromera,Krzywoustego - Rynek Psie Pole,24
+94038108,650894,2020-04-01 02:05:41,2020-04-01 02:21:54,Poza stacją,Pereca / Grabiszyńska,17
+94038118,650432,2020-04-01 02:22:42,2020-04-01 02:23:11,Prochowicka / Dolnobrzeska,Prochowicka / Dolnobrzeska,1
+94038110,57849,2020-04-01 02:10:18,2020-04-01 02:30:57,Bardzka / Piękna,Plac Uniwersytecki (UWr),21
+94038116,650102,2020-04-01 02:17:24,2020-04-01 02:31:46,Żeromskiego / Kluczborska,Żeromskiego / Daszyńskiego,15
+94038121,650815,2020-04-01 02:23:03,2020-04-01 02:42:15,Krzywoustego - Rynek Psie Pole,Zatorska / Królewska - pętla MPK,20
+94038123,650432,2020-04-01 02:24:17,2020-04-01 02:56:29,Prochowicka / Dolnobrzeska,Prochowicka / Dolnobrzeska,33
+94038117,650116,2020-04-01 02:22:11,2020-04-01 02:57:07,Prochowicka / Dolnobrzeska,Prochowicka / Dolnobrzeska,35
+94038160,650968,2020-04-01 03:17:09,2020-04-01 03:28:03,Lotnicza / Metalowców,Legnicka (Park Magnolia),11
+94038162,650349,2020-04-01 03:27:38,2020-04-01 03:37:32,Jedności Narodowej / Wyszyńskiego,Reymonta / Kleczkowska,10
+94038193,650218,2020-04-01 04:20:09,2020-04-01 04:23:40,al. Karkonoska / Jeździecka,Zwycięska / Ołtaszyńska,4
+94038202,650516,2020-04-01 04:34:23,2020-04-01 04:42:07,Pereca / Grabiszyńska,Aleja Hallera / Mielecka,8
+94038209,650211,2020-04-01 04:44:37,2020-04-01 04:49:42,Zwycięska / Ołtaszyńska,Wałbrzyska - pętla tramwajowa,6
+94038225,650175,2020-04-01 05:00:55,2020-04-01 05:09:22,Hubska / Prudnicka,Ślężna / Kamienna (Uniw. Ekonomiczny),9
+94038239,650974,2020-04-01 05:10:31,2020-04-01 05:14:23,Kościuszki / Pułaskiego,Dworzec Główny ,4
+94038235,650382,2020-04-01 05:04:47,2020-04-01 05:15:47,Kutrzeby / Hubala,al. Karkonoska / Jeździecka,11
+94038253,57051,2020-04-01 05:18:04,2020-04-01 05:24:10,Poza stacją,Kościuszki / Komuny Paryskiej / Zgodna,7
+94038245,650869,2020-04-01 05:13:14,2020-04-01 05:24:26,Lotnicza / Na Ostatnim Groszu,Fabryczna / Wagonowa,12
+94038282,651206,2020-04-01 05:29:12,2020-04-01 05:33:42,Kościuszki / Komuny Paryskiej / Zgodna,Dworzec Główny ,5
+94038286,650987,2020-04-01 05:30:47,2020-04-01 05:36:22,Legnicka (Park Magnolia),Fabryczna / Wagonowa,6
+94038288,650894,2020-04-01 05:31:34,2020-04-01 05:37:45,Pereca / Grabiszyńska,Grabiszyńska / Magazynierska (Corte Verona),7
+94038291,57707,2020-04-01 05:33:28,2020-04-01 05:41:47,Mińska / Stanisławowska,Poza stacją,9
+94038312,57530,2020-04-01 05:42:19,2020-04-01 05:50:05,"Dworzec Główny, południe",Hubska / Prudnicka,8
+94038334,57949,2020-04-01 05:51:48,2020-04-01 06:00:37,Wyszyńskiego / Szczytnicka,Drobnera / Dubois,9
+94038343,57733,2020-04-01 05:56:06,2020-04-01 06:04:03,Zaporoska / Gajowicka,Powstańcow Śląskich / Aleja Hallera,8
+94038341,57276,2020-04-01 05:55:09,2020-04-01 06:05:31,Rogowska / Zemska,Graniczna / Strzegomska,11
+94038359,650108,2020-04-01 06:02:39,2020-04-01 06:08:08,Poza stacją,Norwida / Wyspiańskiego (PWr),6
+94038362,57345,2020-04-01 06:03:33,2020-04-01 06:20:19,Zaporoska / Grabiszyńska,Plac Strzegomski / Poznańska,17
+94038420,57285,2020-04-01 06:22:12,2020-04-01 06:26:52,Grabiszyńska / Aleja Hallera,Hallera / Odkrywców,5
+94038395,650108,2020-04-01 06:12:47,2020-04-01 06:29:06,Norwida / Wyspiańskiego (PWr),Poza stacją,17
+94038419,57136,2020-04-01 06:21:44,2020-04-01 06:30:24,Rogowska / Zemska,Graniczna / Strzegomska,9
+94038441,650137,2020-04-01 06:28:38,2020-04-01 06:31:50,Nowowiejska / Wyszyńskiego,Nowowiejska / Jedności Narodowej,4
+94038509,650133,2020-04-01 06:42:22,2020-04-01 06:43:51,Na Grobli (PWr - Geocentrum),Na Grobli (PWr - Geocentrum),2
+94038494,57671,2020-04-01 06:38:32,2020-04-01 06:45:03,Legnicka (Park Magnolia),Popowicka ,7
+94038470,57391,2020-04-01 06:34:05,2020-04-01 06:48:09,Poza stacją,al. Armii Krajowej / Tarnogajska,15
+94038523,650564,2020-04-01 06:44:30,2020-04-01 06:49:43,Bałtycka / Żmigrodzka,Żmigrodzka / Marino,6
+94038375,57821,2020-04-01 06:06:12,2020-04-01 06:51:40,Bacciarellego,Borowska (Uniw. Szpital Kliniczny),46
+94038499,650466,2020-04-01 06:41:06,2020-04-01 06:54:38,Kamieńskiego / Jutrosińska,Żmigrodzka / Broniewskiego,14
+94038580,650694,2020-04-01 06:57:22,2020-04-01 07:03:11,Stabłowicka / Główna ,Wojanowska / Arbuzowa ,6
+94038558,650750,2020-04-01 06:52:08,2020-04-01 07:03:27,Kazimierza Wielkiego (Helios),Janiszewskiego (PWr),12
+94038567,650619,2020-04-01 06:54:36,2020-04-01 07:03:29,Popowicka / Niedźwiedzia ,Fabryczna / Wagonowa,9
+94038607,57959,2020-04-01 07:05:21,2020-04-01 07:08:49,Sienkiewicza / Wyszyńskiego,Wyszyńskiego / Szczytnicka,4
+94038562,651217,2020-04-01 06:53:21,2020-04-01 07:10:27,Plac Staszica,Kościuszki / Pułaskiego,18
+94038629,650296,2020-04-01 07:09:27,2020-04-01 07:13:19,Wyszyńskiego / Szczytnicka,Plac Powstańców Warszawy (Muzeum Narodowe),4
+94038505,650671,2020-04-01 06:41:34,2020-04-01 07:13:54,Legnicka / Młodych Techników,Ślężna / Skierniewicka,33
+94038613,57616,2020-04-01 07:06:04,2020-04-01 07:20:44,Grabiszyńska / Stalowa,Ślężna / Aleja Wiśniowa,15
+94038641,57821,2020-04-01 07:12:03,2020-04-01 07:25:27,Borowska (Uniw. Szpital Kliniczny),"Dworzec Główny, południe",14
+94038766,650932,2020-04-01 07:32:13,2020-04-01 07:37:13,Kościuszki / Pułaskiego,"Dworzec Główny, południe",5
+94038737,57733,2020-04-01 07:27:49,2020-04-01 07:39:16,Powstańcow Śląskich / Aleja Hallera,Grabiszyńska / Aleja Hallera,12
+94038815,650684,2020-04-01 07:37:38,2020-04-01 07:43:26,Skarbowców / Wietrzna,Krzycka / Aleja Karkonoska (Park Południowy),6
+94038716,651218,2020-04-01 07:24:35,2020-04-01 07:46:41,Opolska / pętla tramwajowa,Rynek,23
+94038751,650315,2020-04-01 07:29:42,2020-04-01 07:56:30,Poleska / Litewska,Poleska / Litewska,27
+94038861,650887,2020-04-01 07:44:04,2020-04-01 07:59:30,Grota-Roweckiego/Iwaszkiewicza,Buforowa - Vivaldiego,16
+94038862,650994,2020-04-01 07:44:17,2020-04-01 07:59:32,Grota-Roweckiego/Iwaszkiewicza,Buforowa - Vivaldiego,16
+94038897,650549,2020-04-01 07:48:16,2020-04-01 08:00:47,Czekoladowa / Wałbrzyska,Poza stacją,13
+94038903,650525,2020-04-01 07:48:34,2020-04-01 08:01:01,Czekoladowa / Wałbrzyska,Poza stacją,13
+94038829,57178,2020-04-01 07:39:42,2020-04-01 08:03:38,"Grochowa / Jemiołowa,",Wyszyńskiego / Szczytnicka,24
+94039036,650214,2020-04-01 08:07:06,2020-04-01 08:17:32,Solskiego / al. Piastów,Grabiszyńska / Aleja Hallera,11
+94039027,650281,2020-04-01 08:05:54,2020-04-01 08:18:21,Plac Powstańców Śląskich,al. Armii Krajowej / Borowska,13
+94039158,57801,2020-04-01 08:22:18,2020-04-01 08:27:10,Nowowiejska / Górnickiego,Nowowiejska / Jedności Narodowej,5
+94039159,57683,2020-04-01 08:22:21,2020-04-01 08:28:04,Nowowiejska / Górnickiego,Nowowiejska / Jedności Narodowej,6
+94039277,57793,2020-04-01 08:34:15,2020-04-01 08:34:21,Plac Kościuszki (Renoma),Plac Kościuszki (Renoma),1
+94039043,650936,2020-04-01 08:07:52,2020-04-01 08:34:28,Poza stacją,Wita Stwosza / Szewska,27
+94036832,650032,2020-03-31 21:09:26,2020-04-01 08:35:07,Legnicka (Park Magnolia),Poza stacją,686
+94039284,650033,2020-04-01 08:35:04,2020-04-01 08:35:56,Plac Kościuszki (Renoma),Plac Kościuszki (Renoma),1
+94039365,57886,2020-04-01 08:43:32,2020-04-01 08:44:04,Lotnicza / Bajana,Lotnicza / Bajana,1
+94039179,650472,2020-04-01 08:24:37,2020-04-01 08:44:06,Bezpieczna / Obornicka,Wyszyńskiego / Szczytnicka,20
+94039366,650991,2020-04-01 08:43:39,2020-04-01 08:44:10,Lotnicza / Bajana,Lotnicza / Bajana,1
+94039299,650323,2020-04-01 08:37:08,2020-04-01 08:45:37,Fosa Miejska ,Plac Świętego Macieja / Trzebnicka,9
+94039239,57848,2020-04-01 08:29:45,2020-04-01 08:50:28,al. Armii Krajowej / Borowska,Reymonta / Kleczkowska,21
+94039396,57918,2020-04-01 08:48:02,2020-04-01 08:53:44,Kościuszki / Pułaskiego,Plac Dominikański (Galeria Dominikańska),6
+94039450,57163,2020-04-01 08:54:09,2020-04-01 08:54:25,Wróblewskiego (Teki),Wróblewskiego (Teki),1
+94039463,650491,2020-04-01 08:55:04,2020-04-01 08:55:22,Świeradowska (Ferio Gaj ),Świeradowska (Ferio Gaj ),1
+94039470,650491,2020-04-01 08:55:58,2020-04-01 08:56:19,Świeradowska (Ferio Gaj ),Świeradowska (Ferio Gaj ),1
+94039460,650872,2020-04-01 08:54:51,2020-04-01 08:57:14,Wróblewskiego (Teki),Poza stacją,3
+94039415,57594,2020-04-01 08:50:14,2020-04-01 08:57:52,Plac Powstańców Śląskich,Plac Kościuszki (Renoma),8
+94039377,650593,2020-04-01 08:45:57,2020-04-01 08:59:27,Czekoladowa / Wałbrzyska,Aleja Bielany,14
+94039438,650295,2020-04-01 08:52:27,2020-04-01 09:04:25,Plac Grunwaldzki / Polaka,Kazimierza Wielkiego (Helios),12
+94039508,57199,2020-04-01 08:59:04,2020-04-01 09:16:39,Poza stacją,Aleja Kromera,18
+94039608,650883,2020-04-01 09:10:42,2020-04-01 09:22:28,Poza stacją,Świdnicka / Piłsudskiego (Hotel Scandic),12
+94039762,650932,2020-04-01 09:27:58,2020-04-01 09:28:26,"Dworzec Główny, południe","Dworzec Główny, południe",1
+94039765,650243,2020-04-01 09:28:24,2020-04-01 09:41:41,Poza stacją,Zwycięska / Ołtaszyńska,14
+94039601,650290,2020-04-01 09:10:22,2020-04-01 09:43:57,Kutrzeby / Hubala,Wyszyńskiego / Szczytnicka,34
+94039789,57147,2020-04-01 09:30:40,2020-04-01 09:49:09,Poza stacją,Stacyjna (Dworzec Mikołajów),19
+94039768,650396,2020-04-01 09:28:55,2020-04-01 09:52:16,Nowowiejska / Górnickiego,Nowowiejska / Górnickiego,24
+94039775,650932,2020-04-01 09:29:24,2020-04-01 09:52:45,"Dworzec Główny, południe",Aleja Hallera / Mielecka,24
+94025082,57124,2020-03-31 12:29:48,2020-04-01 09:54:13,Grota-Roweckiego/Iwaszkiewicza,Poza stacją,1285
+94039990,57124,2020-04-01 09:54:22,2020-04-01 10:11:11,Poza stacją,Powstańcow Śląskich / Aleja Hallera,17
+94040088,650528,2020-04-01 10:08:55,2020-04-01 10:15:15,Ślężna / Aleja Wiśniowa,Komandorska / Kamienna,7
+94039976,57127,2020-04-01 09:53:05,2020-04-01 10:29:19,Dworzec Główny ,Dworzec Główny ,37
+94040111,650851,2020-04-01 10:11:31,2020-04-01 10:36:18,Karwińska / Opolska,Kościuszki / Komuny Paryskiej / Zgodna,25
+94040285,651212,2020-04-01 10:34:32,2020-04-01 10:39:02,Poza stacją,Poza stacją,5
+94040068,57231,2020-04-01 10:05:06,2020-04-01 10:39:35,Zaporoska / Wielka / Krucza,Bystrzycka / Idzikowskiego,35
+94040332,650054,2020-04-01 10:39:34,2020-04-01 10:39:43,Bałtycka / Żmigrodzka,Bałtycka / Żmigrodzka,1
+94040346,650054,2020-04-01 10:40:16,2020-04-01 10:48:35,Bałtycka / Żmigrodzka,Bezpieczna / Obornicka,9
+94040322,650246,2020-04-01 10:38:33,2020-04-01 10:52:01,Lotnicza / Bajana,Legnicka / Zachodnia ,14
+94040477,650054,2020-04-01 10:54:27,2020-04-01 10:59:55,Bezpieczna / Obornicka,Obornicka / Bałtycka,6
+94040460,57182,2020-04-01 10:52:22,2020-04-01 11:00:08,al. Armii Krajowej / Borowska,Dyrekcyjna / Borowska (Wroclavia),8
+94040440,57051,2020-04-01 10:50:21,2020-04-01 11:01:56,Kościuszki / Komuny Paryskiej / Zgodna,Ślężna / Kamienna (Uniw. Ekonomiczny),12
+94040424,57002,2020-04-01 10:48:53,2020-04-01 11:03:23,Czekoladowa / Wałbrzyska,Poza stacją,15
+94040566,650999,2020-04-01 11:03:14,2020-04-01 11:15:56,al. Armii Krajowej / Bardzka,Jagodzińska / Buforowa,13
+94040542,57821,2020-04-01 11:00:35,2020-04-01 11:19:27,"Dworzec Główny, południe",Borowska (Uniw. Szpital Kliniczny),19
+94040682,57182,2020-04-01 11:16:44,2020-04-01 11:25:08,Dyrekcyjna / Borowska (Wroclavia),al. Armii Krajowej / Borowska,9
+94040684,650102,2020-04-01 11:16:51,2020-04-01 11:31:04,Żeromskiego / Daszyńskiego,Plac Jana Pawła II (Akademia Muzyczna),15
+94040701,57093,2020-04-01 11:18:45,2020-04-01 11:34:18,Opolska / Siemianowicka,Traugutta / Kościuszki,16
+94040770,57249,2020-04-01 11:27:21,2020-04-01 11:38:52,Poza stacją,Maślicka / Stodolna,12
+94040751,650248,2020-04-01 11:24:54,2020-04-01 11:39:22,Krakowska / Leroy Merlin,Rondo Reagana,15
+94040761,650267,2020-04-01 11:26:38,2020-04-01 11:42:52,Trymanda / Mińska,Hallera / Odkrywców,17
+94040820,650198,2020-04-01 11:33:39,2020-04-01 11:43:24,Ślężna / Kamienna (Uniw. Ekonomiczny),Zaporoska / Gajowicka,10
+94040889,57249,2020-04-01 11:40:30,2020-04-01 11:44:58,Maślicka / Stodolna,Poza stacją,5
+94040923,650673,2020-04-01 11:43:36,2020-04-01 11:50:52,Hallera / Odkrywców,Racławicka / Rymarska,8
+94040951,650849,2020-04-01 11:46:23,2020-04-01 11:56:03,Kamieńskiego / Jutrosińska,Obornicka / Bałtycka,10
+94040774,57565,2020-04-01 11:28:10,2020-04-01 12:06:30,Krzywoustego - Rynek Psie Pole,Fosa Miejska ,39
+94041137,650996,2020-04-01 12:01:06,2020-04-01 12:07:54,Poza stacją,Świeradowska (Ferio Gaj ),7
+94041167,57202,2020-04-01 12:03:43,2020-04-01 12:14:23,Kazimierza Wielkiego (Helios),Drobnera / Plac Bema,11
+94041187,57249,2020-04-01 12:05:22,2020-04-01 12:16:04,Poza stacją,Pilczycka (Stadion Miejski),11
+94041197,57743,2020-04-01 12:06:05,2020-04-01 12:17:31,Jedności Narodowej / Wyszyńskiego,Krzywoustego / Korona,12
+94041265,650996,2020-04-01 12:11:17,2020-04-01 12:19:31,Poza stacją,Poza stacją,9
+94041252,650889,2020-04-01 12:09:59,2020-04-01 12:21:07,Przyjaźni / Karkonoska,Czekoladowa / Wałbrzyska,12
+94041317,650866,2020-04-01 12:15:16,2020-04-01 12:22:37,Olszewskiego / Spółdzielcza,Wróblewskiego (Teki),8
+94041219,650315,2020-04-01 12:07:40,2020-04-01 12:24:15,Poleska / Litewska,Poleska / Litewska,17
+94041275,57358,2020-04-01 12:12:18,2020-04-01 12:24:30,Wyszyńskiego / Szczytnicka,Plac Uniwersytecki (UWr),13
+94041432,57445,2020-04-01 12:24:06,2020-04-01 12:27:47,Komandorska / Kamienna,Ślężna / Kamienna (Uniw. Ekonomiczny),4
+94041338,650422,2020-04-01 12:16:42,2020-04-01 12:31:12,Żelazna / Pereca,Kościuszki / Pułaskiego,15
+94041386,650996,2020-04-01 12:20:02,2020-04-01 12:34:18,Poza stacją,Poza stacją,15
+94041479,651212,2020-04-01 12:26:55,2020-04-01 12:36:14,Poza stacją,Poza stacją,10
+94041008,57124,2020-04-01 11:50:19,2020-04-01 12:54:20,Powstańcow Śląskich / Aleja Hallera,Aleja Kromera,65
+94042862,650367,2020-04-01 13:52:57,2020-04-01 14:00:09,Komandorska / Kamienna,Poza stacją,8
+94042851,650264,2020-04-01 13:52:44,2020-04-01 14:00:11,Komandorska / Kamienna,Poza stacją,8
+94043095,650367,2020-04-01 14:07:13,2020-04-01 14:13:17,Poza stacją,Poza stacją,7
+94043102,650264,2020-04-01 14:07:24,2020-04-01 14:13:18,Poza stacją,Poza stacją,6
+94043304,650367,2020-04-01 14:17:47,2020-04-01 14:29:32,Poza stacją,Kamienna / Tomaszowska,12
+94043308,650264,2020-04-01 14:17:58,2020-04-01 14:29:34,Poza stacją,Kamienna / Tomaszowska,12
+94036849,57598,2020-03-31 21:11:22,2020-04-01 18:34:04,Mrągowska / Rolna,Mrągowska / Rolna,1283
+93947817,650913,2020-03-27 18:09:38,2020-04-04 17:32:03,Poza stacją,Poza stacją,11423
+93957765,57150,2020-03-28 11:07:59,2020-04-05 21:44:24,Nyska / Jesionowa,al. Armii Krajowej / Bardzka,12097
+94026228,650231,2020-03-31 13:31:23,2020-04-06 07:27:05,Plac Kościuszki (Renoma),Poniatowskiego / Oleśnicka,8276
+94218558,650151,2020-04-10 12:35:53,2020-04-10 12:41:30,Komandorska / Kamienna,Poza stacją,6
+94218778,650151,2020-04-10 12:43:30,2020-04-10 12:50:05,Poza stacją,Ślężna / Kamienna (Uniw. Ekonomiczny),7
+94218997,650151,2020-04-10 12:51:15,2020-04-10 13:07:51,Ślężna / Kamienna (Uniw. Ekonomiczny),Poza stacją,17
+94219503,650151,2020-04-10 13:09:48,2020-04-10 13:15:22,Poza stacją,Konduktorska,6
+94220930,57960,2020-04-10 13:52:59,2020-04-10 13:58:15,Ślężna / Aleja Wiśniowa,Poza stacją,6
+94220917,650787,2020-04-10 13:52:42,2020-04-10 14:15:37,Ślężna / Aleja Wiśniowa,Poza stacją,23
