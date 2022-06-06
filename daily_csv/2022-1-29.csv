@@ -1,0 +1,1227 @@
+,UID wynajmu,Numer roweru,Data wynajmu,Data zwrotu,Stacja wynajmu,Stacja zwrotu,Czas trwania
+0,136322159,57852,2022-01-26 23:41:13,2022-01-27 00:07:21,Drobnera / Dubois,Pilczycka / Kozanowska,27
+1,136322315,650140,2022-01-26 23:56:15,2022-01-27 00:11:57,Solskiego / al. Piastów,Grabiszyńska / Magazynierska (Corte Verona),16
+2,136322423,650969,2022-01-27 00:07:17,2022-01-27 00:13:38,Plac Dominikański (Galeria Dominikańska),Kościuszki / Komuny Paryskiej / Zgodna,7
+3,136322387,57978,2022-01-27 00:03:13,2022-01-27 00:14:26,Hallera / Odkrywców,Solskiego / al. Piastów,12
+4,136322461,57460,2022-01-27 00:10:06,2022-01-27 00:15:00,Poza stacją,Poza stacją,5
+5,136322494,650914,2022-01-27 00:12:58,2022-01-27 00:23:38,Grabiszyńska / Magazynierska (Corte Verona),Żelazna / Pereca,11
+6,136322560,57775,2022-01-27 00:20:02,2022-01-27 00:26:37,Poleska / Litewska,Krzywoustego - Rynek Psie Pole,7
+7,136322589,651356,2022-01-27 00:22:55,2022-01-27 00:31:05,Sienkiewicza / Wyszyńskiego,al. Kochanowskiego / Kopernika,9
+8,136322559,57377,2022-01-27 00:19:48,2022-01-27 00:31:26,Traktatowa (przystanek kolejowy),Na Ostatnim Groszu,12
+9,136322629,57991,2022-01-27 00:28:23,2022-01-27 00:37:07,Komandorska / Kamienna,Ślężna / Aleja Wiśniowa,9
+10,136322561,57025,2022-01-27 00:20:03,2022-01-27 00:37:57,Pereca / Grabiszyńska,Solskiego / al. Piastów,18
+11,136322439,651060,2022-01-27 00:08:56,2022-01-27 00:39:48,Wyszyńskiego / Szczytnicka,Walońska (Angel Poland Group),31
+12,136322626,57217,2022-01-27 00:27:58,2022-01-27 00:40:02,Plac Świętego Macieja / Trzebnicka,Nowowiejska / Górnickiego,13
+13,136322628,57579,2022-01-27 00:28:13,2022-01-27 00:40:13,Plac Świętego Macieja / Trzebnicka,Nowowiejska / Górnickiego,12
+14,136322656,650134,2022-01-27 00:31:45,2022-01-27 00:41:19,Na Ostatnim Groszu,Pilczycka / Kozanowska,10
+15,136322718,650865,2022-01-27 00:41:03,2022-01-27 00:43:44,Powstańców Śląskich (Arkady Wrocławskie),Powstańców Śląskich (Arkady Wrocławskie),3
+16,136322744,651358,2022-01-27 00:44:11,2022-01-27 00:45:09,Powstańców Śląskich (Arkady Wrocławskie),Powstańców Śląskich (Arkady Wrocławskie),1
+17,136322717,57991,2022-01-27 00:41:01,2022-01-27 00:47:10,Ślężna / Aleja Wiśniowa,Ślężna / Skierniewicka,7
+18,136322702,650586,2022-01-27 00:37:16,2022-01-27 00:47:14,Ślężna / Aleja Wiśniowa,Tarnogajska / Klimasa,10
+19,136322601,651254,2022-01-27 00:24:23,2022-01-27 00:47:31,Dworzec Główny ,Legnicka (Park Magnolia),24
+20,136322750,651464,2022-01-27 00:44:56,2022-01-27 00:48:27,Sienkiewicza / Wyszyńskiego,Sienkiewicza / Piastowska,4
+21,136322772,651485,2022-01-27 00:47:20,2022-01-27 00:50:21,Obornicka / Bałtycka,Żmigrodzka / Broniewskiego,4
+22,136322773,650805,2022-01-27 00:47:41,2022-01-27 00:55:25,Powstańców Śląskich (Arkady Wrocławskie),Zaporoska / Gajowicka,8
+23,136322795,57103,2022-01-27 00:51:05,2022-01-27 00:56:16,Żmigrodzka / Broniewskiego,Kamieńskiego / Jutrosińska,6
+24,136322774,651358,2022-01-27 00:47:59,2022-01-27 00:56:59,Poza stacją,Hubska / Prudnicka,9
+25,136322796,650285,2022-01-27 00:51:12,2022-01-27 00:57:26,Kościuszki / Komuny Paryskiej / Zgodna,Hubska / Prudnicka,7
+26,136322714,651065,2022-01-27 00:40:28,2022-01-27 00:58:07,Nowowiejska / Górnickiego,Olszewskiego / Spółdzielcza,18
+27,136322846,57519,2022-01-27 00:58:40,2022-01-27 01:07:39,"Dworzec Główny, południe",Świeradowska (Ferio Gaj ),9
+28,136322893,651165,2022-01-27 01:09:04,2022-01-27 01:09:31,Fosa Miejska ,Fosa Miejska ,1
+29,136318943,57488,2022-01-26 21:10:09,2022-01-27 01:10:38,Norwida / Wyspiańskiego (PWr),Wróblewskiego (Teki),241
+30,136322819,651300,2022-01-27 00:55:53,2022-01-27 01:11:37,Plac Grunwaldzki (DS Ołówek),Wróblewskiego (Teki),16
+31,136322818,650550,2022-01-27 00:55:43,2022-01-27 01:16:05,Plac Grunwaldzki (DS Ołówek),Bacciarellego,21
+32,136322816,650952,2022-01-27 00:55:32,2022-01-27 01:17:00,Plac Grunwaldzki (DS Ołówek),Bacciarellego,22
+33,136322933,651194,2022-01-27 01:14:12,2022-01-27 01:22:25,Świdnicka / Piłsudskiego (Hotel Scandic),Powstańcow Śląskich / Aleja Hallera,9
+34,136322961,651473,2022-01-27 01:18:31,2022-01-27 01:26:22,Legnicka / Młodych Techników,Stacyjna (Dworzec Mikołajów),8
+35,136323017,650864,2022-01-27 01:28:23,2022-01-27 01:33:20,Plac Świętego Macieja / Trzebnicka,Kraszewskiego / Trzebnicka,5
+36,136323004,650193,2022-01-27 01:25:49,2022-01-27 01:33:23,Poza stacją,Drobnera / Plac Bema,8
+37,136323013,650934,2022-01-27 01:27:51,2022-01-27 01:34:32,Grabiszyńska / Aleja Hallera,Krucza / Mielecka / Stalowa,7
+38,136322783,650139,2022-01-27 00:49:18,2022-01-27 01:35:21,Skarbowców / Wietrzna,Kosmonautów / Glinianki / WUWA2,47
+39,136323014,57522,2022-01-27 01:28:08,2022-01-27 01:35:23,Żmigrodzka / Marino,Bałtycka / Żmigrodzka,8
+40,136323020,650338,2022-01-27 01:28:47,2022-01-27 01:37:45,Żmigrodzka / Marino,Bałtycka / Żmigrodzka,9
+41,136322992,650525,2022-01-27 01:24:11,2022-01-27 01:58:12,Aleja Bielany,Powstańcow Śląskich / Aleja Hallera,35
+42,136323089,650892,2022-01-27 01:40:45,2022-01-27 02:06:50,Poza stacją,Powstańcow Śląskich / Aleja Hallera,27
+43,136323120,650285,2022-01-27 01:46:11,2022-01-27 02:07:11,Hubska / Prudnicka,Powstańcow Śląskich / Aleja Hallera,21
+44,136323207,57497,2022-01-27 02:05:27,2022-01-27 02:12:54,Hubska / Prudnicka,Kościuszki / Komuny Paryskiej / Zgodna,8
+45,136323234,651112,2022-01-27 02:12:51,2022-01-27 02:16:42,Centrum Handlowe Auchan Bielany,Poza stacją,4
+46,136323293,651331,2022-01-27 02:26:43,2022-01-27 02:35:03,Kamienna / Borowska (Aquapark),al. Armii Krajowej / Bardzka,9
+47,136323323,650896,2022-01-27 02:35:40,2022-01-27 02:39:52,Kamienna / Tomaszowska,Nyska / Jesionowa,5
+48,136323360,650285,2022-01-27 02:46:37,2022-01-27 02:47:09,Powstańcow Śląskich / Aleja Hallera,Powstańcow Śląskich / Aleja Hallera,1
+49,136323356,57749,2022-01-27 02:45:01,2022-01-27 02:53:34,pl. Orląt Lwowskich,Żelazna / Pereca,9
+50,136323363,650892,2022-01-27 02:47:23,2022-01-27 02:59:26,Powstańcow Śląskich / Aleja Hallera,Wita Stwosza / Szewska,13
+51,136323414,57507,2022-01-27 03:05:10,2022-01-27 03:14:14,Kazimierza Wielkiego (Helios),Legnicka / Zachodnia ,10
+52,136323470,650525,2022-01-27 03:26:12,2022-01-27 03:35:36,Powstańcow Śląskich / Aleja Hallera,al. Armii Krajowej / Borowska,10
+53,136323471,651473,2022-01-27 03:26:27,2022-01-27 03:37:27,Stacyjna (Dworzec Mikołajów),Piłsudskiego 13 od Jump Hall,11
+54,136323494,57199,2022-01-27 03:35:25,2022-01-27 03:38:38,Bezpieczna / Obornicka,Bezpieczna/Jugosławiańska,4
+55,136323497,651494,2022-01-27 03:37:54,2022-01-27 03:43:51,Piłsudskiego 13 od Jump Hall,Dworzec Główny ,6
+56,136323382,57488,2022-01-27 02:54:12,2022-01-27 03:46:07,Wróblewskiego (Teki),Mińska / Stanisławowska,52
+57,136323538,650796,2022-01-27 03:50:21,2022-01-27 03:56:27,Bardzka (cmentarz),Gazowa / Międzyleska,7
+58,136323515,650863,2022-01-27 03:43:23,2022-01-27 03:57:19,Rondo Reagana,Walońska (Angel Poland Group),14
+59,136323626,651278,2022-01-27 04:30:53,2022-01-27 04:39:41,Grabiszyńska / Stalowa,Komandorska / Sanocka,9
+60,136323647,650303,2022-01-27 04:37:27,2022-01-27 04:45:12,Ślężna / Skierniewicka,Borowska (Uniw. Szpital Kliniczny),8
+61,136323670,57817,2022-01-27 04:46:23,2022-01-27 04:48:30,"Grochowa / Jemiołowa,",Żelazna / Pereca,3
+62,136323656,650285,2022-01-27 04:40:47,2022-01-27 04:54:20,Powstańcow Śląskich / Aleja Hallera,Borowska (Uniw. Szpital Kliniczny),14
+63,136323699,650624,2022-01-27 05:00:00,2022-01-27 05:03:14,Komandorska / Kamienna,Poza stacją,4
+64,136323709,650359,2022-01-27 05:01:55,2022-01-27 05:09:28,Legnicka (Park Magnolia),Fabryczna / Wagonowa,8
+65,136323700,650336,2022-01-27 05:00:17,2022-01-27 05:09:40,Czekoladowa / Wałbrzyska,Centrum Handlowe Auchan Bielany,10
+66,136323730,651537,2022-01-27 05:07:05,2022-01-27 05:14:51,Przyjaźni / Karkonoska,Ślężna / Skierniewicka,8
+67,136323764,651364,2022-01-27 05:14:08,2022-01-27 05:16:57,Krucza / Mielecka / Stalowa,Aleja Hallera / Mielecka,3
+68,136323750,650805,2022-01-27 05:11:40,2022-01-27 05:17:27,Zaporoska / Gajowicka,Powstańcow Śląskich / Aleja Hallera,6
+69,136323758,650573,2022-01-27 05:13:04,2022-01-27 05:17:30,Zwycięska / Agrestowa,al. Karkonoska / Jeździecka,5
+70,136323716,57325,2022-01-27 05:03:48,2022-01-27 05:18:01,Zwycięska / Agrestowa,Czekoladowa / Wałbrzyska,15
+71,136323740,651381,2022-01-27 05:08:43,2022-01-27 05:19:34,Wałbrzyska - pętla tramwajowa,Centrum Handlowe Auchan Bielany,11
+72,136323774,57526,2022-01-27 05:15:45,2022-01-27 05:20:35,Stacyjna (Dworzec Mikołajów),Fabryczna / Wagonowa,5
+73,136323796,651494,2022-01-27 05:19:46,2022-01-27 05:22:16,Dworzec Główny ,Świdnicka / Piłsudskiego (Hotel Scandic),3
+74,136323767,650892,2022-01-27 05:14:26,2022-01-27 05:23:59,Wita Stwosza / Szewska,Komandorska / Sanocka,10
+75,136323776,651194,2022-01-27 05:15:58,2022-01-27 05:24:29,Powstańcow Śląskich / Aleja Hallera,Grabiszyńska / Stalowa,9
+76,136323773,57284,2022-01-27 05:15:43,2022-01-27 05:24:38,Kamienna / Tomaszowska,Powstańcow Śląskich / Aleja Hallera,9
+77,136323772,650689,2022-01-27 05:15:40,2022-01-27 05:25:31,Pereca / Grabiszyńska,Grabiszyńska / Aleja Hallera,10
+78,136323820,650930,2022-01-27 05:25:02,2022-01-27 05:32:08,al. Armii Krajowej / Borowska,Ślężna / Skierniewicka,8
+79,136323781,651231,2022-01-27 05:16:37,2022-01-27 05:32:19,Kozanowska / Pilczycka,Traktatowa (przystanek kolejowy),16
+80,136323804,57457,2022-01-27 05:21:14,2022-01-27 05:32:40,Młodych Techników,Legnicka (Park Magnolia),12
+81,136323812,57960,2022-01-27 05:23:25,2022-01-27 05:35:59,Drzewieckiego / Dedala,Bystrzycka / Idzikowskiego,13
+82,136323658,650710,2022-01-27 04:40:57,2022-01-27 05:37:01,Opolska / Siemianowicka,Opolska / pętla tramwajowa,57
+83,136323810,57416,2022-01-27 05:23:06,2022-01-27 05:38:18,Traugutta / Kościuszki,al. Kochanowskiego / Kopernika,16
+84,136323829,650882,2022-01-27 05:27:00,2022-01-27 05:41:38,Drzewieckiego / Dedala,Fabryczna / Wagonowa,15
+85,136323694,650898,2022-01-27 04:57:05,2022-01-27 05:41:44,Kiełczowska,"Grochowa / Jemiołowa,",45
+86,136323860,57143,2022-01-27 05:33:06,2022-01-27 05:44:16,Pilczycka / Koszykarska,Legnicka / Wejherowska,12
+87,136323898,650874,2022-01-27 05:39:41,2022-01-27 05:46:49,Legnicka (Park Magnolia),Popowice,8
+88,136323900,650724,2022-01-27 05:39:59,2022-01-27 05:47:42,Drobnera / Dubois,pl. Orląt Lwowskich,8
+89,136323907,57457,2022-01-27 05:40:22,2022-01-27 05:48:38,Legnicka (Park Magnolia),Fabryczna / Wagonowa,9
+90,136323894,57416,2022-01-27 05:38:52,2022-01-27 05:49:18,al. Kochanowskiego / Kopernika,al. Brücknera / Kwidzyńska,11
+91,136323927,57991,2022-01-27 05:44:01,2022-01-27 05:50:32,Ślężna / Skierniewicka,Borowska (Uniw. Szpital Kliniczny),7
+92,136323874,57824,2022-01-27 05:35:31,2022-01-27 05:53:12,Kutrzeby / Hubala,Czekoladowa / Wałbrzyska,18
+93,136323960,57416,2022-01-27 05:49:52,2022-01-27 05:56:30,al. Brücknera / Kwidzyńska,Krzywoustego / Korona,7
+94,136324000,57770,2022-01-27 05:55:38,2022-01-27 05:57:24,Pereca / Grabiszyńska,Żelazna / Pereca,2
+95,136323977,650432,2022-01-27 05:52:41,2022-01-27 05:59:25,Krzycka / Aleja Karkonoska (Park Południowy),al. Karkonoska / Jeździecka,7
+96,136324047,651231,2022-01-27 06:02:45,2022-01-27 06:09:54,Traktatowa (przystanek kolejowy),Klecińska (Wrocław Grabiszyn),8
+97,136323962,650311,2022-01-27 05:50:09,2022-01-27 06:11:16,Okulickiego,Kwidzyńska pętla,22
+98,136324079,651492,2022-01-27 06:06:36,2022-01-27 06:11:55,Dworzec Główny ,Dworzec Główny ,6
+99,136324053,650838,2022-01-27 06:04:03,2022-01-27 06:13:20,Czekoladowa / Wałbrzyska,Aleja Bielany,10
+100,136324111,651541,2022-01-27 06:10:39,2022-01-27 06:14:32,Zwycięska / Ołtaszyńska,al. Karkonoska / Jeździecka,4
+101,136324128,651500,2022-01-27 06:12:29,2022-01-27 06:20:46,Kościuszki / Pułaskiego,Traugutta / Kościuszki,9
+102,136324215,650193,2022-01-27 06:22:11,2022-01-27 06:27:01,Drobnera / Plac Bema,Plac Powstańców Warszawy (Muzeum Narodowe),5
+103,136324224,650892,2022-01-27 06:23:36,2022-01-27 06:27:43,Komandorska / Sanocka,Plac Powstańców Śląskich,5
+104,136324089,57451,2022-01-27 06:08:45,2022-01-27 06:28:38,.RELOKACYJNA,Wróblewskiego (Teki),20
+105,136324238,650370,2022-01-27 06:24:53,2022-01-27 06:28:39,Świeradowska (Ferio Gaj ),Poza stacją,4
+106,136324140,651378,2022-01-27 06:13:59,2022-01-27 06:28:54,Buforowa - Vivaldiego,al. Armii Krajowej / Bardzka,15
+107,136324113,57767,2022-01-27 06:10:44,2022-01-27 06:30:47,Drzewieckiego / Dedala,pl. Orląt Lwowskich,21
+108,136324124,57526,2022-01-27 06:12:08,2022-01-27 06:31:37,Fabryczna / Wagonowa,Ślężna / Kamienna (Uniw. Ekonomiczny),20
+109,136324300,57025,2022-01-27 06:28:58,2022-01-27 06:37:17,Solskiego / al. Piastów,Czekoladowa / Wałbrzyska,9
+110,136324330,57744,2022-01-27 06:32:10,2022-01-27 06:37:47,Żmigrodzka / Broniewskiego,Bezpieczna / Obornicka,6
+111,136324420,650177,2022-01-27 06:38:39,2022-01-27 06:39:21,Wałbrzyska - pętla tramwajowa,Wałbrzyska - pętla tramwajowa,1
+112,136324274,650452,2022-01-27 06:27:31,2022-01-27 06:41:10,Grota-Roweckiego / Parafialna,Ślężna / Aleja Wiśniowa,14
+113,136324394,650514,2022-01-27 06:37:04,2022-01-27 06:43:12,Kościuszki / Pułaskiego,Na Grobli (PWr - Geocentrum),7
+114,136324492,650481,2022-01-27 06:42:56,2022-01-27 06:43:41,Gorlicka / Litewska,Gorlicka / Litewska,1
+115,136324416,651541,2022-01-27 06:38:24,2022-01-27 06:43:52,al. Karkonoska / Jeździecka,Zwycięska / Agrestowa,6
+116,136324343,57325,2022-01-27 06:33:32,2022-01-27 06:44:43,Czekoladowa / Wałbrzyska,Aleja Bielany,12
+117,136324287,651013,2022-01-27 06:27:55,2022-01-27 06:44:45,Sienkiewicza / Wyszyńskiego,Dyrekcyjna / Borowska (Wroclavia),17
+118,136324360,650041,2022-01-27 06:34:40,2022-01-27 06:45:32,Klecińska (Wrocław Grabiszyn),Poza stacją,11
+119,136324324,651378,2022-01-27 06:31:41,2022-01-27 06:46:21,al. Armii Krajowej / Bardzka,Aleja Hallera / Mielecka,15
+120,136324344,651114,2022-01-27 06:33:37,2022-01-27 06:46:36,Aleja Hallera / Mielecka,Powstańców Śląskich (Arkady Wrocławskie),13
+121,136324338,57770,2022-01-27 06:33:05,2022-01-27 06:47:02,Żelazna / Pereca,Plac Świętego Macieja / Trzebnicka,14
+122,136324376,651193,2022-01-27 06:35:48,2022-01-27 06:47:07,Zaporoska / Grabiszyńska,Śrubowa / Strzegomska,12
+123,136324434,57132,2022-01-27 06:39:33,2022-01-27 06:48:08,Kamienna / Tomaszowska,Komandorska / Sanocka,9
+124,136324482,57322,2022-01-27 06:42:11,2022-01-27 06:48:45,Lotnicza / Bajana,Legnicka / Wejherowska,7
+125,136324429,57507,2022-01-27 06:39:14,2022-01-27 06:50:20,Legnicka / Zachodnia ,Wita Stwosza / Szewska,12
+126,136324332,57526,2022-01-27 06:32:17,2022-01-27 06:50:28,Ślężna / Kamienna (Uniw. Ekonomiczny),Buforowa - Vivaldiego,19
+127,136324402,651391,2022-01-27 06:37:33,2022-01-27 06:52:10,Żelazna / Pereca,"Dworzec Główny, południe",15
+128,136324461,650029,2022-01-27 06:41:15,2022-01-27 06:52:32,Reymonta / Kleczkowska,Młodych Techników,12
+129,136324452,650389,2022-01-27 06:40:36,2022-01-27 06:52:48,"Grochowa / Jemiołowa,",Kamienna / Borowska (Aquapark),13
+130,136324614,650624,2022-01-27 06:50:26,2022-01-27 06:53:37,Poza stacją,Kamienna / Borowska (Aquapark),4
+131,136324485,651328,2022-01-27 06:42:33,2022-01-27 06:53:49,Poza stacją,Wyszyńskiego / Szczytnicka,12
+132,136324561,651114,2022-01-27 06:47:10,2022-01-27 06:57:10,Powstańców Śląskich (Arkady Wrocławskie),Plac Dominikański (Galeria Dominikańska),10
+133,136324581,650969,2022-01-27 06:48:26,2022-01-27 06:57:44,Kościuszki / Komuny Paryskiej / Zgodna,Kamienna / Borowska (Aquapark),10
+134,136324505,651274,2022-01-27 06:43:40,2022-01-27 06:58:37,Żelazna / Pereca,Plac Świętego Macieja / Trzebnicka,15
+135,136324587,57770,2022-01-27 06:48:50,2022-01-27 06:59:55,Plac Świętego Macieja / Trzebnicka,Berenta / Kasprowicza,12
+136,136324630,57768,2022-01-27 06:51:15,2022-01-27 07:01:06,Kozanowska / Pilczycka,Legnicka (Park Magnolia),10
+137,136324712,650550,2022-01-27 06:55:48,2022-01-27 07:01:25,Bacciarellego,Mickiewicza / pętla tramwajowa,6
+138,136324722,57806,2022-01-27 06:56:24,2022-01-27 07:02:17,Plac Powstańców Śląskich,Powstańców Śląskich/Orla,6
+139,136324675,57223,2022-01-27 06:53:42,2022-01-27 07:03:49,Legnicka (Park Magnolia),Poza stacją,11
+140,136324867,57337,2022-01-27 07:03:22,2022-01-27 07:04:11,Klecińska (Wrocław Grabiszyn),Klecińska (Wrocław Grabiszyn),1
+141,136324696,650370,2022-01-27 06:54:28,2022-01-27 07:04:43,Poza stacją,"Dworzec Główny, południe",11
+142,136324613,650892,2022-01-27 06:50:25,2022-01-27 07:04:53,Plac Powstańców Śląskich,Borowska (Uniw. Szpital Kliniczny),15
+143,136324786,651274,2022-01-27 06:59:10,2022-01-27 07:10:19,Plac Świętego Macieja / Trzebnicka,Berenta / Kasprowicza,12
+144,136324914,650818,2022-01-27 07:05:19,2022-01-27 07:10:25,Poza stacją,Grota-Roweckiego / Parafialna,6
+145,136324979,650406,2022-01-27 07:07:37,2022-01-27 07:11:09,Racławicka / Rymarska,Powstańców Śląskich/Orla,4
+146,136324736,651500,2022-01-27 06:56:54,2022-01-27 07:11:43,Traugutta / Kościuszki,Łukasiewicza / Smoluchowskiego (PWr),15
+147,136324931,57968,2022-01-27 07:06:02,2022-01-27 07:12:44,Zaporoska / Wielka / Krucza,Piłsudskiego 13 od Jump Hall,7
+148,136324919,57852,2022-01-27 07:05:34,2022-01-27 07:13:07,Pilczycka / Kozanowska,Lotnicza / Bajana,8
+149,136325012,651390,2022-01-27 07:08:43,2022-01-27 07:13:34,Prochowicka / Dolnobrzeska,Leśnica - pętla tramwajowa,5
+150,136324902,650234,2022-01-27 07:04:41,2022-01-27 07:15:25,Klecińska (Wrocław Grabiszyn),Otyńska,11
+151,136324971,57320,2022-01-27 07:07:12,2022-01-27 07:15:32,Krucza / Mielecka / Stalowa,Zaporoska / Grabiszyńska,9
+152,136324871,57194,2022-01-27 07:03:27,2022-01-27 07:15:36,Klecińska (Wrocław Grabiszyn),Klecińska / Duńska,13
+153,136325094,651391,2022-01-27 07:11:49,2022-01-27 07:16:11,"Dworzec Główny, południe","Dworzec Główny, południe",5
+154,136325015,650311,2022-01-27 07:08:46,2022-01-27 07:17:15,Kwidzyńska pętla,3M,9
+155,136325165,650452,2022-01-27 07:14:41,2022-01-27 07:19:09,Ślężna / Aleja Wiśniowa,Powstańcow Śląskich / Aleja Hallera,5
+156,136325270,57552,2022-01-27 07:18:01,2022-01-27 07:19:28,pl. Powstańców Wielkopolskich,pl. Powstańców Wielkopolskich,2
+157,136325003,650370,2022-01-27 07:08:21,2022-01-27 07:21:52,"Dworzec Główny, południe",al. Armii Krajowej / Tarnogajska,14
+158,136325241,651275,2022-01-27 07:16:54,2022-01-27 07:23:00,Strzegomska / Estońska,Rogowska / Zemska,7
+159,136325239,57672,2022-01-27 07:16:53,2022-01-27 07:23:20,Racławicka / Rymarska,Powstańców Śląskich/Orla,7
+160,136325181,650312,2022-01-27 07:15:04,2022-01-27 07:23:50,Skarbowców / Wietrzna,Aleja Hallera / Mielecka,9
+161,136325494,650852,2022-01-27 07:24:33,2022-01-27 07:25:01,Aleja Kromera,Aleja Kromera,1
+162,136325209,651013,2022-01-27 07:15:55,2022-01-27 07:25:26,Dyrekcyjna / Borowska (Wroclavia),al. Armii Krajowej / Borowska,10
+163,136325349,650250,2022-01-27 07:20:22,2022-01-27 07:26:48,Zwycięska / Agrestowa,al. Karkonoska / Jeździecka,7
+164,136325025,650251,2022-01-27 07:09:20,2022-01-27 07:27:14,Grabiszyńska / Magazynierska (Corte Verona),Na Ostatnim Groszu,18
+165,136325288,651468,2022-01-27 07:18:28,2022-01-27 07:29:30,Plac Powstańców Śląskich,al. Armii Krajowej / Borowska,12
+166,136325448,651252,2022-01-27 07:23:17,2022-01-27 07:30:08,Rogowska/Sukielicka,Rogowska/Sukielicka,7
+167,136325546,651370,2022-01-27 07:26:32,2022-01-27 07:30:12,Zaporoska / Wielka / Krucza,Plac Powstańców Śląskich,4
+168,136325731,651492,2022-01-27 07:32:44,2022-01-27 07:33:12,Dworzec Główny ,Dworzec Główny ,1
+169,136325526,650792,2022-01-27 07:25:48,2022-01-27 07:35:23,Aleja Kromera,Nowowiejska / Górnickiego,10
+170,136325024,650214,2022-01-27 07:09:20,2022-01-27 07:35:31,Borowska (Uniw. Szpital Kliniczny),Radeckiego / Marcinkowskiego (Uniw. Medyczny - CNIM),27
+171,136325444,650285,2022-01-27 07:23:12,2022-01-27 07:37:28,Borowska (Uniw. Szpital Kliniczny),"Dworzec Główny, południe",15
+172,136325667,57191,2022-01-27 07:31:03,2022-01-27 07:37:57,Walońska (Angel Poland Group),"Dworzec Główny, południe",7
+173,136325573,650251,2022-01-27 07:27:45,2022-01-27 07:38:05,Na Ostatnim Groszu,Pilczycka / Kozanowska,11
+174,136325401,57284,2022-01-27 07:21:48,2022-01-27 07:38:21,Powstańcow Śląskich / Aleja Hallera,Śrubowa / Strzegomska,17
+175,136325496,651345,2022-01-27 07:24:34,2022-01-27 07:38:28,Pilczycka / Koszykarska,Poza stacją,14
+176,136325487,651296,2022-01-27 07:24:19,2022-01-27 07:39:32,Rogowska/Sukielicka,Rogowska/Sukielicka,16
+177,136325732,57362,2022-01-27 07:32:44,2022-01-27 07:39:58,Kutrzeby / Hubala,Grota-Roweckiego / Parafialna,8
+178,136325855,57759,2022-01-27 07:36:10,2022-01-27 07:40:48,Piławska,Borowska (Uniw. Szpital Kliniczny),5
+179,136325895,650324,2022-01-27 07:37:03,2022-01-27 07:41:49,Ślężna / Kamienna (Uniw. Ekonomiczny),"Dworzec Główny, południe",5
+180,136325728,651224,2022-01-27 07:32:42,2022-01-27 07:42:03,Grabiszyńska / Magazynierska (Corte Verona),Zaporoska / Wielka / Krucza,10
+181,136325598,651350,2022-01-27 07:28:50,2022-01-27 07:42:17,Skarbowców / Wietrzna,Aleja Hallera / Mielecka,14
+182,136325634,57519,2022-01-27 07:30:08,2022-01-27 07:42:23,Świeradowska (Ferio Gaj ),Grota-Roweckiego/Iwaszkiewicza,13
+183,136325657,650818,2022-01-27 07:30:49,2022-01-27 07:42:23,Grota-Roweckiego / Parafialna,al. Armii Krajowej / Borowska,12
+184,136326092,650783,2022-01-27 07:42:04,2022-01-27 07:42:27,Zwycięska / Ołtaszyńska,Zwycięska / Ołtaszyńska,1
+185,136325934,650009,2022-01-27 07:38:11,2022-01-27 07:42:57,Traugutta / Pułaskiego,Plac Dominikański (Galeria Dominikańska),5
+186,136326021,650768,2022-01-27 07:40:45,2022-01-27 07:43:02,Nowowiejska / Górnickiego,Nowowiejska / Wyszyńskiego,3
+187,136325352,650750,2022-01-27 07:20:26,2022-01-27 07:43:46,Tyrmanda / Trawowa,Solskiego / al. Piastów,24
+188,136325918,650864,2022-01-27 07:37:45,2022-01-27 07:44:53,Kraszewskiego / Trzebnicka,Plac Uniwersytecki (UWr),8
+189,136325974,650476,2022-01-27 07:39:23,2022-01-27 07:46:32,Poniatowskiego / Oleśnicka,Wita Stwosza / Szewska,8
+190,136326157,650594,2022-01-27 07:43:27,2022-01-27 07:46:35,Zwycięska / Ołtaszyńska,al. Karkonoska / Jeździecka,4
+191,136326038,57803,2022-01-27 07:41:03,2022-01-27 07:46:37,Fosa Miejska ,Rynek,6
+192,136325992,650303,2022-01-27 07:39:52,2022-01-27 07:46:39,Borowska (Uniw. Szpital Kliniczny),Poza stacją,7
+193,136325987,651145,2022-01-27 07:39:43,2022-01-27 07:46:46,Plac Świętego Macieja / Trzebnicka,Wita Stwosza / Szewska,8
+194,136326145,651328,2022-01-27 07:43:08,2022-01-27 07:47:00,Wyszyńskiego / Szczytnicka,Sienkiewicza / Wyszyńskiego,4
+195,136325969,650840,2022-01-27 07:39:21,2022-01-27 07:47:20,Nowowiejska / Górnickiego,al. Kochanowskiego / Kopernika,8
+196,136326108,650193,2022-01-27 07:42:22,2022-01-27 07:48:35,Plac Powstańców Warszawy (Muzeum Narodowe),Traugutta / Pułaskiego,7
+197,136325773,651226,2022-01-27 07:34:10,2022-01-27 07:48:45,Marca Polo (Olimpia Port),al. Brücknera / Kwidzyńska,15
+198,136325946,650629,2022-01-27 07:38:25,2022-01-27 07:48:55,Zaporoska / Grabiszyńska,Powstańcow Śląskich / Aleja Hallera,11
+199,136326109,650724,2022-01-27 07:42:22,2022-01-27 07:49:16,pl. Orląt Lwowskich,Wita Stwosza / Szewska,7
+200,136325774,57144,2022-01-27 07:34:11,2022-01-27 07:49:17,Klecińska / Duńska,Legnicka (Park Magnolia),16
+201,136325761,650019,2022-01-27 07:33:40,2022-01-27 07:49:38,Tyrmanda / Trawowa,Fabryczna / Wagonowa,16
+202,136325952,651009,2022-01-27 07:38:39,2022-01-27 07:50:04,Plac Świętego Macieja / Trzebnicka,Plac Kościuszki (Renoma),12
+203,136326136,57191,2022-01-27 07:42:59,2022-01-27 07:51:14,"Dworzec Główny, południe",Plac Powstańców Śląskich,9
+204,136326373,651468,2022-01-27 07:48:07,2022-01-27 07:51:19,al. Armii Krajowej / Borowska,Borowska (Uniw. Szpital Kliniczny),4
+205,136326328,650052,2022-01-27 07:46:54,2022-01-27 07:51:53,Czekoladowa / Wałbrzyska,Wałbrzyska - pętla tramwajowa,5
+206,136326300,57499,2022-01-27 07:46:22,2022-01-27 07:54:02,Poza stacją,Wyszyńskiego / Szczytnicka,8
+207,136326440,650012,2022-01-27 07:49:23,2022-01-27 07:54:37,Nowowiejska / Wyszyńskiego,Aleja Kromera,6
+208,136326409,651013,2022-01-27 07:48:51,2022-01-27 07:56:06,al. Armii Krajowej / Borowska,Komandorska / Kamienna,8
+209,136326388,650452,2022-01-27 07:48:25,2022-01-27 07:57:37,Powstańcow Śląskich / Aleja Hallera,Kamienna / Borowska (Aquapark),10
+210,136326829,650688,2022-01-27 07:57:29,2022-01-27 07:58:47,Klecińska / Duńska,Klecińska / Duńska,2
+211,136325521,650061,2022-01-27 07:25:43,2022-01-27 07:59:28,Plac Powstańców Śląskich,Nowowiejska / Wyszyńskiego,34
+212,136326013,651388,2022-01-27 07:40:27,2022-01-27 08:00:25,Grota-Roweckiego / Parafialna,Krakowska / Leroy Merlin,20
+213,136326586,57320,2022-01-27 07:52:24,2022-01-27 08:00:35,Zaporoska / Grabiszyńska,Dworzec Główny ,9
+214,136326919,650177,2022-01-27 07:59:09,2022-01-27 08:00:39,Jagodzińska / Buforowa,Jagodzińska / Buforowa,2
+215,136326249,650864,2022-01-27 07:45:36,2022-01-27 08:00:42,Plac Uniwersytecki (UWr),Ślężna / Aleja Wiśniowa,16
+216,136326833,651473,2022-01-27 07:57:35,2022-01-27 08:01:37,Piłsudskiego 13 od Jump Hall,Plac Jana Pawła II (Akademia Muzyczna),5
+217,136326078,650246,2022-01-27 07:41:51,2022-01-27 08:01:47,Grota-Roweckiego / Parafialna,Plac Dominikański (Galeria Dominikańska),20
+218,136326382,650818,2022-01-27 07:48:21,2022-01-27 08:04:01,al. Armii Krajowej / Borowska,Poza stacją,16
+219,136326510,651155,2022-01-27 07:50:41,2022-01-27 08:04:27,Klecińska / Duńska,Grabiszyńska / Magazynierska (Corte Verona),14
+220,136326918,57194,2022-01-27 07:59:04,2022-01-27 08:05:24,Klecińska / Duńska,Klecińska (Wrocław Grabiszyn),7
+221,136327214,57836,2022-01-27 08:06:41,2022-01-27 08:09:46,Grota-Roweckiego / Parafialna,Grota-Roweckiego/Iwaszkiewicza,4
+222,136326916,57460,2022-01-27 07:59:03,2022-01-27 08:09:49,Poza stacją,Poza stacją,11
+223,136327037,651391,2022-01-27 08:02:11,2022-01-27 08:10:49,"Dworzec Główny, południe",Szczęśliwa (Sky Tower),9
+224,136326774,57468,2022-01-27 07:56:16,2022-01-27 08:12:15,Grabiszyńska / Stalowa,Poza stacją,16
+225,136327026,650312,2022-01-27 08:01:44,2022-01-27 08:12:21,Aleja Hallera / Mielecka,al. Armii Krajowej / Borowska,11
+226,136326813,57191,2022-01-27 07:57:06,2022-01-27 08:12:46,Plac Powstańców Śląskich,Na Grobli (PWr - Geocentrum),16
+227,136327177,57004,2022-01-27 08:05:21,2022-01-27 08:13:12,Klecińska / Duńska,Fabryczna / Wagonowa,8
+228,136327147,57112,2022-01-27 08:04:37,2022-01-27 08:15:28,Lotnicza / Bajana,Lotnicza / Na Ostatnim Groszu,11
+229,136327360,57940,2022-01-27 08:10:15,2022-01-27 08:15:33,Traugutta / Pułaskiego,Plac Grunwaldzki / Polaka,6
+230,136327591,650603,2022-01-27 08:15:51,2022-01-27 08:16:14,Berenta / Kasprowicza,Berenta / Kasprowicza,1
+231,136327667,57405,2022-01-27 08:17:54,2022-01-27 08:18:28,Osobowicka / Ostrowska,Osobowicka / Ostrowska,1
+232,136327484,650624,2022-01-27 08:13:23,2022-01-27 08:19:14,Kamienna / Borowska (Aquapark),Ślężna / Aleja Wiśniowa,6
+233,136327048,57195,2022-01-27 08:02:26,2022-01-27 08:19:42,Reymonta / Kleczkowska,Poza stacją,18
+234,136327245,57499,2022-01-27 08:07:20,2022-01-27 08:20:39,Wyszyńskiego / Szczytnicka,Poza stacją,14
+235,136327148,650452,2022-01-27 08:04:38,2022-01-27 08:21:16,Kamienna / Borowska (Aquapark),Poza stacją,17
+236,136327467,57468,2022-01-27 08:12:47,2022-01-27 08:21:32,Poza stacją,Borowska (Uniw. Szpital Kliniczny),9
+237,136327447,57592,2022-01-27 08:12:26,2022-01-27 08:21:41,Legnicka / Wejherowska,Drzewieckiego / Dedala,10
+238,136327560,651391,2022-01-27 08:15:07,2022-01-27 08:23:19,Szczęśliwa (Sky Tower),Dyrekcyjna / Borowska (Wroclavia),9
+239,136327738,57314,2022-01-27 08:19:29,2022-01-27 08:23:53,Osobowicka / Ostrowska,Osobowicka - pętla tramwajowa,5
+240,136327556,651009,2022-01-27 08:14:59,2022-01-27 08:24:32,Plac Kościuszki (Renoma),Drobnera / Dubois,10
+241,136327757,650792,2022-01-27 08:19:59,2022-01-27 08:24:36,Nowowiejska / Górnickiego,Nowowiejska / Górnickiego,5
+242,136327446,57269,2022-01-27 08:12:24,2022-01-27 08:25:18,Kościuszki / Komuny Paryskiej / Zgodna,Dworzec Główny ,13
+243,136327801,650061,2022-01-27 08:21:15,2022-01-27 08:25:32,Nowowiejska / Wyszyńskiego,Wyszyńskiego / Szczytnicka,5
+244,136327823,650452,2022-01-27 08:21:54,2022-01-27 08:26:49,Poza stacją,Nowowiejska / Wyszyńskiego,5
+245,136327524,57759,2022-01-27 08:14:20,2022-01-27 08:27:18,Borowska (Uniw. Szpital Kliniczny),Grota-Roweckiego / Parafialna,13
+246,136327619,57217,2022-01-27 08:16:31,2022-01-27 08:27:42,Nowowiejska / Górnickiego,Drobnera / Plac Bema,12
+247,136327797,650860,2022-01-27 08:21:11,2022-01-27 08:28:13,Pilczycka / Kozanowska,Lotnicza / Na Ostatnim Groszu,8
+248,136328080,650724,2022-01-27 08:27:48,2022-01-27 08:28:16,Wita Stwosza / Szewska,Wita Stwosza / Szewska,1
+249,136327627,651274,2022-01-27 08:16:37,2022-01-27 08:28:33,Berenta / Kasprowicza,Kamieńskiego,12
+250,136327576,651364,2022-01-27 08:15:28,2022-01-27 08:29:46,Aleja Hallera / Mielecka,pl. Orląt Lwowskich,15
+251,136327771,650969,2022-01-27 08:20:22,2022-01-27 08:30:02,Kamienna / Borowska (Aquapark),Zaporoska / Wielka / Krucza,10
+252,136327606,650039,2022-01-27 08:16:17,2022-01-27 08:34:17,Wałbrzyska - pętla tramwajowa,Wałbrzyska - pętla tramwajowa,18
+253,136328056,57768,2022-01-27 08:27:13,2022-01-27 08:35:54,Legnicka (Park Magnolia),Fabryczna / Wagonowa,9
+254,136327805,650700,2022-01-27 08:21:25,2022-01-27 08:36:08,Czekoladowa / Wałbrzyska,Racławicka / Rymarska,15
+255,136328261,651471,2022-01-27 08:31:53,2022-01-27 08:37:17,Powstańców Śląskich (Arkady Wrocławskie),Rynek,6
+256,136328060,650406,2022-01-27 08:27:14,2022-01-27 08:37:33,Powstańców Śląskich/Orla,Plac Powstańców Śląskich,11
+257,136328287,651193,2022-01-27 08:32:24,2022-01-27 08:37:47,Śrubowa / Strzegomska,pl. Orląt Lwowskich,6
+258,136328198,57767,2022-01-27 08:30:20,2022-01-27 08:38:13,pl. Orląt Lwowskich,Stacyjna (Dworzec Mikołajów),8
+259,136328089,57202,2022-01-27 08:27:55,2022-01-27 08:38:30,Zwycięska / Ołtaszyńska,Przyjaźni / Karkonoska,11
+260,136328083,57362,2022-01-27 08:27:49,2022-01-27 08:39:03,Grota-Roweckiego / Parafialna,al. Karkonoska / Jeździecka,12
+261,136328063,650768,2022-01-27 08:27:17,2022-01-27 08:39:48,Nowowiejska / Wyszyńskiego,al. Brücknera / Kwidzyńska,13
+262,136328049,57144,2022-01-27 08:27:09,2022-01-27 08:41:05,Legnicka (Park Magnolia),Szczęśliwa (Sky Tower),14
+263,136328680,651494,2022-01-27 08:40:24,2022-01-27 08:41:58,Świdnicka / Piłsudskiego (Hotel Scandic),Powstańców Śląskich (Arkady Wrocławskie),2
+264,136328759,651489,2022-01-27 08:42:10,2022-01-27 08:42:47,Powstańców Śląskich (Arkady Wrocławskie),Powstańców Śląskich (Arkady Wrocławskie),1
+265,136328371,650285,2022-01-27 08:34:09,2022-01-27 08:43:10,"Dworzec Główny, południe",Plac Powstańców Śląskich,10
+266,136328167,57269,2022-01-27 08:29:32,2022-01-27 08:43:14,Dworzec Główny ,Plac Jana Pawła II (Akademia Muzyczna),14
+267,136328826,651492,2022-01-27 08:43:14,2022-01-27 08:43:38,Dworzec Główny ,Dworzec Główny ,1
+268,136328072,651009,2022-01-27 08:27:35,2022-01-27 08:44:37,Drobnera / Dubois,Nowowiejska / Wyszyńskiego,18
+269,136328387,650324,2022-01-27 08:34:26,2022-01-27 08:46:26,"Dworzec Główny, południe",Szczęśliwa (Sky Tower),12
+270,136328216,651391,2022-01-27 08:30:48,2022-01-27 08:47:03,Dyrekcyjna / Borowska (Wroclavia),Sienkiewicza / Wyszyńskiego,17
+271,136328647,650521,2022-01-27 08:39:47,2022-01-27 08:47:37,Nyska / Jesionowa,"Dworzec Główny, południe",8
+272,136328548,650177,2022-01-27 08:37:43,2022-01-27 08:48:39,Jagodzińska / Buforowa,Gazowa / Międzyleska,11
+273,136328833,57320,2022-01-27 08:43:30,2022-01-27 08:50:48,Dworzec Główny ,Piłsudskiego 13 od Jump Hall,8
+274,136328116,651145,2022-01-27 08:28:30,2022-01-27 08:52:15,Wita Stwosza / Szewska,Mickiewicza / pętla tramwajowa,24
+275,136328474,651069,2022-01-27 08:36:15,2022-01-27 08:52:29,Grabiszyńska / Stalowa,Ślężna / Aleja Wiśniowa,17
+276,136328685,57852,2022-01-27 08:40:35,2022-01-27 08:53:06,Lotnicza / Bajana,Legnicka (Park Magnolia),13
+277,136328227,57390,2022-01-27 08:31:05,2022-01-27 08:53:55,Poleska / Litewska,Poza stacją,23
+278,136329283,651230,2022-01-27 08:53:18,2022-01-27 08:54:46,Żeromskiego / Daszyńskiego,Żeromskiego / Daszyńskiego,2
+279,136328914,651009,2022-01-27 08:45:10,2022-01-27 08:54:49,Nowowiejska / Wyszyńskiego,Drobnera / Dubois,10
+280,136328813,650385,2022-01-27 08:42:58,2022-01-27 08:56:14,Powstańców Śląskich (Arkady Wrocławskie),Borowska (Uniw. Szpital Kliniczny),14
+281,136328850,57387,2022-01-27 08:43:43,2022-01-27 08:56:57,Kurkowa / Dubois,Traugutta / Pułaskiego,14
+282,136328109,57214,2022-01-27 08:28:17,2022-01-27 08:57:18,Lotnicza / Bajana,"Dworzec Główny, południe",30
+283,136329015,650223,2022-01-27 08:47:16,2022-01-27 08:57:51,Kościuszki / Komuny Paryskiej / Zgodna,Poza stacją,11
+284,136329299,651013,2022-01-27 08:53:44,2022-01-27 08:59:34,Komandorska / Kamienna,Kamienna / Borowska (Aquapark),6
+285,136329291,57968,2022-01-27 08:53:34,2022-01-27 09:00:50,Piłsudskiego 13 od Jump Hall,Dworzec Główny ,8
+286,136329385,57466,2022-01-27 08:55:33,2022-01-27 09:00:58,Walońska (Angel Poland Group),Wyszyńskiego / Szczytnicka,6
+287,136329059,57478,2022-01-27 08:48:26,2022-01-27 09:01:36,Poza stacją,Poza stacją,14
+288,136329280,651069,2022-01-27 08:53:14,2022-01-27 09:01:45,Ślężna / Aleja Wiśniowa,Borowska (Uniw. Szpital Kliniczny),9
+289,136329240,651537,2022-01-27 08:52:27,2022-01-27 09:02:43,Ślężna / Skierniewicka,Wałbrzyska - pętla tramwajowa,11
+290,136329438,650193,2022-01-27 08:57:00,2022-01-27 09:05:48,Traugutta / Pułaskiego,Rynek,9
+291,136329199,57095,2022-01-27 08:51:26,2022-01-27 09:07:59,Bezpieczna/Jugosławiańska,Legnicka / Wejherowska,17
+292,136329262,651132,2022-01-27 08:52:53,2022-01-27 09:08:40,Jedności Narodowej / Wyszyńskiego,Poza stacją,16
+293,136329676,57387,2022-01-27 09:03:15,2022-01-27 09:11:15,Traugutta / Pułaskiego,Rondo Reagana,8
+294,136329940,651473,2022-01-27 09:10:57,2022-01-27 09:13:49,Plac Jana Pawła II (Akademia Muzyczna),pl. Orląt Lwowskich,3
+295,136329852,651308,2022-01-27 09:08:23,2022-01-27 09:14:31,Legnicka / Wejherowska,Popowice,7
+296,136329346,57621,2022-01-27 08:54:43,2022-01-27 09:15:11,Buforowa - Vivaldiego,Kamienna / Borowska (Aquapark),21
+297,136329998,651278,2022-01-27 09:12:31,2022-01-27 09:16:09,Komandorska / Sanocka,Komandorska / Kamienna,4
+298,136329541,651230,2022-01-27 08:59:24,2022-01-27 09:16:53,Żeromskiego / Daszyńskiego,Traugutta / Pułaskiego,18
+299,136329793,57911,2022-01-27 09:06:51,2022-01-27 09:19:44,Stabłowicka / Główna ,Stabłowicka / Główna ,13
+300,136330075,57339,2022-01-27 09:14:58,2022-01-27 09:20:03,pl. Orląt Lwowskich,Powstańców Śląskich (Arkady Wrocławskie),6
+301,136330059,57357,2022-01-27 09:14:31,2022-01-27 09:21:20,pl. Orląt Lwowskich,Fosa Miejska ,7
+302,136330089,650009,2022-01-27 09:15:19,2022-01-27 09:21:53,Plac Dominikański (Galeria Dominikańska),Kazimierza Wielkiego (Helios),7
+303,136329773,650783,2022-01-27 09:06:15,2022-01-27 09:23:08,Zwycięska / Ołtaszyńska,Centrum Handlowe Auchan Bielany,17
+304,136330239,650324,2022-01-27 09:19:53,2022-01-27 09:27:53,Szczęśliwa (Sky Tower),Szczęśliwa (Sky Tower),8
+305,136330288,650629,2022-01-27 09:20:58,2022-01-27 09:28:03,Powstańcow Śląskich / Aleja Hallera,Poza stacją,8
+306,136330473,57466,2022-01-27 09:27:06,2022-01-27 09:33:10,Wyszyńskiego / Szczytnicka,Plac Dominikański (Galeria Dominikańska),7
+307,136329664,57331,2022-01-27 09:02:52,2022-01-27 09:35:10,Pilczycka / Koszykarska,Pilczycka / Koszykarska,33
+308,136329714,650718,2022-01-27 09:04:39,2022-01-27 09:37:45,Drobnera / Dubois,Drobnera / Dubois,34
+309,136330684,650969,2022-01-27 09:32:53,2022-01-27 09:39:53,Zaporoska / Wielka / Krucza,Plac Kościuszki (Renoma),7
+310,136330715,650863,2022-01-27 09:33:40,2022-01-27 09:41:14,Walońska (Angel Poland Group),Wita Stwosza / Szewska,8
+311,136330476,650521,2022-01-27 09:27:17,2022-01-27 09:41:27,"Dworzec Główny, południe","Grochowa / Jemiołowa,",15
+312,136330812,57916,2022-01-27 09:36:17,2022-01-27 09:41:42,Aleja Kromera,Jedności Narodowej / Wyszyńskiego,6
+313,136330871,57507,2022-01-27 09:38:00,2022-01-27 09:43:21,Wita Stwosza / Szewska,Plac Kościuszki (Renoma),6
+314,136330675,650452,2022-01-27 09:32:37,2022-01-27 09:43:23,Nowowiejska / Wyszyńskiego,Janiszewskiego (PWr),11
+315,136330837,650129,2022-01-27 09:37:07,2022-01-27 09:44:24,Poza stacją,3M,8
+316,136330899,57320,2022-01-27 09:38:44,2022-01-27 09:45:54,Piłsudskiego 13 od Jump Hall,Kołłątaja / Podwale,8
+317,136330614,651391,2022-01-27 09:30:59,2022-01-27 09:46:14,Sienkiewicza / Wyszyńskiego,Żmigrodzka / Broniewskiego,16
+318,136330884,57357,2022-01-27 09:38:23,2022-01-27 09:47:08,Fosa Miejska ,Plac Świętego Macieja / Trzebnicka,9
+319,136330973,650538,2022-01-27 09:40:50,2022-01-27 09:48:13,Pilczycka (Stadion Miejski),Lotnicza / Metalowców,8
+320,136330935,650898,2022-01-27 09:39:41,2022-01-27 09:49:06,"Grochowa / Jemiołowa,",Powstańców Śląskich (Arkady Wrocławskie),10
+321,136330642,57579,2022-01-27 09:31:41,2022-01-27 09:49:35,Nowowiejska / Górnickiego,Rakowiecka,18
+322,136330792,57786,2022-01-27 09:35:35,2022-01-27 09:50:47,Reymonta / Kleczkowska,Wita Stwosza / Szewska,16
+323,136331139,650863,2022-01-27 09:45:04,2022-01-27 09:50:54,Wita Stwosza / Szewska,Drobnera / Plac Bema,6
+324,136329448,651009,2022-01-27 08:57:12,2022-01-27 09:54:20,Drobnera / Dubois,Plac Jana Pawła II (Akademia Muzyczna),58
+325,136331546,57770,2022-01-27 09:56:45,2022-01-27 09:57:13,Berenta / Kasprowicza,Berenta / Kasprowicza,1
+326,136331574,650007,2022-01-27 09:57:26,2022-01-27 10:00:43,Berenta / Kasprowicza,Berenta / Kasprowicza,4
+327,136331187,650724,2022-01-27 09:46:28,2022-01-27 10:00:52,Wita Stwosza / Szewska,Poza stacją,15
+328,136331418,650864,2022-01-27 09:53:17,2022-01-27 10:01:28,Ślężna / Aleja Wiśniowa,Szczęśliwa (Sky Tower),9
+329,136211847,57116,2022-01-24 14:15:05,2022-01-27 10:06:23,Wita Stwosza / Szewska,Poza stacją,4072
+330,136331765,650061,2022-01-27 10:03:33,2022-01-27 10:06:55,Wyszyńskiego / Szczytnicka,Rondo Reagana,4
+331,136331538,651211,2022-01-27 09:56:31,2022-01-27 10:07:19,Hubska / Prudnicka,Kołłątaja / Podwale,11
+332,136331628,650406,2022-01-27 09:59:01,2022-01-27 10:07:38,Plac Powstańców Śląskich,Kamienna / Borowska (Aquapark),9
+333,136331789,650510,2022-01-27 10:04:17,2022-01-27 10:09:17,Kamieńskiego / Jutrosińska,Bałtycka / Żmigrodzka,5
+334,136331483,651009,2022-01-27 09:54:53,2022-01-27 10:11:11,Plac Jana Pawła II (Akademia Muzyczna),Drobnera / Dubois,17
+335,136331578,650892,2022-01-27 09:57:39,2022-01-27 10:12:07,Borowska (Uniw. Szpital Kliniczny),Plac Powstańców Śląskich,15
+336,136331670,57387,2022-01-27 10:00:11,2022-01-27 10:12:17,Rondo Reagana,Dworzec Główny ,13
+337,136331990,57466,2022-01-27 10:11:27,2022-01-27 10:14:27,Plac Dominikański (Galeria Dominikańska),Szewska / Kazimierza Wielkiego ,3
+338,136331640,650718,2022-01-27 09:59:25,2022-01-27 10:18:01,Drobnera / Dubois,Drobnera / Dubois,19
+339,136331214,650637,2022-01-27 09:47:06,2022-01-27 10:20:14,Żmigrodzka / Marino,Osobowicka / Ostrowska,34
+340,136331907,651287,2022-01-27 10:08:11,2022-01-27 10:21:45,Rondo Reagana,Wita Stwosza / Szewska,14
+341,136332128,650285,2022-01-27 10:16:40,2022-01-27 10:25:33,Plac Powstańców Śląskich,Plac Kościuszki (Renoma),9
+342,136331881,651224,2022-01-27 10:07:32,2022-01-27 10:25:36,Zaporoska / Wielka / Krucza,Zaporoska / Wielka / Krucza,19
+343,136332188,650874,2022-01-27 10:19:02,2022-01-27 10:27:32,Popowice,Legnicka (Park Magnolia),9
+344,136331808,650099,2022-01-27 10:04:49,2022-01-27 10:28:28,Grota-Roweckiego/Iwaszkiewicza,Komandorska / Kamienna,24
+345,136332209,650142,2022-01-27 10:20:01,2022-01-27 10:29:30,Walońska (Angel Poland Group),Fosa Miejska ,10
+346,136332270,57092,2022-01-27 10:22:36,2022-01-27 10:30:16,Nyska / Jesionowa,"Dworzec Główny, południe",8
+347,136332187,650864,2022-01-27 10:19:00,2022-01-27 10:30:17,Szczęśliwa (Sky Tower),Kamienna / Borowska (Aquapark),12
+348,136331731,57522,2022-01-27 10:02:23,2022-01-27 10:31:15,Bałtycka / Żmigrodzka,Rynek,29
+349,136332437,651370,2022-01-27 10:28:25,2022-01-27 10:32:02,Plac Powstańców Śląskich,Szczęśliwa (Sky Tower),4
+350,136332325,57214,2022-01-27 10:24:24,2022-01-27 10:32:50,"Dworzec Główny, południe",al. Armii Krajowej / Borowska,9
+351,136332291,651009,2022-01-27 10:23:17,2022-01-27 10:36:23,Drobnera / Dubois,Drobnera / Dubois,14
+352,136331637,651328,2022-01-27 09:59:19,2022-01-27 10:36:57,Sienkiewicza / Wyszyńskiego,Grabiszyńska / Magazynierska (Corte Verona),38
+353,136332538,651468,2022-01-27 10:32:03,2022-01-27 10:39:41,Borowska (Uniw. Szpital Kliniczny),al. Armii Krajowej / Bardzka,8
+354,136331070,650009,2022-01-27 09:43:30,2022-01-27 10:40:34,Kazimierza Wielkiego (Helios),Rynek,58
+355,136332349,650718,2022-01-27 10:25:24,2022-01-27 10:41:17,Drobnera / Dubois,Poza stacją,16
+356,136332314,57968,2022-01-27 10:24:05,2022-01-27 10:42:13,Dworzec Główny ,Legnicka (Park Magnolia),19
+357,136332305,651391,2022-01-27 10:23:48,2022-01-27 10:44:45,Żmigrodzka / Broniewskiego,Plac Kościuszki (Renoma),21
+358,136332494,651278,2022-01-27 10:30:27,2022-01-27 10:45:51,Komandorska / Kamienna,Plac Legionów,16
+359,136332853,57968,2022-01-27 10:42:48,2022-01-27 10:47:50,Legnicka (Park Magnolia),Lotnicza / Na Ostatnim Groszu,6
+360,136332716,57852,2022-01-27 10:38:30,2022-01-27 10:48:41,Legnicka (Park Magnolia),Plac Jana Pawła II (Akademia Muzyczna),11
+361,136332825,650718,2022-01-27 10:41:49,2022-01-27 10:50:02,Poza stacją,Drobnera / Dubois,9
+362,136332974,651388,2022-01-27 10:47:03,2022-01-27 10:53:16,Krakowska / Leroy Merlin,Kościuszki / Komuny Paryskiej / Zgodna,7
+363,136332766,650385,2022-01-27 10:40:05,2022-01-27 10:54:04,Borowska (Uniw. Szpital Kliniczny),Gazowa / Międzyleska,14
+364,136332873,651069,2022-01-27 10:43:15,2022-01-27 10:57:24,Borowska (Uniw. Szpital Kliniczny),Kołłątaja / Podwale,15
+365,136333011,57574,2022-01-27 10:48:39,2022-01-27 11:01:25,Zaporoska / Grabiszyńska,Poza stacją,13
+366,136333162,651230,2022-01-27 10:54:02,2022-01-27 11:02:04,Traugutta / Pułaskiego,Sienkiewicza / Wyszyńskiego,9
+367,136333048,650406,2022-01-27 10:49:43,2022-01-27 11:02:26,Kamienna / Borowska (Aquapark),Tarnogajska / Klimasa,13
+368,136333304,57795,2022-01-27 10:59:25,2022-01-27 11:02:47,Legnicka / Wejherowska,Lotnicza / Na Ostatnim Groszu,4
+369,136332997,651338,2022-01-27 10:48:21,2022-01-27 11:03:24,Hubska / Prudnicka,Plac Legionów,16
+370,136333171,57940,2022-01-27 10:54:17,2022-01-27 11:03:51,Plac Grunwaldzki / Polaka,Plac Uniwersytecki (UWr),10
+371,136333182,57786,2022-01-27 10:54:33,2022-01-27 11:04:13,Wita Stwosza / Szewska,Kraszewskiego / Trzebnicka,10
+372,136333273,57202,2022-01-27 10:58:28,2022-01-27 11:04:16,Przyjaźni / Karkonoska,Wałbrzyska - pętla tramwajowa,6
+373,136333150,651278,2022-01-27 10:53:33,2022-01-27 11:04:29,Plac Legionów,Dyrekcyjna / Borowska (Wroclavia),11
+374,136333418,651492,2022-01-27 11:03:38,2022-01-27 11:04:36,Dworzec Główny ,Dworzec Główny ,1
+375,136333183,57269,2022-01-27 10:54:33,2022-01-27 11:04:45,Plac Jana Pawła II (Akademia Muzyczna),Powstańców Śląskich (Arkady Wrocławskie),11
+376,136333137,57928,2022-01-27 10:53:12,2022-01-27 11:05:46,Grabiszyńska / Stalowa,Kamienna / Borowska (Aquapark),13
+377,136333379,651390,2022-01-27 11:01:59,2022-01-27 11:11:42,Leśnica - pętla tramwajowa,Prochowicka / Dolnobrzeska,10
+378,136333413,651494,2022-01-27 11:03:26,2022-01-27 11:12:02,Powstańców Śląskich (Arkady Wrocławskie),Rynek,9
+379,136333526,57786,2022-01-27 11:06:57,2022-01-27 11:12:07,Kraszewskiego / Trzebnicka,Plac Świętego Macieja / Trzebnicka,6
+380,136333222,57916,2022-01-27 10:56:19,2022-01-27 11:12:15,Jedności Narodowej / Wyszyńskiego,Bałtycka / Żmigrodzka,16
+381,136332893,57451,2022-01-27 10:43:48,2022-01-27 11:12:21,Wróblewskiego (Teki),al. Kochanowskiego / Kopernika,29
+382,136333457,57387,2022-01-27 11:04:51,2022-01-27 11:12:58,Dworzec Główny ,Wita Stwosza / Szewska,9
+383,136332589,650193,2022-01-27 10:33:46,2022-01-27 11:14:38,Rynek,Rynek,41
+384,136333203,651009,2022-01-27 10:55:25,2022-01-27 11:15:08,Drobnera / Dubois,Drobnera / Dubois,20
+385,136333780,651009,2022-01-27 11:15:52,2022-01-27 11:17:03,Drobnera / Dubois,Drobnera / Dubois,2
+386,136333469,651308,2022-01-27 11:05:16,2022-01-27 11:17:26,Popowice,Popowice,13
+387,136333383,651211,2022-01-27 11:02:11,2022-01-27 11:19:42,Kołłątaja / Podwale,al. Armii Krajowej / Borowska,18
+388,136333872,650481,2022-01-27 11:19:15,2022-01-27 11:23:22,Gorlicka / Litewska,Krzywoustego - Rynek Psie Pole,5
+389,136333602,650718,2022-01-27 11:09:19,2022-01-27 11:23:59,Drobnera / Dubois,Drobnera / Dubois,15
+390,136333414,651468,2022-01-27 11:03:29,2022-01-27 11:24:35,al. Armii Krajowej / Bardzka,Hallera / Odkrywców,22
+391,136333839,650099,2022-01-27 11:18:00,2022-01-27 11:27:45,Komandorska / Kamienna,"Dworzec Główny, południe",10
+392,136332877,650285,2022-01-27 10:43:25,2022-01-27 11:30:50,Plac Kościuszki (Renoma),Plac Kościuszki (Renoma),48
+393,136334171,57928,2022-01-27 11:29:05,2022-01-27 11:31:14,Kamienna / Borowska (Aquapark),Ślężna / Kamienna (Uniw. Ekonomiczny),3
+394,136333875,650202,2022-01-27 11:19:27,2022-01-27 11:34:11,Lotnicza / Na Ostatnim Groszu,Plac Jana Pawła II (Akademia Muzyczna),15
+395,136334316,651251,2022-01-27 11:33:38,2022-01-27 11:34:45,Klecińska (Wrocław Grabiszyn),Klecińska (Wrocław Grabiszyn),2
+396,136334262,651308,2022-01-27 11:31:55,2022-01-27 11:35:22,Popowice,Legnicka / Wejherowska,4
+397,136333847,650800,2022-01-27 11:18:19,2022-01-27 11:35:46,Grabiszyńska / Aleja Hallera,Racławicka / Rymarska,18
+398,136334050,650324,2022-01-27 11:25:38,2022-01-27 11:36:09,Szczęśliwa (Sky Tower),Komandorska / Sanocka,11
+399,136334117,57852,2022-01-27 11:27:45,2022-01-27 11:36:26,Plac Jana Pawła II (Akademia Muzyczna),Wyszyńskiego / Szczytnicka,9
+400,136334244,57456,2022-01-27 11:31:20,2022-01-27 11:36:59,Przyjaźni / Karkonoska,Przyjaźni / Karkonoska,6
+401,136334346,650536,2022-01-27 11:34:34,2022-01-27 11:37:30,al. Kochanowskiego / Kopernika,Radeckiego / Marcinkowskiego (Uniw. Medyczny - CNIM),3
+402,136334264,57940,2022-01-27 11:31:59,2022-01-27 11:37:38,Plac Uniwersytecki (UWr),Plac Kościuszki (Renoma),6
+403,136334200,57497,2022-01-27 11:30:12,2022-01-27 11:38:30,Kościuszki / Komuny Paryskiej / Zgodna,Świdnicka / Piłsudskiego (Hotel Scandic),9
+404,136333103,651370,2022-01-27 10:51:56,2022-01-27 11:39:02,Szczęśliwa (Sky Tower),Śrubowa / Strzegomska,48
+405,136334253,57142,2022-01-27 11:31:35,2022-01-27 11:42:22,Przyjaźni / Karkonoska,Powstańcow Śląskich / Aleja Hallera,11
+406,136334364,650061,2022-01-27 11:35:05,2022-01-27 11:43:58,Rondo Reagana,Plac Dominikański (Galeria Dominikańska),9
+407,136334374,650202,2022-01-27 11:35:14,2022-01-27 11:45:12,Plac Jana Pawła II (Akademia Muzyczna),Dworzec Główny ,10
+408,136334094,651009,2022-01-27 11:26:58,2022-01-27 11:45:27,Drobnera / Dubois,Drobnera / Dubois,19
+409,136334363,57194,2022-01-27 11:35:04,2022-01-27 11:46:02,Klecińska (Wrocław Grabiszyn),Strzegomska / Rogowska ,11
+410,136334380,57574,2022-01-27 11:35:24,2022-01-27 11:48:05,Poza stacją,Legnicka / Wejherowska,13
+411,136333608,650523,2022-01-27 11:09:32,2022-01-27 11:48:07,Hubska / Prudnicka,Poza stacją,39
+412,136334263,650689,2022-01-27 11:31:58,2022-01-27 11:49:07,Grabiszyńska / Aleja Hallera,Legnicka / Wejherowska,18
+413,136334674,651489,2022-01-27 11:43:39,2022-01-27 11:49:51,Powstańców Śląskich (Arkady Wrocławskie),Plac Kościuszki (Renoma),7
+414,136334680,650898,2022-01-27 11:43:45,2022-01-27 11:50:04,Powstańców Śląskich (Arkady Wrocławskie),Plac Kościuszki (Renoma),7
+415,136334130,651388,2022-01-27 11:27:57,2022-01-27 11:50:13,Kościuszki / Komuny Paryskiej / Zgodna,Kamienna / Borowska (Aquapark),23
+416,136334529,57214,2022-01-27 11:39:37,2022-01-27 11:50:37,al. Armii Krajowej / Borowska,Komandorska / Sanocka,11
+417,136334650,650718,2022-01-27 11:42:54,2022-01-27 11:51:21,Drobnera / Dubois,Wita Stwosza / Szewska,9
+418,136334325,651206,2022-01-27 11:34:00,2022-01-27 11:52:56,Buforowa - Vivaldiego,al. Armii Krajowej / Bardzka,19
+419,136334487,57095,2022-01-27 11:38:28,2022-01-27 11:54:01,Legnicka / Wejherowska,Bezpieczna/Jugosławiańska,16
+420,136334642,651328,2022-01-27 11:42:40,2022-01-27 11:54:47,Grabiszyńska / Magazynierska (Corte Verona),Plac Legionów,13
+421,136334452,650941,2022-01-27 11:37:24,2022-01-27 11:55:09,Skarbowców / Wietrzna,Dyrekcyjna / Borowska (Wroclavia),18
+422,136334861,651308,2022-01-27 11:48:39,2022-01-27 11:55:12,Legnicka / Wejherowska,Kozanowska / Pilczycka,7
+423,136334878,650969,2022-01-27 11:49:02,2022-01-27 11:55:51,Plac Kościuszki (Renoma),Szczęśliwa (Sky Tower),7
+424,136334914,57822,2022-01-27 11:49:53,2022-01-27 11:57:06,Kurkowa / Dubois,Nowowiejska / Jedności Narodowej,8
+425,136335270,650863,2022-01-27 11:59:03,2022-01-27 11:59:35,Drobnera / Plac Bema,Drobnera / Plac Bema,1
+426,136334743,57468,2022-01-27 11:45:42,2022-01-27 12:00:56,Borowska (Uniw. Szpital Kliniczny),Aleja Hallera / Mielecka,16
+427,136334638,650864,2022-01-27 11:42:31,2022-01-27 12:01:07,Kamienna / Borowska (Aquapark),Grota-Roweckiego/Iwaszkiewicza,19
+428,136335178,650848,2022-01-27 11:56:39,2022-01-27 12:01:25,Kozanowska / Pilczycka,Kozanowska/Pałucka,5
+429,136335143,651338,2022-01-27 11:55:29,2022-01-27 12:02:10,Plac Legionów,Plac Dominikański (Galeria Dominikańska),7
+430,136334854,57633,2022-01-27 11:48:31,2022-01-27 12:06:45,Legnicka / Wejherowska,Klecińska (Wrocław Grabiszyn),19
+431,136334877,57451,2022-01-27 11:49:02,2022-01-27 12:07:43,al. Kochanowskiego / Kopernika,Wróblewskiego (Teki),19
+432,136335345,651350,2022-01-27 12:01:11,2022-01-27 12:07:46,Aleja Hallera / Mielecka,Grabiszyńska / Stalowa,7
+433,136335383,651370,2022-01-27 12:02:10,2022-01-27 12:08:27,Śrubowa / Strzegomska,Legnicka (Park Magnolia),7
+434,136334876,651009,2022-01-27 11:48:59,2022-01-27 12:08:50,Drobnera / Dubois,Plac Uniwersytecki (UWr),20
+435,136334660,650428,2022-01-27 11:43:21,2022-01-27 12:09:56,Olszewskiego / Spółdzielcza,Poniatowskiego / Oleśnicka,27
+436,136335193,57456,2022-01-27 11:56:59,2022-01-27 12:09:57,Przyjaźni / Karkonoska,Czekoladowa / Wałbrzyska,13
+437,136335344,57770,2022-01-27 12:01:08,2022-01-27 12:10:16,Berenta / Kasprowicza,Żeromskiego / Daszyńskiego,10
+438,136335338,650082,2022-01-27 12:00:56,2022-01-27 12:10:20,Berenta / Kasprowicza,Żeromskiego / Daszyńskiego,10
+439,136335355,651114,2022-01-27 12:01:30,2022-01-27 12:11:46,Plac Dominikański (Galeria Dominikańska),Traugutta / Kościuszki,11
+440,136335652,651009,2022-01-27 12:10:08,2022-01-27 12:14:21,Plac Uniwersytecki (UWr),Drobnera / Dubois,5
+441,136335456,650700,2022-01-27 12:04:49,2022-01-27 12:14:44,Racławicka / Rymarska,Powstańcow Śląskich / Aleja Hallera,10
+442,136335356,650800,2022-01-27 12:01:32,2022-01-27 12:15:26,Racławicka / Rymarska,Czekoladowa / Wałbrzyska,14
+443,136334947,57507,2022-01-27 11:50:47,2022-01-27 12:15:43,Plac Kościuszki (Renoma),Poza stacją,25
+444,136335161,651465,2022-01-27 11:56:02,2022-01-27 12:15:44,Konduktorska,"Dworzec Główny, południe",20
+445,136335560,650099,2022-01-27 12:07:31,2022-01-27 12:16:37,"Dworzec Główny, południe",Nyska / Jesionowa,10
+446,136335646,650514,2022-01-27 12:09:58,2022-01-27 12:17:08,Na Grobli (PWr - Geocentrum),Plac Dominikański (Galeria Dominikańska),8
+447,136335434,651338,2022-01-27 12:04:01,2022-01-27 12:17:45,Plac Dominikański (Galeria Dominikańska),Sienkiewicza / Piastowska,14
+448,136335551,57616,2022-01-27 12:07:18,2022-01-27 12:19:45,Klecińska (Wrocław Grabiszyn),Pereca / Grabiszyńska,13
+449,136335885,57092,2022-01-27 12:16:23,2022-01-27 12:21:03,"Dworzec Główny, południe",Kościuszki / Pułaskiego,5
+450,136336051,57466,2022-01-27 12:20:51,2022-01-27 12:21:32,Szewska / Kazimierza Wielkiego ,Szewska / Kazimierza Wielkiego ,1
+451,136335010,650312,2022-01-27 11:52:26,2022-01-27 12:25:09,al. Armii Krajowej / Borowska,Komandorska / Sanocka,33
+452,136335905,651264,2022-01-27 12:16:59,2022-01-27 12:28:39,Łukasiewicza / Smoluchowskiego (PWr),Kościuszki / Pułaskiego,12
+453,136336102,650246,2022-01-27 12:22:03,2022-01-27 12:29:33,Plac Dominikański (Galeria Dominikańska),Rynek,8
+454,136336264,651287,2022-01-27 12:26:04,2022-01-27 12:32:34,Wita Stwosza / Szewska,Drobnera / Dubois,7
+455,136336254,57497,2022-01-27 12:25:50,2022-01-27 12:34:08,Świdnicka / Piłsudskiego (Hotel Scandic),Kościuszki / Komuny Paryskiej / Zgodna,9
+456,136336146,650061,2022-01-27 12:23:04,2022-01-27 12:37:19,Plac Dominikański (Galeria Dominikańska),Plac Grunwaldzki (DS Ołówek),15
+457,136336416,651197,2022-01-27 12:29:33,2022-01-27 12:37:47,Sołtysowicka / Redycka,Krzywoustego / Korona,9
+458,136336339,651206,2022-01-27 12:27:58,2022-01-27 12:39:33,al. Armii Krajowej / Bardzka,Borowska (Uniw. Szpital Kliniczny),12
+459,136336533,651300,2022-01-27 12:33:06,2022-01-27 12:40:44,Wróblewskiego (Teki),Rondo Reagana,8
+460,136336539,57232,2022-01-27 12:33:18,2022-01-27 12:40:47,Wróblewskiego (Teki),Rondo Reagana,8
+461,136336590,650743,2022-01-27 12:34:45,2022-01-27 12:41:44,Szewska / Kazimierza Wielkiego ,Plac Kościuszki (Renoma),7
+462,136335291,57339,2022-01-27 11:59:40,2022-01-27 12:43:08,Powstańców Śląskich (Arkady Wrocławskie),Kozanowska/Pałucka,44
+463,136337027,57822,2022-01-27 12:46:03,2022-01-27 12:49:09,Nowowiejska / Jedności Narodowej,Nowowiejska / Wyszyńskiego,4
+464,136336784,57320,2022-01-27 12:40:04,2022-01-27 12:49:31,Kołłątaja / Podwale,Plac Jana Pawła II (Akademia Muzyczna),10
+465,136336515,651063,2022-01-27 12:32:27,2022-01-27 12:49:49,Skarbowców / Wietrzna,Powstańców Śląskich (Arkady Wrocławskie),18
+466,136336788,651378,2022-01-27 12:40:07,2022-01-27 12:54:17,Aleja Hallera / Mielecka,Oporów (pętla tramwajowa),15
+467,136337197,651388,2022-01-27 12:50:26,2022-01-27 12:54:28,Kamienna / Borowska (Aquapark),Komandorska / Kamienna,5
+468,136336777,57426,2022-01-27 12:39:48,2022-01-27 12:54:37,Aleja Hallera / Mielecka,Oporów (pętla tramwajowa),15
+469,136336798,650312,2022-01-27 12:40:22,2022-01-27 12:54:40,Komandorska / Sanocka,Grabiszyńska / Stalowa,15
+470,136336181,57775,2022-01-27 12:23:55,2022-01-27 12:55:01,Krzywoustego - Rynek Psie Pole,Rondo Reagana,32
+471,136337065,650892,2022-01-27 12:47:18,2022-01-27 12:57:32,Plac Powstańców Śląskich,Dyrekcyjna / Borowska (Wroclavia),11
+472,136337222,650914,2022-01-27 12:50:58,2022-01-27 12:58:07,Żelazna / Pereca,Dworzec Główny ,8
+473,136336810,651009,2022-01-27 12:40:36,2022-01-27 12:58:50,Drobnera / Dubois,Promenady Wrocławskie,19
+474,136337063,651287,2022-01-27 12:47:13,2022-01-27 12:58:58,Drobnera / Dubois,Drobnera / Dubois,12
+475,136337288,651080,2022-01-27 12:52:38,2022-01-27 12:59:06,Hubska / Prudnicka,"Dworzec Główny, południe",7
+476,136337059,651264,2022-01-27 12:47:09,2022-01-27 12:59:17,Kościuszki / Pułaskiego,Ślężna / Kamienna (Uniw. Ekonomiczny),13
+477,136337253,650099,2022-01-27 12:51:42,2022-01-27 12:59:26,Nyska / Jesionowa,"Dworzec Główny, południe",8
+478,136337101,651465,2022-01-27 12:48:17,2022-01-27 12:59:42,"Dworzec Główny, południe",Kamienna / Tomaszowska,12
+479,136337085,650012,2022-01-27 12:47:43,2022-01-27 13:02:17,Aleja Kromera,Kamieńskiego / Jutrosińska,15
+480,136337554,650142,2022-01-27 12:59:12,2022-01-27 13:02:35,Fosa Miejska ,Wita Stwosza / Szewska,4
+481,136337616,57775,2022-01-27 13:00:33,2022-01-27 13:03:04,Rondo Reagana,Rondo Reagana,3
+482,136337495,651194,2022-01-27 12:57:35,2022-01-27 13:03:36,Grabiszyńska / Stalowa,Zaporoska / Grabiszyńska,7
+483,136337392,650934,2022-01-27 12:54:54,2022-01-27 13:07:28,Krucza / Mielecka / Stalowa,Plac Legionów,13
+484,136337580,651009,2022-01-27 12:59:45,2022-01-27 13:09:25,Promenady Wrocławskie,Drobnera / Dubois,10
+485,136337738,57775,2022-01-27 13:03:38,2022-01-27 13:10:26,Rondo Reagana,Nowowiejska / Górnickiego,7
+486,136337271,650140,2022-01-27 12:52:15,2022-01-27 13:11:20,Grabiszyńska / Magazynierska (Corte Verona),Plac Dominikański (Galeria Dominikańska),20
+487,136337997,57786,2022-01-27 13:10:28,2022-01-27 13:13:23,Plac Świętego Macieja / Trzebnicka,Drobnera / Plac Bema,3
+488,136337852,57596,2022-01-27 13:06:54,2022-01-27 13:14:24,Janiszewskiego (PWr),Na Grobli (PWr - Geocentrum),8
+489,136338137,57202,2022-01-27 13:13:58,2022-01-27 13:18:55,Wałbrzyska - pętla tramwajowa,Przyjaźni / Karkonoska,5
+490,136337955,651464,2022-01-27 13:09:23,2022-01-27 13:21:15,Sienkiewicza / Piastowska,Plac Dominikański (Galeria Dominikańska),12
+491,136337999,650521,2022-01-27 13:10:40,2022-01-27 13:25:17,"Grochowa / Jemiołowa,",Kościuszki / Pułaskiego,15
+492,136332824,57522,2022-01-27 10:41:49,2022-01-27 13:25:54,Rynek,Kazimierza Wielkiego (Helios),165
+493,136337769,651287,2022-01-27 13:04:29,2022-01-27 13:26:51,Drobnera / Dubois,Drobnera / Dubois,23
+494,136338361,57616,2022-01-27 13:19:39,2022-01-27 13:27:01,Pereca / Grabiszyńska,Plac Jana Pawła II (Akademia Muzyczna),8
+495,136338399,651378,2022-01-27 13:20:35,2022-01-27 13:27:31,Oporów (pętla tramwajowa),Grabiszyńska / Aleja Hallera,7
+496,136337985,650134,2022-01-27 13:10:07,2022-01-27 13:28:36,Pilczycka / Kozanowska,Otyńska,19
+497,136338109,650743,2022-01-27 13:13:20,2022-01-27 13:29:53,Plac Kościuszki (Renoma),Powstańcow Śląskich / Aleja Hallera,17
+498,136337950,650892,2022-01-27 13:09:18,2022-01-27 13:30:21,Dyrekcyjna / Borowska (Wroclavia),Skarbowców / Wietrzna,22
+499,136338167,651132,2022-01-27 13:14:33,2022-01-27 13:30:33,Poza stacją,Śrubowa / Strzegomska,16
+500,136338114,651391,2022-01-27 13:13:31,2022-01-27 13:31:15,Plac Kościuszki (Renoma),Powstańcow Śląskich / Aleja Hallera,18
+501,136338461,651211,2022-01-27 13:22:10,2022-01-27 13:31:59,al. Armii Krajowej / Borowska,Komandorska / Kamienna,10
+502,136338460,651464,2022-01-27 13:22:10,2022-01-27 13:33:20,Plac Dominikański (Galeria Dominikańska),Plac Legionów,12
+503,136338599,651060,2022-01-27 13:25:35,2022-01-27 13:36:40,Walońska (Angel Poland Group),Szewska / Kazimierza Wielkiego ,12
+504,136338601,57171,2022-01-27 13:25:38,2022-01-27 13:39:38,Wojanowska / Arbuzowa ,Poza stacją,14
+505,136339201,651063,2022-01-27 13:38:36,2022-01-27 13:40:16,Powstańców Śląskich (Arkady Wrocławskie),Powstańców Śląskich (Arkady Wrocławskie),2
+506,136338761,651080,2022-01-27 13:29:25,2022-01-27 13:40:54,"Dworzec Główny, południe",Plac Powstańców Śląskich,12
+507,136338479,650514,2022-01-27 13:22:35,2022-01-27 13:41:10,Plac Dominikański (Galeria Dominikańska),Aleja Kromera,19
+508,136337095,651279,2022-01-27 12:48:06,2022-01-27 13:41:11,Bezpieczna/Jugosławiańska,Bezpieczna/Jugosławiańska,54
+509,136338387,57426,2022-01-27 13:20:10,2022-01-27 13:41:24,Oporów (pętla tramwajowa),Zaporoska / Gajowicka,22
+510,136338445,651206,2022-01-27 13:21:46,2022-01-27 13:43:46,Borowska (Uniw. Szpital Kliniczny),Grabiszyńska / Stalowa,22
+511,136338963,651464,2022-01-27 13:33:58,2022-01-27 13:44:22,Plac Legionów,Grabiszyńska / Magazynierska (Corte Verona),11
+512,136339030,651378,2022-01-27 13:35:11,2022-01-27 13:45:28,Grabiszyńska / Aleja Hallera,Zaporoska / Gajowicka,11
+513,136338718,57802,2022-01-27 13:28:09,2022-01-27 13:45:47,Piławska,Poza stacją,18
+514,136339292,650865,2022-01-27 13:40:29,2022-01-27 13:48:08,Powstańców Śląskich (Arkady Wrocławskie),Plac Dominikański (Galeria Dominikańska),8
+515,136338045,57954,2022-01-27 13:11:37,2022-01-27 13:49:00,Grota-Roweckiego/Iwaszkiewicza,Grota-Roweckiego/Iwaszkiewicza,38
+516,136339135,650934,2022-01-27 13:37:36,2022-01-27 13:49:09,Plac Legionów,Aleja Hallera / Mielecka,12
+517,136339136,57973,2022-01-27 13:37:37,2022-01-27 13:50:16,Żeromskiego / Kluczborska,Jedności Narodowej / Wyszyńskiego,13
+518,136294033,651474,2022-01-26 12:46:20,2022-01-27 13:50:20,Plac Uniwersytecki (UWr),Plac Świętego Macieja / Trzebnicka,1504
+519,136339683,57211,2022-01-27 13:50:04,2022-01-27 13:50:36,Grabiszyńska / Stalowa,Grabiszyńska / Stalowa,1
+520,136339000,651009,2022-01-27 13:34:34,2022-01-27 13:52:26,Drobnera / Dubois,Młodych Techników,18
+521,136339410,651060,2022-01-27 13:43:37,2022-01-27 13:52:56,Szewska / Kazimierza Wielkiego ,Walońska (Angel Poland Group),10
+522,136339243,650061,2022-01-27 13:39:27,2022-01-27 13:53:24,Plac Grunwaldzki (DS Ołówek),Aleja Kromera,14
+523,136339838,57144,2022-01-27 13:53:28,2022-01-27 13:55:07,Szczęśliwa (Sky Tower),Szczęśliwa (Sky Tower),2
+524,136339263,57903,2022-01-27 13:39:52,2022-01-27 13:56:56,Pilczycka / Kozanowska,Klecińska / Duńska,18
+525,136339184,651350,2022-01-27 13:38:20,2022-01-27 13:58:21,Grabiszyńska / Stalowa,Krucza / Mielecka / Stalowa,21
+526,136339542,651465,2022-01-27 13:46:46,2022-01-27 14:00:07,Kamienna / Tomaszowska,"Dworzec Główny, południe",14
+527,136339399,651370,2022-01-27 13:43:22,2022-01-27 14:00:20,Legnicka (Park Magnolia),pl. Orląt Lwowskich,17
+528,136339650,57456,2022-01-27 13:49:15,2022-01-27 14:00:28,Czekoladowa / Wałbrzyska,Aleja Bielany,12
+529,136339493,650930,2022-01-27 13:45:33,2022-01-27 14:00:46,Ślężna / Skierniewicka,Poza stacją,16
+530,136339861,650061,2022-01-27 13:53:57,2022-01-27 14:01:08,Aleja Kromera,Koszarowa / UWr,8
+531,136339590,57749,2022-01-27 13:48:00,2022-01-27 14:01:49,Żelazna / Pereca,Komandorska / Sanocka,14
+532,136339557,57172,2022-01-27 13:47:07,2022-01-27 14:02:42,Krucza / Mielecka / Stalowa,pl. Orląt Lwowskich,16
+533,136339824,651009,2022-01-27 13:53:17,2022-01-27 14:03:17,Młodych Techników,Drobnera / Dubois,10
+534,136339886,57596,2022-01-27 13:54:29,2022-01-27 14:05:07,Na Grobli (PWr - Geocentrum),Drobnera / Dubois,11
+535,136340200,650019,2022-01-27 14:02:14,2022-01-27 14:06:13,Fabryczna / Wagonowa,Stacyjna (Dworzec Mikołajów),4
+536,136340000,57903,2022-01-27 13:57:27,2022-01-27 14:08:01,Klecińska / Duńska,Grabiszyńska / Magazynierska (Corte Verona),11
+537,136340161,650930,2022-01-27 14:01:20,2022-01-27 14:08:02,Poza stacją,Plac Dominikański (Galeria Dominikańska),7
+538,136340360,651217,2022-01-27 14:05:41,2022-01-27 14:09:04,Poza stacją,Poza stacją,4
+539,136340268,650582,2022-01-27 14:03:37,2022-01-27 14:10:14,Klecińska (Wrocław Grabiszyn),Traktatowa (przystanek kolejowy),7
+540,136340535,57172,2022-01-27 14:09:43,2022-01-27 14:14:53,pl. Orląt Lwowskich,Rynek,6
+541,136340512,650882,2022-01-27 14:09:07,2022-01-27 14:14:58,Fabryczna / Wagonowa,Stacyjna (Dworzec Mikołajów),6
+542,136340524,57768,2022-01-27 14:09:29,2022-01-27 14:17:16,Fabryczna / Wagonowa,Legnicka (Park Magnolia),8
+543,136340216,650800,2022-01-27 14:02:33,2022-01-27 14:17:54,Czekoladowa / Wałbrzyska,Racławicka / Rymarska,16
+544,136340491,651151,2022-01-27 14:08:27,2022-01-27 14:19:05,Hubska / Prudnicka,Kościuszki / Pułaskiego,11
+545,136340279,651370,2022-01-27 14:03:56,2022-01-27 14:21:28,pl. Orląt Lwowskich,Dyrekcyjna / Borowska (Wroclavia),18
+546,136341035,57852,2022-01-27 14:21:14,2022-01-27 14:25:24,Wyszyńskiego / Szczytnicka,Plac Powstańców Warszawy (Muzeum Narodowe),5
+547,136341120,57284,2022-01-27 14:23:13,2022-01-27 14:29:38,Śrubowa / Strzegomska,Legnicka (Park Magnolia),7
+548,136341060,57194,2022-01-27 14:21:41,2022-01-27 14:31:32,Strzegomska / Rogowska ,Klecińska (Wrocław Grabiszyn),10
+549,136235302,651304,2022-01-24 22:41:10,2022-01-27 14:32:19,al. Brücknera / Kwidzyńska,Poza stacją,3832
+550,136341143,57060,2022-01-27 14:23:43,2022-01-27 14:32:47,Grabiszyńska / Aleja Hallera,Pereca / Grabiszyńska,10
+551,136339719,57127,2022-01-27 13:50:50,2022-01-27 14:34:50,Grabiszyńska / Stalowa,Grabiszyńska / Stalowa,44
+552,136341070,650521,2022-01-27 14:21:55,2022-01-27 14:37:02,Kościuszki / Pułaskiego,Kazimierza Wielkiego (Helios),16
+553,136341424,57232,2022-01-27 14:30:55,2022-01-27 14:38:42,Rondo Reagana,Wróblewskiego (Teki),8
+554,136341204,651370,2022-01-27 14:25:21,2022-01-27 14:39:05,Dyrekcyjna / Borowska (Wroclavia),Plac Grunwaldzki / Polaka,14
+555,136341419,651300,2022-01-27 14:30:51,2022-01-27 14:39:42,Rondo Reagana,Wróblewskiego (Teki),9
+556,136341321,651345,2022-01-27 14:28:07,2022-01-27 14:40:14,Poza stacją,Pilczycka / Kozanowska,13
+557,136341540,57522,2022-01-27 14:33:45,2022-01-27 14:41:42,Kazimierza Wielkiego (Helios),Drobnera / Plac Bema,8
+558,136341444,651217,2022-01-27 14:31:24,2022-01-27 14:42:48,Poza stacją,Poza stacją,12
+559,136341393,651009,2022-01-27 14:30:00,2022-01-27 14:43:23,Drobnera / Dubois,Drobnera / Dubois,14
+560,136341362,650536,2022-01-27 14:29:10,2022-01-27 14:44:46,Radeckiego / Marcinkowskiego (Uniw. Medyczny - CNIM),Gliniana / Gajowa,16
+561,136341677,651465,2022-01-27 14:36:50,2022-01-27 14:46:03,"Dworzec Główny, południe",Zaporoska / Gajowicka,10
+562,136341659,650700,2022-01-27 14:36:37,2022-01-27 14:46:06,Powstańcow Śląskich / Aleja Hallera,Kamienna / Tomaszowska,10
+563,136341669,651391,2022-01-27 14:36:45,2022-01-27 14:46:06,Powstańcow Śląskich / Aleja Hallera,Kamienna / Tomaszowska,10
+564,136341966,650650,2022-01-27 14:43:55,2022-01-27 14:46:37,Graniczna / Strzegomska,Graniczna / Strzegomska,3
+565,136341737,651080,2022-01-27 14:38:24,2022-01-27 14:49:42,Plac Powstańców Śląskich,Dyrekcyjna / Borowska (Wroclavia),12
+566,136341950,650718,2022-01-27 14:43:33,2022-01-27 14:50:04,Wita Stwosza / Szewska,Plac Jana Pawła II (Akademia Muzyczna),7
+567,136341663,650874,2022-01-27 14:36:39,2022-01-27 14:52:03,Legnicka (Park Magnolia),Młodych Techników,16
+568,136342173,57940,2022-01-27 14:49:02,2022-01-27 14:52:54,Plac Kościuszki (Renoma),"Dworzec Główny, południe",4
+569,136341740,650768,2022-01-27 14:38:30,2022-01-27 14:53:42,al. Brücknera / Kwidzyńska,Sienkiewicza / Wyszyńskiego,16
+570,136342026,650536,2022-01-27 14:45:32,2022-01-27 14:54:40,Gliniana / Gajowa,Borowska (Uniw. Szpital Kliniczny),10
+571,136341946,651217,2022-01-27 14:43:22,2022-01-27 14:56:52,Poza stacją,Poza stacją,14
+572,136342256,650324,2022-01-27 14:51:08,2022-01-27 14:56:52,Komandorska / Sanocka,Poza stacją,6
+573,136342297,57596,2022-01-27 14:52:02,2022-01-27 14:57:16,Drobnera / Dubois,Rynek,6
+574,136341873,650061,2022-01-27 14:41:45,2022-01-27 14:57:30,Koszarowa / UWr,Żmigrodzka / Broniewskiego,16
+575,136342051,651381,2022-01-27 14:45:59,2022-01-27 14:58:04,Centrum Handlowe Auchan Bielany,Wałbrzyska - pętla tramwajowa,13
+576,136342117,650285,2022-01-27 14:47:37,2022-01-27 14:59:15,Plac Kościuszki (Renoma),Kamienna / Borowska (Aquapark),12
+577,136342383,651328,2022-01-27 14:53:38,2022-01-27 15:00:08,Plac Legionów,Dworzec Główny ,7
+578,136342429,57092,2022-01-27 14:54:31,2022-01-27 15:01:37,Kościuszki / Pułaskiego,Plac Dominikański (Galeria Dominikańska),8
+579,136342522,57284,2022-01-27 14:56:53,2022-01-27 15:02:51,Legnicka (Park Magnolia),Śrubowa / Strzegomska,6
+580,136342606,650801,2022-01-27 14:58:47,2022-01-27 15:04:19,Kurkowa / Dubois,Kurkowa / Dubois,6
+581,136342630,57340,2022-01-27 14:59:21,2022-01-27 15:07:33,.RELOKACYJNA,Dyrekcyjna / Borowska (Wroclavia),9
+582,136342902,650801,2022-01-27 15:05:26,2022-01-27 15:07:39,Kurkowa / Dubois,Poza stacją,3
+583,136342628,651361,2022-01-27 14:59:17,2022-01-27 15:07:48,Skarbowców / Wietrzna,Czekoladowa / Wałbrzyska,9
+584,136342524,650521,2022-01-27 14:56:55,2022-01-27 15:08:01,Kazimierza Wielkiego (Helios),Drobnera / Plac Bema,12
+585,136342529,650041,2022-01-27 14:56:59,2022-01-27 15:08:04,Poza stacją,Klecińska (Wrocław Grabiszyn),12
+586,136342350,650214,2022-01-27 14:52:59,2022-01-27 15:08:10,Radeckiego / Marcinkowskiego (Uniw. Medyczny - CNIM),Krakowska / Leroy Merlin,16
+587,136342405,651230,2022-01-27 14:53:57,2022-01-27 15:09:58,Sienkiewicza / Wyszyńskiego,Dyrekcyjna / Borowska (Wroclavia),17
+588,136343113,651517,2022-01-27 15:10:16,2022-01-27 15:10:34,Popowice,Popowice,1
+589,136342289,57768,2022-01-27 14:51:44,2022-01-27 15:10:54,Legnicka (Park Magnolia),Klecińska (Wrocław Grabiszyn),20
+590,136342336,651009,2022-01-27 14:52:45,2022-01-27 15:12:00,Drobnera / Dubois,Drobnera / Dubois,20
+591,136342885,57322,2022-01-27 15:05:06,2022-01-27 15:12:02,Legnicka / Wejherowska,Drzewieckiego / Dedala,7
+592,136343150,651517,2022-01-27 15:11:19,2022-01-27 15:12:36,Popowice,Popowice,2
+593,136328201,650359,2022-01-27 08:30:23,2022-01-27 15:13:04,Fabryczna / Wagonowa,Poza stacją,403
+594,136343195,651009,2022-01-27 15:12:36,2022-01-27 15:13:53,Drobnera / Dubois,Drobnera / Dubois,2
+595,136342935,650838,2022-01-27 15:06:01,2022-01-27 15:14:16,Aleja Bielany,Czekoladowa / Wałbrzyska,9
+596,136342923,650246,2022-01-27 15:05:48,2022-01-27 15:14:59,Rynek,Poniatowskiego / Oleśnicka,10
+597,136342801,651236,2022-01-27 15:03:25,2022-01-27 15:15:57,pl. Orląt Lwowskich,Grabiszyńska / Stalowa,13
+598,136343109,651278,2022-01-27 15:10:14,2022-01-27 15:16:24,Dyrekcyjna / Borowska (Wroclavia),al. Armii Krajowej / Borowska,7
+599,136343216,650531,2022-01-27 15:13:00,2022-01-27 15:19:14,Popowice,Legnicka (Park Magnolia),7
+600,136343295,650359,2022-01-27 15:15:02,2022-01-27 15:20:24,Poza stacją,Klecińska (Wrocław Grabiszyn),6
+601,136343198,57060,2022-01-27 15:12:42,2022-01-27 15:21:09,Pereca / Grabiszyńska,Dworzec Główny ,9
+602,136343278,57616,2022-01-27 15:14:34,2022-01-27 15:25:15,Plac Jana Pawła II (Akademia Muzyczna),Wyszyńskiego / Szczytnicka,11
+603,136343092,650019,2022-01-27 15:09:42,2022-01-27 15:25:32,Stacyjna (Dworzec Mikołajów),Wita Stwosza / Szewska,16
+604,136343238,650202,2022-01-27 15:13:42,2022-01-27 15:26:55,Dworzec Główny ,Grabiszyńska / Stalowa,14
+605,136343539,57786,2022-01-27 15:20:34,2022-01-27 15:27:48,Drobnera / Plac Bema,Kazimierza Wielkiego (Helios),8
+606,136343684,57996,2022-01-27 15:23:45,2022-01-27 15:28:00,Opolska / Siemianowicka,Opolska / pętla tramwajowa,5
+607,136343514,57223,2022-01-27 15:20:09,2022-01-27 15:29:19,Poza stacją,Legnicka (Park Magnolia),10
+608,136343952,651224,2022-01-27 15:30:05,2022-01-27 15:30:33,Zaporoska / Wielka / Krucza,Zaporoska / Wielka / Krucza,1
+609,136343782,651209,2022-01-27 15:26:10,2022-01-27 15:32:34,Poza stacją,Poniatowskiego / Oleśnicka,7
+610,136344001,57744,2022-01-27 15:31:15,2022-01-27 15:36:23,Bezpieczna / Obornicka,Żmigrodzka / Broniewskiego,6
+611,136343850,57416,2022-01-27 15:27:45,2022-01-27 15:37:41,Krzywoustego / Korona,al. Brücknera / Kwidzyńska,10
+612,136343866,650234,2022-01-27 15:28:08,2022-01-27 15:38:15,Otyńska,Klecińska (Wrocław Grabiszyn),11
+613,136343809,57940,2022-01-27 15:26:39,2022-01-27 15:38:41,"Dworzec Główny, południe",Drobnera / Plac Bema,13
+614,136343987,57616,2022-01-27 15:30:57,2022-01-27 15:39:37,Wyszyńskiego / Szczytnicka,Kurkowa / Dubois,9
+615,136344126,651278,2022-01-27 15:33:59,2022-01-27 15:40:10,al. Armii Krajowej / Borowska,"Dworzec Główny, południe",7
+616,136344072,651063,2022-01-27 15:32:45,2022-01-27 15:40:33,Powstańców Śląskich (Arkady Wrocławskie),"Grochowa / Jemiołowa,",8
+617,136343844,650140,2022-01-27 15:27:21,2022-01-27 15:41:22,Plac Dominikański (Galeria Dominikańska),Kurkowa / Dubois,15
+618,136343762,651009,2022-01-27 15:25:29,2022-01-27 15:43:29,Drobnera / Dubois,Drobnera / Dubois,18
+619,136343139,650882,2022-01-27 15:11:01,2022-01-27 15:48:17,Stacyjna (Dworzec Mikołajów),Jedności Narodowej / Wyszyńskiego,38
+620,136344412,651356,2022-01-27 15:40:42,2022-01-27 15:48:29,al. Kochanowskiego / Kopernika,Stadion Olimpijski,8
+621,136344467,650718,2022-01-27 15:41:57,2022-01-27 15:48:49,Plac Jana Pawła II (Akademia Muzyczna),Zaporoska / Grabiszyńska,7
+622,136344304,57416,2022-01-27 15:38:14,2022-01-27 15:50:40,al. Brücknera / Kwidzyńska,al. Kochanowskiego / Kopernika,13
+623,136344428,650783,2022-01-27 15:41:13,2022-01-27 15:51:32,Centrum Handlowe Auchan Bielany,Czekoladowa / Wałbrzyska,11
+624,136344497,57803,2022-01-27 15:42:53,2022-01-27 15:54:11,Rynek,Dworzec Główny ,12
+625,136344369,57829,2022-01-27 15:39:41,2022-01-27 15:54:48,al. Kochanowskiego / Śniadeckich ,Traugutta / Pułaskiego,16
+626,136344423,650271,2022-01-27 15:41:07,2022-01-27 15:55:05,Wróblewskiego (ZOO),Dworzec Główny ,14
+627,136344945,650865,2022-01-27 15:51:36,2022-01-27 15:55:22,Plac Dominikański (Galeria Dominikańska),Plac Powstańców Warszawy (Muzeum Narodowe),4
+628,136344709,651278,2022-01-27 15:47:16,2022-01-27 15:55:58,"Dworzec Główny, południe",Kościuszki / Komuny Paryskiej / Zgodna,9
+629,136344867,57852,2022-01-27 15:49:59,2022-01-27 15:56:35,Plac Powstańców Warszawy (Muzeum Narodowe),Plac Powstańców Warszawy (Muzeum Narodowe),7
+630,136344729,57191,2022-01-27 15:47:35,2022-01-27 15:57:21,Na Grobli (PWr - Geocentrum),Plac Dominikański (Galeria Dominikańska),10
+631,136344482,650536,2022-01-27 15:42:27,2022-01-27 15:57:39,Borowska (Uniw. Szpital Kliniczny),Nyska / Jesionowa,16
+632,136344976,650894,2022-01-27 15:52:07,2022-01-27 15:57:42,Reymonta / Kleczkowska,Obornicka / Bałtycka,6
+633,136344612,650202,2022-01-27 15:45:09,2022-01-27 15:58:06,Grabiszyńska / Stalowa,Fosa Miejska ,13
+634,136343717,57092,2022-01-27 15:24:29,2022-01-27 15:58:32,Plac Dominikański (Galeria Dominikańska),Lotnicza / Bajana,35
+635,136344496,57142,2022-01-27 15:42:52,2022-01-27 15:59:07,Powstańcow Śląskich / Aleja Hallera,Zwycięska / Ołtaszyńska,17
+636,136345050,650914,2022-01-27 15:53:41,2022-01-27 16:00:06,Dworzec Główny ,Plac Legionów,7
+637,136345035,57320,2022-01-27 15:53:23,2022-01-27 16:00:27,Plac Jana Pawła II (Akademia Muzyczna),Wita Stwosza / Szewska,8
+638,136344562,651287,2022-01-27 15:44:04,2022-01-27 16:01:09,Drobnera / Dubois,Drobnera / Dubois,18
+639,136345186,651390,2022-01-27 15:56:32,2022-01-27 16:01:51,Prochowicka / Dolnobrzeska,Leśnica - pętla tramwajowa,6
+640,136344769,57744,2022-01-27 15:48:19,2022-01-27 16:01:56,Żmigrodzka / Broniewskiego,Aleja Kromera,14
+641,136344855,650140,2022-01-27 15:49:46,2022-01-27 16:02:08,Kurkowa / Dubois,Plac Legionów,13
+642,136345221,57852,2022-01-27 15:57:22,2022-01-27 16:02:46,Plac Powstańców Warszawy (Muzeum Narodowe),Na Grobli (PWr - Geocentrum),6
+643,136344742,650061,2022-01-27 15:47:49,2022-01-27 16:03:33,Żmigrodzka / Broniewskiego,Sienkiewicza / Wyszyńskiego,16
+644,136345107,650969,2022-01-27 15:54:51,2022-01-27 16:03:44,Szczęśliwa (Sky Tower),Dyrekcyjna / Borowska (Wroclavia),9
+645,136345029,650624,2022-01-27 15:53:16,2022-01-27 16:05:16,Ślężna / Aleja Wiśniowa,Żelazna / Pereca,12
+646,136345039,57616,2022-01-27 15:53:26,2022-01-27 16:06:17,Kurkowa / Dubois,Kołłątaja / Podwale,13
+647,136345297,57191,2022-01-27 15:58:45,2022-01-27 16:06:28,Plac Dominikański (Galeria Dominikańska),Rondo Reagana,8
+648,136343864,57456,2022-01-27 15:28:06,2022-01-27 16:06:35,Aleja Bielany,Aleja Bielany,39
+649,136345581,651145,2022-01-27 16:04:40,2022-01-27 16:08:59,Mickiewicza / pętla tramwajowa,Marca Polo (Olimpia Port),5
+650,136345056,651218,2022-01-27 15:53:55,2022-01-27 16:09:15,Ślężna / Aleja Wiśniowa,Plac Uniwersytecki (UWr),16
+651,136344858,650818,2022-01-27 15:49:50,2022-01-27 16:09:16,Poza stacją,Dyrekcyjna / Borowska (Wroclavia),20
+652,136344931,57416,2022-01-27 15:51:23,2022-01-27 16:09:18,al. Kochanowskiego / Kopernika,Traugutta / Kościuszki,18
+653,136345264,651114,2022-01-27 15:58:04,2022-01-27 16:09:26,Traugutta / Kościuszki,Dworzec Główny ,12
+654,136343924,57311,2022-01-27 15:29:17,2022-01-27 16:09:57,Mościckiego (stacja kolejowa),Plac Dominikański (Galeria Dominikańska),41
+655,136345901,57129,2022-01-27 16:10:52,2022-01-27 16:11:25,Olszewskiego / Spółdzielcza,Olszewskiego / Spółdzielcza,1
+656,136345645,57592,2022-01-27 16:05:38,2022-01-27 16:11:40,Drzewieckiego / Dedala,Legnicka / Wejherowska,7
+657,136345653,650865,2022-01-27 16:05:53,2022-01-27 16:11:41,Plac Powstańców Warszawy (Muzeum Narodowe),Na Grobli (PWr - Geocentrum),6
+658,136345660,57960,2022-01-27 16:06:03,2022-01-27 16:12:02,Bystrzycka / Idzikowskiego,Drzewieckiego / Dedala,6
+659,136344500,650234,2022-01-27 15:42:55,2022-01-27 16:12:17,Klecińska (Wrocław Grabiszyn),Dworzec Główny ,30
+660,136345634,650303,2022-01-27 16:05:24,2022-01-27 16:13:19,Poza stacją,Borowska (Uniw. Szpital Kliniczny),8
+661,136345573,651063,2022-01-27 16:04:34,2022-01-27 16:13:43,"Grochowa / Jemiołowa,",Grabiszyńska / Aleja Hallera,10
+662,136345434,651009,2022-01-27 16:01:40,2022-01-27 16:13:46,Drobnera / Dubois,Nowowiejska / Górnickiego,13
+663,136345866,57322,2022-01-27 16:10:08,2022-01-27 16:14:26,Drzewieckiego / Dedala,Lotnicza / Na Ostatnim Groszu,5
+664,136345727,650285,2022-01-27 16:07:12,2022-01-27 16:15:35,Kamienna / Borowska (Aquapark),Nyska / Jesionowa,9
+665,136345614,650379,2022-01-27 16:05:07,2022-01-27 16:16:07,Marca Polo (Olimpia Port),Bacciarellego,11
+666,136345471,650514,2022-01-27 16:02:30,2022-01-27 16:16:28,Aleja Kromera,Plac Grunwaldzki (DS Ołówek),14
+667,136345590,57466,2022-01-27 16:04:46,2022-01-27 16:16:40,Szewska / Kazimierza Wielkiego ,Sienkiewicza / Wyszyńskiego,12
+668,136345399,650800,2022-01-27 16:00:55,2022-01-27 16:16:41,Racławicka / Rymarska,Czekoladowa / Wałbrzyska,16
+669,136345484,650140,2022-01-27 16:02:47,2022-01-27 16:17:46,Plac Legionów,Aleja Hallera / Mielecka,15
+670,136345983,650099,2022-01-27 16:12:32,2022-01-27 16:18:52,"Dworzec Główny, południe",Traugutta / Pułaskiego,7
+671,136346019,57426,2022-01-27 16:13:10,2022-01-27 16:19:18,Zaporoska / Gajowicka,Szczęśliwa (Sky Tower),7
+672,136345856,651218,2022-01-27 16:09:52,2022-01-27 16:19:22,Plac Uniwersytecki (UWr),Promenady Wrocławskie,10
+673,136345646,57321,2022-01-27 16:05:38,2022-01-27 16:20:02,Klecińska / Duńska,Mińska / Stanisławowska,15
+674,136345982,650214,2022-01-27 16:12:31,2022-01-27 16:20:40,Krakowska / Leroy Merlin,al. Armii Krajowej / Tarnogajska,9
+675,136345442,650428,2022-01-27 16:01:47,2022-01-27 16:22:12,Poniatowskiego / Oleśnicka,Dyrekcyjna / Borowska (Wroclavia),21
+676,136346015,651489,2022-01-27 16:13:09,2022-01-27 16:23:08,Plac Kościuszki (Renoma),Kamienna / Borowska (Aquapark),10
+677,136345179,650801,2022-01-27 15:56:22,2022-01-27 16:23:09,Poza stacją,Legnicka (Park Magnolia),27
+678,136345968,57269,2022-01-27 16:12:11,2022-01-27 16:23:38,Świdnicka / Piłsudskiego (Hotel Scandic),Poza stacją,12
+679,136345515,57852,2022-01-27 16:03:24,2022-01-27 16:23:44,Na Grobli (PWr - Geocentrum),Plac Uniwersytecki (UWr),21
+680,136346219,57202,2022-01-27 16:17:17,2022-01-27 16:24:22,Przyjaźni / Karkonoska,Wałbrzyska - pętla tramwajowa,8
+681,136346260,650624,2022-01-27 16:18:20,2022-01-27 16:24:45,Żelazna / Pereca,Szczęśliwa (Sky Tower),7
+682,136346259,57460,2022-01-27 16:18:20,2022-01-27 16:26:07,Poza stacją,Poza stacją,8
+683,136346046,651370,2022-01-27 16:13:39,2022-01-27 16:26:09,Plac Grunwaldzki / Polaka,Plac Kościuszki (Renoma),13
+684,136346376,650863,2022-01-27 16:20:39,2022-01-27 16:27:02,Drobnera / Plac Bema,Sienkiewicza / Wyszyńskiego,7
+685,136345656,57004,2022-01-27 16:05:58,2022-01-27 16:27:08,Fabryczna / Wagonowa,Tyrmanda / Trawowa,22
+686,136346210,57466,2022-01-27 16:17:11,2022-01-27 16:27:11,Sienkiewicza / Wyszyńskiego,Aleja Kromera,10
+687,136346315,650019,2022-01-27 16:19:22,2022-01-27 16:28:06,Wita Stwosza / Szewska,Legnicka / Młodych Techników,9
+688,136345437,57131,2022-01-27 16:01:41,2022-01-27 16:28:40,Rakowiecka,Reymonta / Kleczkowska,27
+689,136346465,57426,2022-01-27 16:22:11,2022-01-27 16:28:44,Szczęśliwa (Sky Tower),Powstańcow Śląskich / Aleja Hallera,7
+690,136346559,651145,2022-01-27 16:23:57,2022-01-27 16:28:51,Marca Polo (Olimpia Port),Mickiewicza / pętla tramwajowa,5
+691,136346500,650428,2022-01-27 16:22:52,2022-01-27 16:28:56,Dyrekcyjna / Borowska (Wroclavia),Kamienna / Borowska (Aquapark),7
+692,136346055,650303,2022-01-27 16:13:50,2022-01-27 16:29:17,Borowska (Uniw. Szpital Kliniczny),Plac Kościuszki (Renoma),16
+693,136345875,57195,2022-01-27 16:10:20,2022-01-27 16:29:21,Poza stacją,Reymonta / Kleczkowska,20
+694,136346303,650768,2022-01-27 16:19:12,2022-01-27 16:29:29,Sienkiewicza / Wyszyńskiego,Nowowiejska / Jedności Narodowej,11
+695,136346796,57888,2022-01-27 16:29:22,2022-01-27 16:29:54,Kamienna / Borowska (Aquapark),Kamienna / Borowska (Aquapark),1
+696,136346096,651009,2022-01-27 16:14:32,2022-01-27 16:29:59,Nowowiejska / Górnickiego,Nowowiejska / Górnickiego,16
+697,136346327,57786,2022-01-27 16:19:33,2022-01-27 16:30:54,Kazimierza Wielkiego (Helios),Kościuszki / Pułaskiego,12
+698,136346437,650743,2022-01-27 16:21:45,2022-01-27 16:31:22,Powstańcow Śląskich / Aleja Hallera,Zaporoska / Grabiszyńska,10
+699,136346400,650438,2022-01-27 16:21:11,2022-01-27 16:31:31,Lotnicza / Na Ostatnim Groszu,Pilczycka / Koszykarska,11
+700,136346521,650099,2022-01-27 16:23:12,2022-01-27 16:31:46,Traugutta / Pułaskiego,Dworzec Główny ,9
+701,136346491,650324,2022-01-27 16:22:43,2022-01-27 16:32:26,Poza stacją,al. Armii Krajowej / Borowska,10
+702,136346775,57460,2022-01-27 16:28:54,2022-01-27 16:34:17,Poza stacją,Poza stacją,6
+703,136346281,650594,2022-01-27 16:18:51,2022-01-27 16:35:19,al. Karkonoska / Jeździecka,Poza stacją,17
+704,136346695,57211,2022-01-27 16:27:05,2022-01-27 16:35:44,Grabiszyńska / Stalowa,Aleja Hallera / Mielecka,9
+705,136346629,650538,2022-01-27 16:25:16,2022-01-27 16:35:46,Lotnicza / Metalowców,Pilczycka (Stadion Miejski),11
+706,136346882,650075,2022-01-27 16:31:02,2022-01-27 16:37:13,Zwycięska / Agrestowa,Kutrzeby / Hubala,7
+707,136347093,651541,2022-01-27 16:35:38,2022-01-27 16:39:03,Zwycięska / Agrestowa,Kutrzeby / Hubala,4
+708,136346671,57325,2022-01-27 16:26:31,2022-01-27 16:39:26,Aleja Bielany,Wałbrzyska - pętla tramwajowa,13
+709,136346513,650511,2022-01-27 16:23:07,2022-01-27 16:39:36,Solskiego / al. Piastów,Aleja Hallera / Mielecka,17
+710,136346703,651356,2022-01-27 16:27:12,2022-01-27 16:39:44,Stadion Olimpijski,Plac Grunwaldzki (DS Ołówek),13
+711,136347135,57903,2022-01-27 16:36:29,2022-01-27 16:40:07,Grabiszyńska / Magazynierska (Corte Verona),Grabiszyńska / Stalowa,4
+712,136346861,651009,2022-01-27 16:30:33,2022-01-27 16:40:10,Nowowiejska / Górnickiego,Drobnera / Dubois,10
+713,136346464,650523,2022-01-27 16:22:10,2022-01-27 16:40:22,Poza stacją,Śrubowa / Strzegomska,19
+714,136347429,57744,2022-01-27 16:42:05,2022-01-27 16:42:38,Aleja Kromera,Aleja Kromera,1
+715,136346741,57466,2022-01-27 16:28:04,2022-01-27 16:43:03,Aleja Kromera,Krzywoustego - Rynek Psie Pole,15
+716,136346715,651370,2022-01-27 16:27:28,2022-01-27 16:43:56,Plac Kościuszki (Renoma),Szczęśliwa (Sky Tower),17
+717,136347489,57744,2022-01-27 16:43:12,2022-01-27 16:44:08,Aleja Kromera,Aleja Kromera,1
+718,136346801,57284,2022-01-27 16:29:28,2022-01-27 16:45:22,Śrubowa / Strzegomska,Traugutta / Pułaskiego,16
+719,136346968,651390,2022-01-27 16:33:01,2022-01-27 16:45:36,Leśnica - pętla tramwajowa,Stabłowicka / Główna ,13
+720,136346393,650370,2022-01-27 16:20:57,2022-01-27 16:45:38,al. Armii Krajowej / Tarnogajska,Kutrzeby / Hubala,25
+721,136346797,650177,2022-01-27 16:29:23,2022-01-27 16:45:52,Gazowa / Międzyleska,Buforowa - Vivaldiego,17
+722,136347280,57672,2022-01-27 16:39:29,2022-01-27 16:46:27,Powstańców Śląskich/Orla,Racławicka / Rymarska,7
+723,136347297,650061,2022-01-27 16:39:48,2022-01-27 16:46:36,Sienkiewicza / Wyszyńskiego,Promenady Wrocławskie,7
+724,136347340,650624,2022-01-27 16:40:20,2022-01-27 16:47:06,Szczęśliwa (Sky Tower),Żelazna / Pereca,7
+725,136347144,57478,2022-01-27 16:36:36,2022-01-27 16:47:46,Poza stacją,Hermanowska / Kołobrzeska,12
+726,136347531,650428,2022-01-27 16:43:56,2022-01-27 16:47:56,Kamienna / Borowska (Aquapark),al. Armii Krajowej / Borowska,4
+727,136347331,650768,2022-01-27 16:40:15,2022-01-27 16:49:43,Nowowiejska / Jedności Narodowej,Sienkiewicza / Wyszyńskiego,10
+728,136345197,57829,2022-01-27 15:56:42,2022-01-27 16:50:17,Traugutta / Pułaskiego,Traugutta / Pułaskiego,54
+729,136346628,57025,2022-01-27 16:25:16,2022-01-27 16:50:45,Czekoladowa / Wałbrzyska,Poza stacją,26
+730,136347634,57284,2022-01-27 16:45:56,2022-01-27 16:51:19,Traugutta / Pułaskiego,Kościuszki / Komuny Paryskiej / Zgodna,6
+731,136346994,57191,2022-01-27 16:33:20,2022-01-27 16:51:32,Rondo Reagana,Mickiewicza / pętla tramwajowa,19
+732,136347677,57038,2022-01-27 16:46:46,2022-01-27 16:55:46,pl. Orląt Lwowskich,Stacyjna (Dworzec Mikołajów),9
+733,136347495,57911,2022-01-27 16:43:18,2022-01-27 16:56:16,Stabłowicka / Główna ,Boguszowska / Kosmonautów,13
+734,136347396,57144,2022-01-27 16:41:18,2022-01-27 16:57:06,Szczęśliwa (Sky Tower),Nyska / Jesionowa,16
+735,136347896,57829,2022-01-27 16:50:52,2022-01-27 16:58:03,Traugutta / Pułaskiego,Traugutta / Pułaskiego,8
+736,136347956,651114,2022-01-27 16:52:11,2022-01-27 16:59:02,Dworzec Główny ,Kościuszki / Komuny Paryskiej / Zgodna,7
+737,136347555,650142,2022-01-27 16:44:21,2022-01-27 17:00:00,Wita Stwosza / Szewska,al. Armii Krajowej / Borowska,16
+738,136347587,650848,2022-01-27 16:44:57,2022-01-27 17:00:13,Kozanowska/Pałucka,Popowice,16
+739,136347578,651009,2022-01-27 16:44:49,2022-01-27 17:00:46,Drobnera / Dubois,Drobnera / Dubois,16
+740,136348125,650428,2022-01-27 16:55:18,2022-01-27 17:01:50,al. Armii Krajowej / Borowska,Borowska (Uniw. Szpital Kliniczny),7
+741,136348467,651517,2022-01-27 17:01:16,2022-01-27 17:01:55,Popowice,Popowice,1
+742,136348111,57172,2022-01-27 16:55:00,2022-01-27 17:03:16,Rynek,Kurkowa / Dubois,9
+743,136348266,57545,2022-01-27 16:57:46,2022-01-27 17:03:46,Bardzka (cmentarz),Jagodzińska / Buforowa,6
+744,136347756,57269,2022-01-27 16:48:10,2022-01-27 17:04:22,Poza stacją,pl. Orląt Lwowskich,17
+745,136347159,650801,2022-01-27 16:36:51,2022-01-27 17:05:17,Legnicka (Park Magnolia),Grabiszyńska / Aleja Hallera,29
+746,136347926,651494,2022-01-27 16:51:26,2022-01-27 17:08:13,Rynek,Nowowiejska / Górnickiego,17
+747,136347928,651370,2022-01-27 16:51:29,2022-01-27 17:08:50,Szczęśliwa (Sky Tower),Wyszyńskiego / Szczytnicka,18
+748,136347397,57803,2022-01-27 16:41:21,2022-01-27 17:08:56,Dworzec Główny ,Kamieńskiego,28
+749,136347948,57191,2022-01-27 16:52:03,2022-01-27 17:09:02,Mickiewicza / pętla tramwajowa,Strachocińska / Wieśniacza,17
+750,136348480,57829,2022-01-27 17:01:30,2022-01-27 17:09:09,Traugutta / Pułaskiego,Wyszyńskiego / Szczytnicka,8
+751,136348034,57143,2022-01-27 16:53:38,2022-01-27 17:10:13,Legnicka / Wejherowska,Osobowicka / Ostrowska,17
+752,136348460,650202,2022-01-27 17:01:09,2022-01-27 17:10:30,Fosa Miejska ,Plac Świętego Macieja / Trzebnicka,10
+753,136346287,651287,2022-01-27 16:18:54,2022-01-27 17:11:13,Drobnera / Dubois,Sienkiewicza / Wyszyńskiego,53
+754,136345541,650805,2022-01-27 16:04:06,2022-01-27 17:12:01,Powstańcow Śląskich / Aleja Hallera,Poza stacją,68
+755,136348549,651328,2022-01-27 17:02:52,2022-01-27 17:12:36,Dworzec Główny ,Plac Kościuszki (Renoma),10
+756,136348609,651278,2022-01-27 17:04:00,2022-01-27 17:12:39,Kościuszki / Komuny Paryskiej / Zgodna,Dyrekcyjna / Borowska (Wroclavia),9
+757,136348119,650177,2022-01-27 16:55:10,2022-01-27 17:12:59,Buforowa - Vivaldiego,Ślężna / Kamienna (Uniw. Ekonomiczny),18
+758,136348442,651062,2022-01-27 17:00:52,2022-01-27 17:14:23,Poniatowskiego / Oleśnicka,Młodych Techników,14
+759,136349139,650009,2022-01-27 17:13:58,2022-01-27 17:14:23,Rynek,Rynek,1
+760,136348517,650285,2022-01-27 17:02:17,2022-01-27 17:15:54,Nyska / Jesionowa,Sienkiewicza / Wyszyńskiego,14
+761,136348873,57311,2022-01-27 17:09:03,2022-01-27 17:17:11,Plac Dominikański (Galeria Dominikańska),Walońska (Angel Poland Group),9
+762,136348514,650848,2022-01-27 17:02:16,2022-01-27 17:17:30,Popowice,Zachodnia / Poznańska,16
+763,136348523,651541,2022-01-27 17:02:22,2022-01-27 17:17:44,Kutrzeby / Hubala,Ślężna / Aleja Wiśniowa,16
+764,136349115,57596,2022-01-27 17:13:35,2022-01-27 17:18:07,Rynek,Piaskowa / św. Ducha,5
+765,136349211,651063,2022-01-27 17:15:24,2022-01-27 17:18:20,Grabiszyńska / Aleja Hallera,Grabiszyńska / Aleja Hallera,3
+766,136349012,650768,2022-01-27 17:11:35,2022-01-27 17:20:32,Sienkiewicza / Wyszyńskiego,Drobnera / Dubois,9
+767,136348618,57749,2022-01-27 17:04:08,2022-01-27 17:22:21,Komandorska / Sanocka,Legnicka / Wejherowska,19
+768,136349276,650223,2022-01-27 17:16:26,2022-01-27 17:22:40,Poza stacją,Krakowska / Leroy Merlin,7
+769,136349371,651541,2022-01-27 17:18:17,2022-01-27 17:22:49,Ślężna / Aleja Wiśniowa,al. Armii Krajowej / Borowska,5
+770,136349309,57821,2022-01-27 17:17:05,2022-01-27 17:23:19,Łukasiewicza / Smoluchowskiego (PWr),Janiszewskiego (PWr),7
+771,136349436,651211,2022-01-27 17:19:27,2022-01-27 17:23:33,Komandorska / Kamienna,Plac Powstańców Śląskich,5
+772,136348859,651331,2022-01-27 17:08:44,2022-01-27 17:24:24,al. Armii Krajowej / Bardzka,Wita Stwosza / Szewska,16
+773,136349365,650914,2022-01-27 17:18:09,2022-01-27 17:24:32,Plac Legionów,Dworzec Główny ,7
+774,136348501,57973,2022-01-27 17:01:57,2022-01-27 17:24:39,Jedności Narodowej / Wyszyńskiego,Wita Stwosza / Szewska,23
+775,136348536,650267,2022-01-27 17:02:39,2022-01-27 17:25:02,Klecińska / Duńska,Plac Jana Pawła II (Akademia Muzyczna),23
+776,136349304,650818,2022-01-27 17:16:56,2022-01-27 17:25:11,Dyrekcyjna / Borowska (Wroclavia),Szczęśliwa (Sky Tower),9
+777,136349228,57940,2022-01-27 17:15:39,2022-01-27 17:26:11,Drobnera / Plac Bema,Dworzec Główny ,11
+778,136349449,57786,2022-01-27 17:19:45,2022-01-27 17:27:28,Kościuszki / Pułaskiego,Plac Powstańców Warszawy (Muzeum Narodowe),8
+779,136349312,57426,2022-01-27 17:17:08,2022-01-27 17:27:40,Powstańcow Śląskich / Aleja Hallera,Świdnicka / Piłsudskiego (Hotel Scandic),11
+780,136349551,650202,2022-01-27 17:21:32,2022-01-27 17:28:12,Plac Świętego Macieja / Trzebnicka,Szewska / Kazimierza Wielkiego ,7
+781,136348646,651356,2022-01-27 17:04:38,2022-01-27 17:28:19,Plac Grunwaldzki (DS Ołówek),Krzywoustego - Rynek Psie Pole,24
+782,136349170,650193,2022-01-27 17:14:39,2022-01-27 17:29:09,Rynek,Poza stacją,15
+783,136349129,651471,2022-01-27 17:13:49,2022-01-27 17:29:10,Rynek,Drobnera / Dubois,16
+784,136349242,57499,2022-01-27 17:15:51,2022-01-27 17:29:20,Poza stacją,Zaporoska / Grabiszyńska,14
+785,136349280,57416,2022-01-27 17:16:29,2022-01-27 17:30:14,Traugutta / Kościuszki,Radeckiego / Marcinkowskiego (Uniw. Medyczny - CNIM),14
+786,136349011,57274,2022-01-27 17:11:35,2022-01-27 17:30:16,Buforowa - Vivaldiego,Świeradowska (Ferio Gaj ),19
+787,136349484,57214,2022-01-27 17:20:30,2022-01-27 17:31:00,Komandorska / Sanocka,Grabiszyńska / Stalowa,11
+788,136349110,650177,2022-01-27 17:13:30,2022-01-27 17:31:03,Ślężna / Kamienna (Uniw. Ekonomiczny),Fabryczna / Wagonowa,18
+789,136349454,650718,2022-01-27 17:19:48,2022-01-27 17:31:04,Zaporoska / Grabiszyńska,Powstańcow Śląskich / Aleja Hallera,12
+790,136349373,650848,2022-01-27 17:18:18,2022-01-27 17:31:20,Zachodnia / Poznańska,Legnicka / Wejherowska,14
+791,136349350,57223,2022-01-27 17:17:58,2022-01-27 17:32:07,Legnicka (Park Magnolia),Lotnicza / Bajana,15
+792,136349626,651009,2022-01-27 17:22:57,2022-01-27 17:32:25,Drobnera / Dubois,Młodych Techników,10
+793,136347641,650234,2022-01-27 16:46:04,2022-01-27 17:32:39,Dworzec Główny ,"Dworzec Główny, południe",47
+794,136349031,57579,2022-01-27 17:11:56,2022-01-27 17:32:40,Rakowiecka,Nowowiejska / Górnickiego,21
+795,136347079,650609,2022-01-27 16:35:18,2022-01-27 17:33:31,Kamieńskiego,Poza stacją,59
+796,136349311,651364,2022-01-27 17:17:08,2022-01-27 17:33:32,pl. Orląt Lwowskich,Wróblewskiego (ZOO),17
+797,136349527,57672,2022-01-27 17:21:10,2022-01-27 17:34:02,Racławicka / Rymarska,Powstańców Śląskich/Orla,13
+798,136349650,650840,2022-01-27 17:23:27,2022-01-27 17:34:02,al. Kochanowskiego / Kopernika,Nowowiejska / Wyszyńskiego,11
+799,136345691,57621,2022-01-27 16:06:28,2022-01-27 17:34:50,Kamienna / Borowska (Aquapark),Kamienna / Borowska (Aquapark),89
+800,136347380,651150,2022-01-27 16:40:57,2022-01-27 17:35:35,Zwycięska / Ołtaszyńska,Zwycięska / Ołtaszyńska,55
+801,136350065,650202,2022-01-27 17:30:51,2022-01-27 17:35:43,Szewska / Kazimierza Wielkiego ,Fosa Miejska ,5
+802,136350002,57960,2022-01-27 17:29:30,2022-01-27 17:35:47,Drzewieckiego / Dedala,Na Ostatnim Groszu,7
+803,136350089,57940,2022-01-27 17:31:10,2022-01-27 17:36:14,Dworzec Główny ,Szewska / Kazimierza Wielkiego ,6
+804,136350068,650573,2022-01-27 17:30:52,2022-01-27 17:37:32,al. Karkonoska / Jeździecka,Kutrzeby / Hubala,7
+805,136349502,650336,2022-01-27 17:20:47,2022-01-27 17:38:10,Centrum Handlowe Auchan Bielany,Poza stacją,18
+806,136350203,651063,2022-01-27 17:33:01,2022-01-27 17:38:44,Grabiszyńska / Aleja Hallera,Grabiszyńska / Stalowa,6
+807,136349605,650324,2022-01-27 17:22:28,2022-01-27 17:39:04,al. Armii Krajowej / Borowska,Poza stacją,17
+808,136350047,650432,2022-01-27 17:30:36,2022-01-27 17:39:15,al. Karkonoska / Jeździecka,Kutrzeby / Hubala,9
+809,136349828,57267,2022-01-27 17:26:21,2022-01-27 17:40:40,Krucza / Mielecka / Stalowa,Poza stacją,15
+810,136350101,57973,2022-01-27 17:31:24,2022-01-27 17:41:06,Wita Stwosza / Szewska,Plac Strzegomski / Poznańska,10
+811,136350108,650818,2022-01-27 17:31:32,2022-01-27 17:42:00,Szczęśliwa (Sky Tower),Ślężna / Aleja Wiśniowa,11
+812,136350218,651370,2022-01-27 17:33:13,2022-01-27 17:42:52,Wyszyńskiego / Szczytnicka,Żeromskiego / Daszyńskiego,10
+813,136350212,650847,2022-01-27 17:33:09,2022-01-27 17:43:11,Wróblewskiego (ZOO),Plac Grunwaldzki (DS Ołówek),11
+814,136350247,650374,2022-01-27 17:33:47,2022-01-27 17:44:00,Wróblewskiego (ZOO),Partyzantów / Okrzei,11
+815,136350528,57038,2022-01-27 17:38:41,2022-01-27 17:44:09,Stacyjna (Dworzec Mikołajów),Plac Strzegomski / Poznańska,6
+816,136350387,651287,2022-01-27 17:36:08,2022-01-27 17:44:10,Sienkiewicza / Wyszyńskiego,Plac Dominikański (Galeria Dominikańska),9
+817,136350680,57442,2022-01-27 17:41:15,2022-01-27 17:45:42,.RELOKACYJNA,Aleja Hallera / Mielecka,5
+818,136350064,57767,2022-01-27 17:30:50,2022-01-27 17:46:00,Stacyjna (Dworzec Mikołajów),Świdnicka / Piłsudskiego (Hotel Scandic),16
+819,136350022,651471,2022-01-27 17:29:55,2022-01-27 17:46:06,Drobnera / Dubois,Drobnera / Dubois,17
+820,136350013,650193,2022-01-27 17:29:45,2022-01-27 17:46:08,Poza stacją,Kurkowa / Dubois,17
+821,136322506,651341,2022-01-27 00:14:28,2022-01-27 17:46:26,Żelazna / Pereca,Poza stacją,1052
+822,136350431,651328,2022-01-27 17:36:49,2022-01-27 17:46:59,Plac Kościuszki (Renoma),Plac Świętego Macieja / Trzebnicka,11
+823,136350648,57960,2022-01-27 17:40:38,2022-01-27 17:47:08,Na Ostatnim Groszu,Drzewieckiego / Dedala,7
+824,136350095,650009,2022-01-27 17:31:19,2022-01-27 17:47:25,Rynek,Stacyjna (Dworzec Mikołajów),17
+825,136350518,650594,2022-01-27 17:38:28,2022-01-27 17:47:35,Poza stacją,al. Karkonoska / Jeździecka,10
+826,136350392,57545,2022-01-27 17:36:14,2022-01-27 17:49:02,Jagodzińska / Buforowa,Borowska (Uniw. Szpital Kliniczny),13
+827,136350228,650234,2022-01-27 17:33:26,2022-01-27 17:49:08,"Dworzec Główny, południe",Legnicka / Młodych Techników,16
+828,136349981,650865,2022-01-27 17:29:04,2022-01-27 17:49:27,Na Grobli (PWr - Geocentrum),Jedności Narodowej / Wyszyńskiego,21
+829,136350237,651009,2022-01-27 17:33:35,2022-01-27 17:49:58,Młodych Techników,Legnicka / Wejherowska,17
+830,136350290,651331,2022-01-27 17:34:32,2022-01-27 17:50:42,Wita Stwosza / Szewska,"Grochowa / Jemiołowa,",17
+831,136350130,650007,2022-01-27 17:31:50,2022-01-27 17:50:50,Berenta / Kasprowicza,Poza stacją,19
+832,136350505,57829,2022-01-27 17:38:07,2022-01-27 17:51:48,Wyszyńskiego / Szczytnicka,al. Kochanowskiego / Śniadeckich ,14
+833,136350272,57806,2022-01-27 17:34:20,2022-01-27 17:51:54,Powstańców Śląskich/Orla,Dyrekcyjna / Borowska (Wroclavia),18
+834,136350284,650941,2022-01-27 17:34:26,2022-01-27 17:51:56,Dyrekcyjna / Borowska (Wroclavia),Drobnera / Dubois,18
+835,136351049,651341,2022-01-27 17:47:02,2022-01-27 17:52:40,Poza stacją,Świdnicka / Piłsudskiego (Hotel Scandic),6
+836,136350019,650768,2022-01-27 17:29:50,2022-01-27 17:52:59,Drobnera / Dubois,Drobnera / Dubois,24
+837,136350778,57579,2022-01-27 17:42:55,2022-01-27 17:53:25,Nowowiejska / Górnickiego,Piaskowa / św. Ducha,11
+838,136351053,651151,2022-01-27 17:47:17,2022-01-27 17:53:38,Kościuszki / Pułaskiego,Hubska / Prudnicka,7
+839,136351256,57821,2022-01-27 17:50:34,2022-01-27 17:54:41,Janiszewskiego (PWr),Łukasiewicza / Smoluchowskiego (PWr),5
+840,136349667,57744,2022-01-27 17:23:42,2022-01-27 17:55:00,Aleja Kromera,Dworzec Główny ,32
+841,136351023,650193,2022-01-27 17:46:45,2022-01-27 17:55:30,Kurkowa / Dubois,Fosa Miejska ,9
+842,136351041,651471,2022-01-27 17:46:56,2022-01-27 17:55:32,Drobnera / Dubois,Fosa Miejska ,9
+843,136350927,651350,2022-01-27 17:45:13,2022-01-27 17:58:18,Krucza / Mielecka / Stalowa,Fabryczna / Wagonowa,14
+844,136351489,57596,2022-01-27 17:54:12,2022-01-27 17:59:19,Piaskowa / św. Ducha,Kazimierza Wielkiego (Helios),6
+845,136351470,651253,2022-01-27 17:53:54,2022-01-27 18:00:01,al. Jana III Sobieskiego / stacja kolejowa,Gorlicka / Litewska,7
+846,136351347,650700,2022-01-27 17:52:01,2022-01-27 18:00:38,Kamienna / Tomaszowska,Świeradowska / Krynicka,9
+847,136351312,650007,2022-01-27 17:51:29,2022-01-27 18:01:32,Poza stacją,Poza stacją,11
+848,136351269,57132,2022-01-27 17:50:48,2022-01-27 18:02:01,Komandorska / Sanocka,Kazimierza Wielkiego (Helios),12
+849,136351614,650193,2022-01-27 17:56:18,2022-01-27 18:03:04,Poza stacją,"Dworzec Główny, południe",7
+850,136351598,651471,2022-01-27 17:56:10,2022-01-27 18:03:05,Fosa Miejska ,"Dworzec Główny, południe",7
+851,136351621,650536,2022-01-27 17:56:24,2022-01-27 18:04:09,Nyska / Jesionowa,al. Armii Krajowej / Borowska,8
+852,136351799,651209,2022-01-27 17:59:21,2022-01-27 18:04:58,Poniatowskiego / Oleśnicka,pl. Powstańców Wielkopolskich,6
+853,136351388,57499,2022-01-27 17:52:46,2022-01-27 18:05:07,Zaporoska / Grabiszyńska,Powstańcow Śląskich / Aleja Hallera,13
+854,136351777,650140,2022-01-27 17:58:58,2022-01-27 18:05:09,Aleja Hallera / Mielecka,Grabiszyńska / Stalowa,7
+855,136351727,650840,2022-01-27 17:58:03,2022-01-27 18:05:39,Nowowiejska / Wyszyńskiego,Drobnera / Plac Bema,8
+856,136351372,57632,2022-01-27 17:52:22,2022-01-27 18:05:45,Strzegomska / Rogowska ,Tyrmanda / Mińska,14
+857,136351594,57341,2022-01-27 17:56:06,2022-01-27 18:06:09,Pilczycka / Kozanowska,Pilczycka / Kozanowska,11
+858,136351609,651345,2022-01-27 17:56:16,2022-01-27 18:06:19,Pilczycka / Kozanowska,Pilczycka / Kozanowska,11
+859,136350178,650848,2022-01-27 17:32:39,2022-01-27 18:06:38,Legnicka / Wejherowska,Kozanowska/Pałucka,34
+860,136350688,57255,2022-01-27 17:41:19,2022-01-27 18:06:55,Drzewieckiego / Dedala,Plac Staszica,26
+861,136351290,651009,2022-01-27 17:51:12,2022-01-27 18:07:22,Legnicka / Wejherowska,Lotnicza / Metalowców,17
+862,136351412,650019,2022-01-27 17:53:02,2022-01-27 18:07:45,Legnicka / Młodych Techników,Piłsudskiego 13 od Jump Hall,15
+863,136351842,651541,2022-01-27 17:59:59,2022-01-27 18:08:41,al. Armii Krajowej / Borowska,Dyrekcyjna / Borowska (Wroclavia),9
+864,136351208,57960,2022-01-27 17:49:33,2022-01-27 18:09:05,Drzewieckiego / Dedala,pl. Orląt Lwowskich,20
+865,136352025,650086,2022-01-27 18:02:51,2022-01-27 18:09:22,Strzegomska / Rogowska ,Rogowska / Zemska,7
+866,136351173,57442,2022-01-27 17:49:01,2022-01-27 18:09:41,Aleja Hallera / Mielecka,Świeradowska (Ferio Gaj ),21
+867,136351699,651388,2022-01-27 17:57:35,2022-01-27 18:09:59,Komandorska / Kamienna,Powstańców Śląskich (Arkady Wrocławskie),13
+868,136351503,651114,2022-01-27 17:54:23,2022-01-27 18:10:01,Kościuszki / Komuny Paryskiej / Zgodna,Powstańców Śląskich (Arkady Wrocławskie),16
+869,136351516,57497,2022-01-27 17:54:36,2022-01-27 18:10:03,Kościuszki / Komuny Paryskiej / Zgodna,Powstańców Śląskich (Arkady Wrocławskie),16
+870,136351047,650603,2022-01-27 17:47:02,2022-01-27 18:10:29,Berenta / Kasprowicza,Berenta / Kasprowicza,24
+871,136351579,57579,2022-01-27 17:55:43,2022-01-27 18:10:43,Piaskowa / św. Ducha,Zachodnia / Poznańska,15
+872,136351684,650730,2022-01-27 17:57:24,2022-01-27 18:11:30,Plac Kościuszki (Renoma),Wyszyńskiego / Szczytnicka,15
+873,136352619,651391,2022-01-27 18:12:27,2022-01-27 18:12:45,Kamienna / Tomaszowska,Kamienna / Tomaszowska,1
+874,136351988,650594,2022-01-27 18:02:17,2022-01-27 18:13:25,al. Karkonoska / Jeździecka,Centrum Handlowe Auchan Bielany,12
+875,136352296,650476,2022-01-27 18:06:49,2022-01-27 18:13:53,Wita Stwosza / Szewska,Plac Świętego Macieja / Trzebnicka,8
+876,136349401,651196,2022-01-27 17:18:47,2022-01-27 18:14:41,Grabiszyńska / Aleja Hallera,Grota-Roweckiego/Iwaszkiewicza,56
+877,136352675,651391,2022-01-27 18:13:18,2022-01-27 18:16:05,Kamienna / Tomaszowska,Gliniana / Gajowa,3
+878,136351463,651105,2022-01-27 17:53:48,2022-01-27 18:16:26,Hubska / Prudnicka,al. Armii Krajowej / Bardzka,23
+879,136352097,650193,2022-01-27 18:03:57,2022-01-27 18:17:01,Poza stacją,Powstańców Śląskich (Arkady Wrocławskie),14
+880,136352522,651287,2022-01-27 18:10:44,2022-01-27 18:17:08,Plac Dominikański (Galeria Dominikańska),Wyszyńskiego / Szczytnicka,7
+881,136352083,651471,2022-01-27 18:03:46,2022-01-27 18:17:10,"Dworzec Główny, południe",Dyrekcyjna / Borowska (Wroclavia),14
+882,136352425,651364,2022-01-27 18:09:03,2022-01-27 18:17:31,Wróblewskiego (ZOO),Rondo Reagana,9
+883,136352560,57786,2022-01-27 18:11:29,2022-01-27 18:17:54,Plac Powstańców Warszawy (Muzeum Narodowe),Szewska / Kazimierza Wielkiego ,7
+884,136352192,57852,2022-01-27 18:05:33,2022-01-27 18:18:18,Plac Uniwersytecki (UWr),Szczęśliwa (Sky Tower),13
+885,136352922,651112,2022-01-27 18:17:09,2022-01-27 18:19:32,Poza stacją,Centrum Handlowe Auchan Bielany,3
+886,136352241,650629,2022-01-27 18:06:12,2022-01-27 18:19:34,Poza stacją,Powstańcow Śląskich / Aleja Hallera,14
+887,136352205,57284,2022-01-27 18:05:42,2022-01-27 18:19:45,Kościuszki / Komuny Paryskiej / Zgodna,Szewska / Kazimierza Wielkiego ,15
+888,136352407,57060,2022-01-27 18:08:49,2022-01-27 18:20:32,Dworzec Główny ,Plac Grunwaldzki / Polaka,12
+889,136352324,57331,2022-01-27 18:07:18,2022-01-27 18:20:59,Pilczycka / Koszykarska,Hermanowska / Kołobrzeska,14
+890,136352514,57038,2022-01-27 18:10:39,2022-01-27 18:21:06,Plac Strzegomski / Poznańska,Kazimierza Wielkiego (Helios),11
+891,136352302,650267,2022-01-27 18:06:56,2022-01-27 18:22:21,Plac Jana Pawła II (Akademia Muzyczna),Plac Jana Pawła II (Akademia Muzyczna),16
+892,136352255,57457,2022-01-27 18:06:20,2022-01-27 18:22:42,Fabryczna / Wagonowa,Kozanowska / Pilczycka,17
+893,136353190,651465,2022-01-27 18:21:56,2022-01-27 18:22:48,Zaporoska / Gajowicka,Zaporoska / Gajowicka,1
+894,136352837,57362,2022-01-27 18:15:44,2022-01-27 18:23:11,al. Karkonoska / Jeździecka,Przyjaźni / Karkonoska,8
+895,136352661,57366,2022-01-27 18:13:03,2022-01-27 18:24:14,Krucza / Mielecka / Stalowa,Grabiszyńska / Aleja Hallera,12
+896,136352334,57672,2022-01-27 18:07:25,2022-01-27 18:24:15,Powstańców Śląskich/Orla,Powstańcow Śląskich / Aleja Hallera,17
+897,136352999,651217,2022-01-27 18:18:24,2022-01-27 18:25:40,Poza stacją,Poza stacją,8
+898,136352990,650012,2022-01-27 18:18:20,2022-01-27 18:26:07,Kamieńskiego / Jutrosińska,Żmigrodzka / Broniewskiego,8
+899,136352855,650730,2022-01-27 18:16:08,2022-01-27 18:26:16,Wyszyńskiego / Szczytnicka,Nowowiejska / Górnickiego,11
+900,136352853,650582,2022-01-27 18:16:06,2022-01-27 18:26:30,Traktatowa (przystanek kolejowy),Lotnicza / Na Ostatnim Groszu,11
+901,136352845,651378,2022-01-27 18:16:00,2022-01-27 18:28:16,Zaporoska / Gajowicka,Poza stacją,13
+902,136348867,650514,2022-01-27 17:08:56,2022-01-27 18:28:27,Plac Grunwaldzki (DS Ołówek),Plac Grunwaldzki (DS Ołówek),80
+903,136353056,651489,2022-01-27 18:19:35,2022-01-27 18:28:46,Kamienna / Borowska (Aquapark),Poza stacją,10
+904,136352034,57131,2022-01-27 18:02:56,2022-01-27 18:31:31,Reymonta / Kleczkowska,Rakowiecka,29
+905,136353358,57499,2022-01-27 18:24:31,2022-01-27 18:32:23,Powstańcow Śląskich / Aleja Hallera,Kamienna / Borowska (Aquapark),8
+906,136352700,650941,2022-01-27 18:13:41,2022-01-27 18:32:52,Drobnera / Dubois,Kościuszki / Pułaskiego,20
+907,136352967,650099,2022-01-27 18:18:01,2022-01-27 18:33:41,Dworzec Główny ,Krucza / Mielecka / Stalowa,16
+908,136353815,651080,2022-01-27 18:33:15,2022-01-27 18:33:54,Dyrekcyjna / Borowska (Wroclavia),Dyrekcyjna / Borowska (Wroclavia),1
+909,136353101,57025,2022-01-27 18:20:24,2022-01-27 18:34:21,Poza stacją,al. Armii Krajowej / Borowska,14
+910,136353846,57852,2022-01-27 18:34:02,2022-01-27 18:34:31,Szczęśliwa (Sky Tower),Szczęśliwa (Sky Tower),1
+911,136353106,650521,2022-01-27 18:20:26,2022-01-27 18:34:43,Drobnera / Plac Bema,Żmigrodzka / Broniewskiego,15
+912,136352854,650052,2022-01-27 18:16:06,2022-01-27 18:34:56,Wałbrzyska - pętla tramwajowa,Ślężna / Skierniewicka,19
+913,136352670,651264,2022-01-27 18:13:12,2022-01-27 18:35:30,Ślężna / Kamienna (Uniw. Ekonomiczny),Tarnogajska / Klimasa,23
+914,136353197,57829,2022-01-27 18:22:04,2022-01-27 18:36:20,al. Kochanowskiego / Śniadeckich ,al. Kochanowskiego / Śniadeckich ,15
+915,136353633,650311,2022-01-27 18:29:45,2022-01-27 18:36:25,3M,Kwidzyńska pętla,7
+916,136353438,650818,2022-01-27 18:26:14,2022-01-27 18:36:40,Ślężna / Aleja Wiśniowa,Powstańców Śląskich (Arkady Wrocławskie),11
+917,136353642,650894,2022-01-27 18:29:54,2022-01-27 18:38:52,Obornicka / Bałtycka,Poza stacją,9
+918,136352972,57320,2022-01-27 18:18:05,2022-01-27 18:39:05,Wita Stwosza / Szewska,Poza stacją,21
+919,136353522,651224,2022-01-27 18:27:31,2022-01-27 18:40:40,Zaporoska / Wielka / Krucza,"Dworzec Główny, południe",14
+920,136353520,651364,2022-01-27 18:27:30,2022-01-27 18:41:35,Rondo Reagana,Wróblewskiego (Teki),15
+921,136353931,57362,2022-01-27 18:35:27,2022-01-27 18:42:34,Przyjaźni / Karkonoska,Skarbowców / Wietrzna,8
+922,136353712,57545,2022-01-27 18:30:59,2022-01-27 18:42:45,Borowska (Uniw. Szpital Kliniczny),Powstańcow Śląskich / Aleja Hallera,12
+923,136353709,651552,2022-01-27 18:30:53,2022-01-27 18:43:23,Koszarowa / UWr,Żmigrodzka / Broniewskiego,13
+924,136353803,57817,2022-01-27 18:33:04,2022-01-27 18:43:36,Żelazna / Pereca,"Dworzec Główny, południe",11
+925,136354030,57863,2022-01-27 18:36:57,2022-01-27 18:44:48,Legnicka / Wejherowska,Legnicka / Zachodnia ,8
+926,136353990,57092,2022-01-27 18:36:23,2022-01-27 18:46:28,Lotnicza / Bajana,Pilczycka / Koszykarska,11
+927,136354088,650914,2022-01-27 18:38:11,2022-01-27 18:47:05,Dworzec Główny ,Plac Dominikański (Galeria Dominikańska),9
+928,136353695,57330,2022-01-27 18:30:42,2022-01-27 18:47:08,Koszarowa / UWr,Krzywoustego / Korona,17
+929,136354202,650609,2022-01-27 18:40:25,2022-01-27 18:47:11,Poza stacją,Nyska / Jesionowa,7
+930,136353800,651218,2022-01-27 18:33:02,2022-01-27 18:47:52,Promenady Wrocławskie,Plac Dominikański (Galeria Dominikańska),15
+931,136353796,651471,2022-01-27 18:32:52,2022-01-27 18:48:43,Dyrekcyjna / Borowska (Wroclavia),Szczęśliwa (Sky Tower),16
+932,136354278,57499,2022-01-27 18:42:21,2022-01-27 18:48:43,Kamienna / Borowska (Aquapark),Świdnicka / Piłsudskiego (Hotel Scandic),7
+933,136353870,651230,2022-01-27 18:34:23,2022-01-27 18:48:52,Dyrekcyjna / Borowska (Wroclavia),Szczęśliwa (Sky Tower),15
+934,136354292,651364,2022-01-27 18:42:35,2022-01-27 18:49:52,Wróblewskiego (Teki),Olszewskiego / Spółdzielcza,8
+935,136354177,57802,2022-01-27 18:39:54,2022-01-27 18:51:22,Poza stacją,Grota-Roweckiego / Parafialna,12
+936,136354050,57852,2022-01-27 18:37:24,2022-01-27 18:51:32,Szczęśliwa (Sky Tower),Świeradowska (Ferio Gaj ),15
+937,136354365,651205,2022-01-27 18:43:41,2022-01-27 18:51:53,Graniczna / Strzegomska,Rogowska/Sukielicka,9
+938,136354346,57596,2022-01-27 18:43:29,2022-01-27 18:53:16,Kazimierza Wielkiego (Helios),Poza stacją,10
+939,136354580,57744,2022-01-27 18:48:19,2022-01-27 18:54:19,Dworzec Główny ,Kościuszki / Komuny Paryskiej / Zgodna,6
+940,136352513,650336,2022-01-27 18:10:39,2022-01-27 18:54:48,Poza stacją,Poza stacją,45
+941,136354589,650894,2022-01-27 18:48:28,2022-01-27 18:55:03,Poza stacją,Żmigrodzka / Broniewskiego,7
+942,136354522,651060,2022-01-27 18:46:52,2022-01-27 18:56:01,Walońska (Angel Poland Group),Piaskowa / św. Ducha,10
+943,136354503,57165,2022-01-27 18:46:30,2022-01-27 18:56:05,Walońska (Angel Poland Group),Piaskowa / św. Ducha,10
+944,136354954,651361,2022-01-27 18:55:27,2022-01-27 18:56:07,Czekoladowa / Wałbrzyska,Czekoladowa / Wałbrzyska,1
+945,136354495,650246,2022-01-27 18:46:16,2022-01-27 18:56:17,Poniatowskiego / Oleśnicka,Plac Dominikański (Galeria Dominikańska),11
+946,136354676,651224,2022-01-27 18:49:57,2022-01-27 18:58:16,"Dworzec Główny, południe","Dworzec Główny, południe",9
+947,136354847,57060,2022-01-27 18:53:15,2022-01-27 18:58:29,Plac Grunwaldzki / Polaka,Plac Grunwaldzki / Polaka,6
+948,136354537,651371,2022-01-27 18:47:19,2022-01-27 18:58:37,Prochowicka / Dolnobrzeska,Poza stacją,12
+949,136352484,650892,2022-01-27 18:10:07,2022-01-27 19:00:15,Skarbowców / Wietrzna,Skarbowców / Wietrzna,51
+950,136354190,651132,2022-01-27 18:40:05,2022-01-27 19:01:04,Śrubowa / Strzegomska,Poza stacją,21
+951,136354966,57442,2022-01-27 18:55:44,2022-01-27 19:01:25,Świeradowska (Ferio Gaj ),Świeradowska (Ferio Gaj ),6
+952,136355144,650914,2022-01-27 18:59:47,2022-01-27 19:05:16,Plac Dominikański (Galeria Dominikańska),Kazimierza Wielkiego (Helios),6
+953,136355206,57456,2022-01-27 19:01:02,2022-01-27 19:05:34,Aleja Bielany,Centrum Handlowe Auchan Bielany,5
+954,136355102,650941,2022-01-27 18:58:55,2022-01-27 19:06:36,Kościuszki / Pułaskiego,Kamienna / Tomaszowska,8
+955,136354931,57802,2022-01-27 18:55:02,2022-01-27 19:07:01,Grota-Roweckiego / Parafialna,Wałbrzyska - pętla tramwajowa,12
+956,136355024,650838,2022-01-27 18:56:54,2022-01-27 19:07:11,Czekoladowa / Wałbrzyska,Aleja Bielany,11
+957,136355286,651465,2022-01-27 19:02:46,2022-01-27 19:07:22,Zaporoska / Gajowicka,Pereca / Grabiszyńska,5
+958,136355513,650385,2022-01-27 19:07:07,2022-01-27 19:07:47,Gazowa / Międzyleska,Gazowa / Międzyleska,1
+959,136352382,651009,2022-01-27 18:08:13,2022-01-27 19:07:57,Lotnicza / Metalowców,Lotnicza / Metalowców,60
+960,136355111,57744,2022-01-27 18:59:02,2022-01-27 19:08:48,Kościuszki / Komuny Paryskiej / Zgodna,Plac Kościuszki (Renoma),10
+961,136355159,651287,2022-01-27 19:00:04,2022-01-27 19:09:15,Wyszyńskiego / Szczytnicka,Plac Jana Pawła II (Akademia Muzyczna),10
+962,136354935,650476,2022-01-27 18:55:08,2022-01-27 19:09:32,Plac Świętego Macieja / Trzebnicka,Śrubowa / Strzegomska,15
+963,136355291,57863,2022-01-27 19:02:50,2022-01-27 19:10:54,Legnicka / Zachodnia ,Kazimierza Wielkiego (Helios),9
+964,136355209,650285,2022-01-27 19:01:06,2022-01-27 19:11:45,Sienkiewicza / Wyszyńskiego,Plac Powstańców Warszawy (Muzeum Narodowe),11
+965,136355479,651473,2022-01-27 19:06:38,2022-01-27 19:14:18,pl. Orląt Lwowskich,Zaporoska / Grabiszyńska,8
+966,136355389,650007,2022-01-27 19:04:54,2022-01-27 19:14:45,Poza stacją,Poza stacją,10
+967,136355555,57330,2022-01-27 19:08:07,2022-01-27 19:17:05,Krzywoustego / Korona,Sołtysowicka / Redycka,9
+968,136355759,57499,2022-01-27 19:12:50,2022-01-27 19:17:45,Świdnicka / Piłsudskiego (Hotel Scandic),Rynek,5
+969,136355901,650882,2022-01-27 19:16:01,2022-01-27 19:19:20,Jedności Narodowej / Wyszyńskiego,Nowowiejska / Wyszyńskiego,4
+970,136355467,57960,2022-01-27 19:06:26,2022-01-27 19:19:38,pl. Orląt Lwowskich,Grabiszyńska / Stalowa,14
+971,136355828,651194,2022-01-27 19:14:31,2022-01-27 19:19:42,Zaporoska / Grabiszyńska,Grabiszyńska / Stalowa,6
+972,136355462,650193,2022-01-27 19:06:18,2022-01-27 19:20:07,Powstańców Śląskich (Arkady Wrocławskie),al. Armii Krajowej / Bardzka,14
+973,136355875,57456,2022-01-27 19:15:40,2022-01-27 19:20:25,Centrum Handlowe Auchan Bielany,Aleja Bielany,5
+974,136355559,57817,2022-01-27 19:08:09,2022-01-27 19:20:56,"Dworzec Główny, południe",Żelazna / Pereca,13
+975,136353677,651236,2022-01-27 18:30:29,2022-01-27 19:21:09,Grabiszyńska / Stalowa,Pereca / Grabiszyńska,51
+976,136355736,650246,2022-01-27 19:12:14,2022-01-27 19:22:40,Plac Dominikański (Galeria Dominikańska),Traugutta / Kościuszki,11
+977,136355625,650385,2022-01-27 19:09:46,2022-01-27 19:23:30,Gazowa / Międzyleska,Piławska,14
+978,136356353,651112,2022-01-27 19:25:05,2022-01-27 19:25:31,Centrum Handlowe Auchan Bielany,Centrum Handlowe Auchan Bielany,1
+979,136355575,651009,2022-01-27 19:08:37,2022-01-27 19:25:44,Lotnicza / Metalowców,Legnicka (Park Magnolia),18
+980,136355779,651105,2022-01-27 19:13:19,2022-01-27 19:25:46,al. Armii Krajowej / Bardzka,"Dworzec Główny, południe",13
+981,136355623,650324,2022-01-27 19:09:45,2022-01-27 19:26:02,Poza stacją,al. Armii Krajowej / Borowska,17
+982,136355870,57267,2022-01-27 19:15:36,2022-01-27 19:28:55,Poza stacją,Zaporoska / Wielka / Krucza,14
+983,136355921,651328,2022-01-27 19:16:28,2022-01-27 19:29:36,Plac Świętego Macieja / Trzebnicka,Kościuszki / Pułaskiego,14
+984,136355915,650012,2022-01-27 19:16:23,2022-01-27 19:29:48,Żmigrodzka / Broniewskiego,Aleja Kromera,14
+985,136356649,651331,2022-01-27 19:31:47,2022-01-27 19:32:02,"Grochowa / Jemiołowa,","Grochowa / Jemiołowa,",1
+986,136355918,57366,2022-01-27 19:16:26,2022-01-27 19:32:53,Grabiszyńska / Aleja Hallera,Kamienna / Borowska (Aquapark),17
+987,136356287,650818,2022-01-27 19:23:37,2022-01-27 19:33:21,Powstańców Śląskich (Arkady Wrocławskie),pl. Orląt Lwowskich,10
+988,136356616,57928,2022-01-27 19:31:03,2022-01-27 19:34:18,Ślężna / Kamienna (Uniw. Ekonomiczny),Ślężna / Aleja Wiśniowa,4
+989,136356670,650603,2022-01-27 19:32:27,2022-01-27 19:35:31,Berenta / Kasprowicza,Poza stacją,4
+990,136355853,57940,2022-01-27 19:15:02,2022-01-27 19:37:10,Szewska / Kazimierza Wielkiego ,Aleja Hallera / Mielecka,23
+991,136356543,650324,2022-01-27 19:29:13,2022-01-27 19:37:31,al. Armii Krajowej / Borowska,Poza stacją,9
+992,136356587,651328,2022-01-27 19:30:16,2022-01-27 19:37:46,Kościuszki / Pułaskiego,pl. Orląt Lwowskich,8
+993,136356414,650594,2022-01-27 19:26:24,2022-01-27 19:37:47,Centrum Handlowe Auchan Bielany,Wałbrzyska - pętla tramwajowa,12
+994,136356043,650271,2022-01-27 19:19:00,2022-01-27 19:38:15,Dworzec Główny ,Promenady Wrocławskie,20
+995,136356425,651009,2022-01-27 19:26:39,2022-01-27 19:38:50,Legnicka (Park Magnolia),Młodych Techników,13
+996,136356716,651331,2022-01-27 19:33:24,2022-01-27 19:42:34,"Grochowa / Jemiołowa,",Powstańcow Śląskich / Aleja Hallera,10
+997,136356682,650202,2022-01-27 19:32:38,2022-01-27 19:45:47,Fosa Miejska ,al. Armii Krajowej / Bardzka,14
+998,136356085,57696,2022-01-27 19:20:03,2022-01-27 19:48:33,Na Grobli (PWr - Geocentrum),Wróblewskiego (Teki),29
+999,136357174,57387,2022-01-27 19:44:06,2022-01-27 19:48:54,Wita Stwosza / Szewska,Kołłątaja / Podwale,5
+1000,136356834,651287,2022-01-27 19:36:15,2022-01-27 19:50:58,Plac Jana Pawła II (Akademia Muzyczna),Stacyjna (Dworzec Mikołajów),15
+1001,136357253,651105,2022-01-27 19:45:57,2022-01-27 19:51:11,"Dworzec Główny, południe",Dyrekcyjna / Borowska (Wroclavia),6
+1002,136357353,651517,2022-01-27 19:48:41,2022-01-27 19:51:28,Popowice,Popowice,3
+1003,136357159,650838,2022-01-27 19:43:50,2022-01-27 19:51:56,Aleja Bielany,Czekoladowa / Wałbrzyska,9
+1004,136357082,651009,2022-01-27 19:42:08,2022-01-27 19:51:58,Młodych Techników,Drobnera / Dubois,10
+1005,136356849,57581,2022-01-27 19:36:39,2022-01-27 19:52:57,al. Kochanowskiego / Śniadeckich ,Drobnera / Plac Bema,17
+1006,136356497,57025,2022-01-27 19:28:11,2022-01-27 19:53:15,al. Armii Krajowej / Borowska,al. Armii Krajowej / Bardzka,26
+1007,136355062,650768,2022-01-27 18:58:00,2022-01-27 19:54:25,Drobnera / Dubois,Drobnera / Dubois,57
+1008,136357233,650223,2022-01-27 19:45:27,2022-01-27 19:55:23,Krakowska / Leroy Merlin,Tarnogajska / Klimasa,10
+1009,136357202,650650,2022-01-27 19:44:51,2022-01-27 19:55:29,Graniczna / Strzegomska,Rogowska / Zemska,11
+1010,136357161,651062,2022-01-27 19:43:50,2022-01-27 19:55:38,Młodych Techników,Żeromskiego / Kluczborska,12
+1011,136357280,650718,2022-01-27 19:46:42,2022-01-27 19:56:03,Powstańcow Śląskich / Aleja Hallera,Zaporoska / Wielka / Krucza,10
+1012,136357525,651492,2022-01-27 19:52:38,2022-01-27 19:57:23,Dworzec Główny ,Dworzec Główny ,5
+1013,136356307,57863,2022-01-27 19:24:07,2022-01-27 19:58:04,Kazimierza Wielkiego (Helios),Graniczna / Strzegomska,34
+1014,136357090,650865,2022-01-27 19:42:23,2022-01-27 19:58:32,Jedności Narodowej / Wyszyńskiego,Nowowiejska / Górnickiego,17
+1015,136357246,57108,2022-01-27 19:45:49,2022-01-27 19:58:38,Zwycięska / Ołtaszyńska,Zwycięska / Ołtaszyńska,13
+1016,136357304,57522,2022-01-27 19:47:29,2022-01-27 19:58:49,Drobnera / Plac Bema,Aleja Kromera,12
+1017,136356592,650914,2022-01-27 19:30:22,2022-01-27 19:59:04,Kazimierza Wielkiego (Helios),Lotnicza / Bajana,29
+1018,136357512,57132,2022-01-27 19:52:23,2022-01-27 19:59:20,Kazimierza Wielkiego (Helios),Poza stacją,7
+1019,136357750,650252,2022-01-27 19:58:48,2022-01-27 19:59:22,Żmigrodzka / Marino,Żmigrodzka / Marino,1
+1020,136357795,650838,2022-01-27 19:59:45,2022-01-27 20:00:49,Czekoladowa / Wałbrzyska,Czekoladowa / Wałbrzyska,2
+1021,136357155,57499,2022-01-27 19:43:46,2022-01-27 20:01:01,Rynek,Nowowiejska / Górnickiego,18
+1022,136357370,57616,2022-01-27 19:49:09,2022-01-27 20:01:18,Kołłątaja / Podwale,Hubska / Prudnicka,13
+1023,136357498,57978,2022-01-27 19:52:08,2022-01-27 20:01:23,Solskiego / al. Piastów,Racławicka / Rymarska,10
+1024,136357354,57038,2022-01-27 19:48:41,2022-01-27 20:02:21,Kazimierza Wielkiego (Helios),Plac Strzegomski / Poznańska,14
+1025,136357578,651132,2022-01-27 19:54:08,2022-01-27 20:02:58,Poza stacją,Plac Dominikański (Galeria Dominikańska),9
+1026,136357329,651381,2022-01-27 19:48:03,2022-01-27 20:03:25,Wałbrzyska - pętla tramwajowa,Centrum Handlowe Auchan Bielany,16
+1027,136357694,651473,2022-01-27 19:57:13,2022-01-27 20:03:42,Zaporoska / Grabiszyńska,Świdnicka / Piłsudskiego (Hotel Scandic),7
+1028,136357316,651069,2022-01-27 19:47:48,2022-01-27 20:03:51,Kołłątaja / Podwale,Śrubowa / Strzegomska,17
+1029,136356932,650476,2022-01-27 19:38:28,2022-01-27 20:04:44,Śrubowa / Strzegomska,Poniatowskiego / Oleśnicka,27
+1030,136357812,57602,2022-01-27 20:00:14,2022-01-27 20:07:16,Żmigrodzka / Marino,Bezpieczna / Obornicka,8
+1031,136357850,650783,2022-01-27 20:01:10,2022-01-27 20:08:59,Czekoladowa / Wałbrzyska,Wałbrzyska - pętla tramwajowa,8
+1032,136358131,57377,2022-01-27 20:08:32,2022-01-27 20:09:22,Na Ostatnim Groszu,Na Ostatnim Groszu,1
+1033,136357351,57284,2022-01-27 19:48:35,2022-01-27 20:09:45,Szewska / Kazimierza Wielkiego ,Partyzantów / Okrzei,22
+1034,136357977,651069,2022-01-27 20:04:35,2022-01-27 20:11:19,Śrubowa / Strzegomska,Legnicka (Park Magnolia),7
+1035,136358254,651492,2022-01-27 20:11:47,2022-01-27 20:12:17,Dworzec Główny ,Dworzec Główny ,1
+1036,136357676,651080,2022-01-27 19:56:50,2022-01-27 20:13:23,Dyrekcyjna / Borowska (Wroclavia),Piłsudskiego 13 od Jump Hall,17
+1037,136357796,57786,2022-01-27 19:59:46,2022-01-27 20:14:01,Szewska / Kazimierza Wielkiego ,Aleja Kromera,15
+1038,136358322,650951,2022-01-27 20:13:40,2022-01-27 20:16:52,Kościuszki / Pułaskiego,Traugutta / Pułaskiego,4
+1039,136358138,57522,2022-01-27 20:08:43,2022-01-27 20:17:22,Aleja Kromera,Nowowiejska / Jedności Narodowej,9
+1040,136357992,650743,2022-01-27 20:04:52,2022-01-27 20:17:58,Zaporoska / Grabiszyńska,Plac Dominikański (Galeria Dominikańska),14
+1041,136357842,651218,2022-01-27 20:01:00,2022-01-27 20:18:23,Plac Dominikański (Galeria Dominikańska),Promenady Wrocławskie,18
+1042,136357826,650930,2022-01-27 20:00:33,2022-01-27 20:18:25,Plac Dominikański (Galeria Dominikańska),Promenady Wrocławskie,18
+1043,136358139,650926,2022-01-27 20:08:44,2022-01-27 20:18:46,Na Ostatnim Groszu,Legnicka (Park Magnolia),11
+1044,136358179,650880,2022-01-27 20:09:37,2022-01-27 20:18:51,Na Ostatnim Groszu,Legnicka (Park Magnolia),10
+1045,136358038,651009,2022-01-27 20:05:59,2022-01-27 20:18:53,Drobnera / Dubois,Drobnera / Dubois,13
+1046,136358037,651378,2022-01-27 20:05:54,2022-01-27 20:19:14,Poza stacją,Zaporoska / Gajowicka,14
+1047,136358012,650800,2022-01-27 20:05:18,2022-01-27 20:19:39,Czekoladowa / Wałbrzyska,Przyjaźni,15
+1048,136358456,650531,2022-01-27 20:17:44,2022-01-27 20:20:10,Poza stacją,Legnicka (Park Magnolia),3
+1049,136358365,651069,2022-01-27 20:15:04,2022-01-27 20:20:24,Legnicka (Park Magnolia),Legnicka (Park Magnolia),6
+1050,136358161,650792,2022-01-27 20:09:08,2022-01-27 20:21:23,Nowowiejska / Górnickiego,Stadion Olimpijski,13
+1051,136358432,650285,2022-01-27 20:16:47,2022-01-27 20:22:37,Plac Powstańców Warszawy (Muzeum Narodowe),Szewska / Kazimierza Wielkiego ,6
+1052,136358300,650303,2022-01-27 20:13:02,2022-01-27 20:22:40,Plac Kościuszki (Renoma),Komandorska / Kamienna,10
+1053,136358440,650193,2022-01-27 20:17:07,2022-01-27 20:23:16,al. Armii Krajowej / Bardzka,Świeradowska (Ferio Gaj ),7
+1054,136358058,650768,2022-01-27 20:06:33,2022-01-27 20:25:03,Drobnera / Dubois,Drobnera / Dubois,19
+1055,136358449,57357,2022-01-27 20:17:33,2022-01-27 20:25:35,Plac Świętego Macieja / Trzebnicka,Rynek,9
+1056,136358534,650840,2022-01-27 20:20:13,2022-01-27 20:25:53,Drobnera / Plac Bema,Sienkiewicza / Wyszyńskiego,6
+1057,136358178,650594,2022-01-27 20:09:34,2022-01-27 20:26:33,Wałbrzyska - pętla tramwajowa,Kutrzeby / Hubala,17
+1058,136358472,57886,2022-01-27 20:18:15,2022-01-27 20:26:50,Krzywoustego / Korona,Koszarowa / UWr,9
+1059,136358680,650951,2022-01-27 20:23:56,2022-01-27 20:27:33,Traugutta / Pułaskiego,Plac Dominikański (Galeria Dominikańska),4
+1060,136358568,651069,2022-01-27 20:20:58,2022-01-27 20:27:41,Legnicka (Park Magnolia),Poza stacją,7
+1061,136358586,57366,2022-01-27 20:21:15,2022-01-27 20:28:56,Kamienna / Borowska (Aquapark),"Dworzec Główny, południe",8
+1062,136357884,651224,2022-01-27 20:02:07,2022-01-27 20:29:37,"Dworzec Główny, południe",Skarbowców / Wietrzna,28
+1063,136354251,57526,2022-01-27 18:41:53,2022-01-27 20:30:10,Buforowa - Vivaldiego,Buforowa - Vivaldiego,109
+1064,136358488,57387,2022-01-27 20:18:33,2022-01-27 20:31:03,Kołłątaja / Podwale,al. Armii Krajowej / Borowska,13
+1065,136358187,650476,2022-01-27 20:10:15,2022-01-27 20:32:54,Poniatowskiego / Oleśnicka,Legnicka (Park Magnolia),23
+1066,136358959,651492,2022-01-27 20:33:40,2022-01-27 20:34:06,Dworzec Główny ,Dworzec Główny ,1
+1067,136358522,650246,2022-01-27 20:19:41,2022-01-27 20:34:27,Traugutta / Kościuszki,pl. Orląt Lwowskich,15
+1068,136358632,57744,2022-01-27 20:22:40,2022-01-27 20:34:41,Plac Kościuszki (Renoma),Plac Powstańców Śląskich,13
+1069,136359024,650142,2022-01-27 20:35:54,2022-01-27 20:36:45,al. Armii Krajowej / Borowska,al. Armii Krajowej / Borowska,1
+1070,136358802,57579,2022-01-27 20:28:11,2022-01-27 20:38:27,Zachodnia / Poznańska,Wita Stwosza / Szewska,11
+1071,136358912,57387,2022-01-27 20:32:10,2022-01-27 20:41:16,al. Armii Krajowej / Borowska,Grota-Roweckiego / Parafialna,10
+1072,136358753,651371,2022-01-27 20:26:36,2022-01-27 20:41:36,Poza stacją,Prochowicka / Dolnobrzeska,15
+1073,136359194,651378,2022-01-27 20:40:51,2022-01-27 20:42:27,Zaporoska / Gajowicka,Zaporoska / Wielka / Krucza,2
+1074,136358986,57499,2022-01-27 20:34:22,2022-01-27 20:42:39,Nowowiejska / Górnickiego,Promenady Wrocławskie,9
+1075,136358858,650818,2022-01-27 20:30:05,2022-01-27 20:43:00,pl. Orląt Lwowskich,Szczęśliwa (Sky Tower),13
+1076,136358734,57634,2022-01-27 20:25:54,2022-01-27 20:43:27,al. Kochanowskiego / Śniadeckich ,Wyszyńskiego / Szczytnicka,18
+1077,136359032,650743,2022-01-27 20:36:02,2022-01-27 20:44:47,Plac Dominikański (Galeria Dominikańska),"Dworzec Główny, południe",9
+1078,136358834,57592,2022-01-27 20:29:14,2022-01-27 20:45:44,Legnicka / Wejherowska,Legnicka / Wejherowska,17
+1079,136359061,650536,2022-01-27 20:37:01,2022-01-27 20:46:54,al. Armii Krajowej / Borowska,"Dworzec Główny, południe",10
+1080,136359138,651474,2022-01-27 20:39:21,2022-01-27 20:48:38,Plac Świętego Macieja / Trzebnicka,Kołłątaja / Podwale,10
+1081,136359078,57211,2022-01-27 20:37:40,2022-01-27 20:50:07,Aleja Hallera / Mielecka,Szczęśliwa (Sky Tower),13
+1082,136359150,57596,2022-01-27 20:39:50,2022-01-27 20:50:15,Poza stacją,Kazimierza Wielkiego (Helios),11
+1083,136359371,57632,2022-01-27 20:46:32,2022-01-27 20:51:36,Tyrmanda / Mińska,Strzegomska / Rogowska ,6
+1084,136359271,650285,2022-01-27 20:43:13,2022-01-27 20:52:15,Szewska / Kazimierza Wielkiego ,Traugutta / Pułaskiego,10
+1085,136359065,651013,2022-01-27 20:37:11,2022-01-27 20:53:49,Kamienna / Borowska (Aquapark),Powstańców Śląskich/Orla,17
+1086,136359345,57507,2022-01-27 20:45:45,2022-01-27 20:54:35,Poza stacją,Norwida / Wyspiańskiego (PWr),9
+1087,136359462,650840,2022-01-27 20:49:25,2022-01-27 20:55:28,Sienkiewicza / Wyszyńskiego,Piaskowa / św. Ducha,7
+1088,136359334,650482,2022-01-27 20:45:23,2022-01-27 20:57:05,Marca Polo (Olimpia Port),Strachocińska / Wieśniacza,12
+1089,136359592,650882,2022-01-27 20:53:38,2022-01-27 20:58:40,Nowowiejska / Wyszyńskiego,Sienkiewicza / Wyszyńskiego,6
+1090,136359294,650531,2022-01-27 20:43:54,2022-01-27 20:59:04,Legnicka (Park Magnolia),Lotnicza / Bajana,16
+1091,136359302,650476,2022-01-27 20:44:07,2022-01-27 20:59:09,Legnicka (Park Magnolia),Lotnicza / Bajana,16
+1092,136359652,57852,2022-01-27 20:55:00,2022-01-27 21:01:47,Świeradowska (Ferio Gaj ),al. Armii Krajowej / Bardzka,7
+1093,136359547,650898,2022-01-27 20:52:04,2022-01-27 21:02:20,Plac Kościuszki (Renoma),Norwida / Wyspiańskiego (PWr),11
+1094,136359642,57522,2022-01-27 20:54:44,2022-01-27 21:04:25,Nowowiejska / Jedności Narodowej,Drobnera / Dubois,10
+1095,136359988,651391,2022-01-27 21:06:12,2022-01-27 21:08:05,Gliniana / Gajowa,Kamienna / Tomaszowska,2
+1096,136328858,57759,2022-01-27 08:43:55,2022-01-27 21:08:15,Grota-Roweckiego / Parafialna,al. Armii Krajowej / Borowska,745
+1097,136359759,651331,2022-01-27 20:58:35,2022-01-27 21:08:36,Powstańcow Śląskich / Aleja Hallera,Żelazna / Pereca,11
+1098,136359713,650650,2022-01-27 20:57:16,2022-01-27 21:09:48,Rogowska / Zemska,Graniczna / Strzegomska,13
+1099,136359869,650536,2022-01-27 21:02:14,2022-01-27 21:10:03,"Dworzec Główny, południe",Piłsudskiego 13 od Jump Hall,8
+1100,136359702,651541,2022-01-27 20:56:57,2022-01-27 21:11:09,Dyrekcyjna / Borowska (Wroclavia),Grota-Roweckiego / Parafialna,15
+1101,136360033,57596,2022-01-27 21:07:23,2022-01-27 21:14:58,Kazimierza Wielkiego (Helios),Kołłątaja / Podwale,8
+1102,136360078,651230,2022-01-27 21:08:59,2022-01-27 21:15:54,Szczęśliwa (Sky Tower),Piłsudskiego 13 od Jump Hall,7
+1103,136359985,650271,2022-01-27 21:06:00,2022-01-27 21:17:28,Promenady Wrocławskie,Bezpieczna / Obornicka,12
+1104,136359574,651341,2022-01-27 20:53:00,2022-01-27 21:18:46,Świdnicka / Piłsudskiego (Hotel Scandic),Legnicka / Wejherowska,26
+1105,136359933,651009,2022-01-27 21:04:19,2022-01-27 21:19:59,Drobnera / Dubois,Drobnera / Dubois,16
+1106,136359251,651381,2022-01-27 20:42:37,2022-01-27 21:20:05,Centrum Handlowe Auchan Bielany,Zwycięska / Agrestowa,38
+1107,136359986,650951,2022-01-27 21:06:05,2022-01-27 21:20:59,Plac Dominikański (Galeria Dominikańska),Wróblewskiego (ZOO),15
+1108,136360159,57357,2022-01-27 21:12:00,2022-01-27 21:22:30,Rynek,Kamienna / Borowska (Aquapark),11
+1109,136360334,651230,2022-01-27 21:18:20,2022-01-27 21:24:01,Piłsudskiego 13 od Jump Hall,Pereca / Grabiszyńska,6
+1110,136360321,650303,2022-01-27 21:17:49,2022-01-27 21:24:16,Komandorska / Kamienna,Poza stacją,7
+1111,136360330,651358,2022-01-27 21:18:13,2022-01-27 21:24:38,Hubska / Prudnicka,"Dworzec Główny, południe",7
+1112,136359873,650404,2022-01-27 21:02:33,2022-01-27 21:25:44,Norwida / Wyspiańskiego (PWr),Partyzantów / Okrzei,24
+1113,136360484,651378,2022-01-27 21:23:55,2022-01-27 21:25:50,Zaporoska / Wielka / Krucza,Zaporoska / Gajowicka,2
+1114,136360406,650455,2022-01-27 21:20:44,2022-01-27 21:26:08,Poza stacją,Pereca / Grabiszyńska,6
+1115,136360230,650019,2022-01-27 21:14:33,2022-01-27 21:26:29,Piłsudskiego 13 od Jump Hall,"Dworzec Główny, południe",12
+1116,136360318,650880,2022-01-27 21:17:37,2022-01-27 21:30:05,Legnicka (Park Magnolia),Piłsudskiego 13 od Jump Hall,13
+1117,136360084,651182,2022-01-27 21:09:09,2022-01-27 21:31:12,Krzywoustego / Korona,Nowowiejska / Jedności Narodowej,23
+1118,136360487,650792,2022-01-27 21:23:59,2022-01-27 21:33:51,Stadion Olimpijski,Olszewskiego / Spółdzielcza,10
+1119,136360546,57144,2022-01-27 21:25:52,2022-01-27 21:34:12,Nyska / Jesionowa,"Dworzec Główny, południe",9
+1120,136360584,57058,2022-01-27 21:27:08,2022-01-27 21:34:45,Grabiszyńska / Aleja Hallera,"Grochowa / Jemiołowa,",8
+1121,136360515,650743,2022-01-27 21:24:58,2022-01-27 21:36:48,"Dworzec Główny, południe",Zaporoska / Gajowicka,12
+1122,136360758,651541,2022-01-27 21:33:57,2022-01-27 21:37:28,Grota-Roweckiego / Parafialna,Grota-Roweckiego/Iwaszkiewicza,4
+1123,136360607,650007,2022-01-27 21:28:04,2022-01-27 21:38:34,Poza stacją,Poza stacją,11
+1124,136360582,57060,2022-01-27 21:27:01,2022-01-27 21:40:08,Plac Grunwaldzki / Polaka,"Dworzec Główny, południe",14
+1125,136360617,57366,2022-01-27 21:28:33,2022-01-27 21:40:12,"Dworzec Główny, południe",Zaporoska / Gajowicka,12
+1126,136360760,57916,2022-01-27 21:34:01,2022-01-27 21:43:02,Bałtycka / Żmigrodzka,Reymonta / Kleczkowska,10
+1127,136360763,650338,2022-01-27 21:34:13,2022-01-27 21:43:10,Bałtycka / Żmigrodzka,Reymonta / Kleczkowska,9
+1128,136360463,651300,2022-01-27 21:22:52,2022-01-27 21:45:32,Wróblewskiego (Teki),Wróblewskiego (Teki),23
+1129,136360918,650252,2022-01-27 21:40:13,2022-01-27 21:45:45,Żmigrodzka / Marino,Bezpieczna / Obornicka,6
+1130,136360739,650535,2022-01-27 21:33:11,2022-01-27 21:45:48,Tarnogajska / Klimasa,Tarnogajska / Klimasa,13
+1131,136360426,651132,2022-01-27 21:21:38,2022-01-27 21:46:28,Plac Dominikański (Galeria Dominikańska),Poza stacją,25
+1132,136360978,651473,2022-01-27 21:41:53,2022-01-27 21:49:04,Świdnicka / Piłsudskiego (Hotel Scandic),Plac Jana Pawła II (Akademia Muzyczna),8
+1133,136360849,650730,2022-01-27 21:37:41,2022-01-27 21:50:14,Nowowiejska / Górnickiego,Kurkowa / Dubois,13
+1134,136360919,57357,2022-01-27 21:40:13,2022-01-27 21:50:17,Kamienna / Borowska (Aquapark),al. Armii Krajowej / Borowska,11
+1135,136360700,651345,2022-01-27 21:31:53,2022-01-27 21:51:01,Pilczycka / Kozanowska,Kozanowska / Pilczycka,20
+1136,136361052,651537,2022-01-27 21:45:11,2022-01-27 21:51:34,Wałbrzyska - pętla tramwajowa,Czekoladowa / Wałbrzyska,7
+1137,136360712,650246,2022-01-27 21:32:08,2022-01-27 21:52:05,pl. Orląt Lwowskich,Dyrekcyjna / Borowska (Wroclavia),20
+1138,136360903,650148,2022-01-27 21:39:51,2022-01-27 21:53:00,Kwidzyńska pętla,Aleja Kromera,14
+1139,136361045,57767,2022-01-27 21:44:55,2022-01-27 21:53:24,Świdnicka / Piłsudskiego (Hotel Scandic),Kościuszki / Komuny Paryskiej / Zgodna,9
+1140,136360898,650019,2022-01-27 21:39:36,2022-01-27 21:53:31,"Dworzec Główny, południe",al. Armii Krajowej / Bardzka,14
+1141,136361105,650743,2022-01-27 21:47:15,2022-01-27 21:53:42,Zaporoska / Gajowicka,Plac Powstańców Śląskich,7
+1142,136361125,650629,2022-01-27 21:47:56,2022-01-27 21:54:45,Powstańcow Śląskich / Aleja Hallera,Kamienna / Borowska (Aquapark),7
+1143,136361138,57672,2022-01-27 21:48:33,2022-01-27 21:54:58,Powstańcow Śląskich / Aleja Hallera,Zaporoska / Wielka / Krucza,7
+1144,136361068,651296,2022-01-27 21:45:54,2022-01-27 21:55:27,Rogowska/Sukielicka,Rogowska / Zemska,10
+1145,136361293,650267,2022-01-27 21:55:50,2022-01-27 21:57:06,Plac Jana Pawła II (Akademia Muzyczna),Plac Jana Pawła II (Akademia Muzyczna),2
+1146,136361243,57322,2022-01-27 21:53:42,2022-01-27 21:57:36,Lotnicza / Na Ostatnim Groszu,Lotnicza / Bajana,4
+1147,136360922,650609,2022-01-27 21:40:22,2022-01-27 22:02:06,Nyska / Jesionowa,Zaporoska / Wielka / Krucza,22
+1148,136361310,57362,2022-01-27 21:56:19,2022-01-27 22:03:46,Skarbowców / Wietrzna,Wałbrzyska - pętla tramwajowa,8
+1149,136360725,651471,2022-01-27 21:32:39,2022-01-27 22:04:29,Szczęśliwa (Sky Tower),Sienkiewicza / Piastowska,32
+1150,136361217,57060,2022-01-27 21:52:29,2022-01-27 22:04:59,"Dworzec Główny, południe",Wyszyńskiego / Szczytnicka,13
+1151,136361484,650209,2022-01-27 22:03:53,2022-01-27 22:07:11,Plac Legionów,Fosa Miejska ,4
+1152,136361483,57067,2022-01-27 22:03:50,2022-01-27 22:07:21,Sienkiewicza / Piastowska,Nowowiejska / Górnickiego,4
+1153,136361542,651473,2022-01-27 22:05:46,2022-01-27 22:11:53,Plac Jana Pawła II (Akademia Muzyczna),Piaskowa / św. Ducha,7
+1154,136361526,650336,2022-01-27 22:05:11,2022-01-27 22:12:05,Poza stacją,Poza stacją,7
+1155,136361429,57025,2022-01-27 22:02:09,2022-01-27 22:12:21,al. Armii Krajowej / Bardzka,Świeradowska (Ferio Gaj ),11
+1156,136361216,57357,2022-01-27 21:52:25,2022-01-27 22:12:54,al. Armii Krajowej / Borowska,Grabiszyńska / Aleja Hallera,21
+1157,136361597,650246,2022-01-27 22:07:51,2022-01-27 22:14:44,Dyrekcyjna / Borowska (Wroclavia),al. Armii Krajowej / Borowska,7
+1158,136361902,650852,2022-01-27 22:19:59,2022-01-27 22:20:28,Aleja Kromera,Aleja Kromera,1
+1159,136361850,651492,2022-01-27 22:17:42,2022-01-27 22:22:42,Dworzec Główny ,Kościuszki / Pułaskiego,5
+1160,136361654,57596,2022-01-27 22:09:50,2022-01-27 22:24:22,Kołłątaja / Podwale,Legnicka / Młodych Techników,15
+1161,136361842,651009,2022-01-27 22:17:29,2022-01-27 22:27:29,Drobnera / Dubois,Młodych Techników,10
+1162,136361793,57775,2022-01-27 22:15:58,2022-01-27 22:27:33,Nowowiejska / Górnickiego,Plac Uniwersytecki (UWr),12
+1163,136361959,650511,2022-01-27 22:22:18,2022-01-27 22:28:54,Aleja Hallera / Mielecka,Grabiszyńska / Stalowa,7
+1164,136361809,650202,2022-01-27 22:16:32,2022-01-27 22:29:05,al. Armii Krajowej / Bardzka,Poza stacją,13
+1165,136361808,650019,2022-01-27 22:16:29,2022-01-27 22:29:26,al. Armii Krajowej / Bardzka,Poza stacją,13
+1166,136361941,57357,2022-01-27 22:21:41,2022-01-27 22:34:48,Grabiszyńska / Aleja Hallera,Zaporoska / Grabiszyńska,14
+1167,136362079,57643,2022-01-27 22:27:28,2022-01-27 22:35:44,Grabiszyńska / Aleja Hallera,Aleja Hallera / Mielecka,9
+1168,136362016,651378,2022-01-27 22:24:46,2022-01-27 22:35:45,Zaporoska / Gajowicka,Kazimierza Wielkiego (Helios),11
+1169,136362254,651492,2022-01-27 22:35:20,2022-01-27 22:35:55,Kościuszki / Pułaskiego,Kościuszki / Pułaskiego,1
+1170,136361968,651264,2022-01-27 22:22:40,2022-01-27 22:36:32,Tarnogajska / Klimasa,Dyrekcyjna / Borowska (Wroclavia),14
+1171,136362229,651150,2022-01-27 22:34:01,2022-01-27 22:36:42,Zwycięska / Ołtaszyńska,Zwycięska / Agrestowa,3
+1172,136362103,651009,2022-01-27 22:28:12,2022-01-27 22:40:42,Młodych Techników,Plac Strzegomski / Poznańska,13
+1173,136362088,651060,2022-01-27 22:27:43,2022-01-27 22:42:34,Piaskowa / św. Ducha,Kamienna / Tomaszowska,15
+1174,136362293,651378,2022-01-27 22:37:25,2022-01-27 22:42:51,Kazimierza Wielkiego (Helios),Kazimierza Wielkiego (Helios),6
+1175,136362122,57767,2022-01-27 22:29:04,2022-01-27 22:45:32,Kościuszki / Komuny Paryskiej / Zgodna,Kościuszki / Komuny Paryskiej / Zgodna,17
+1176,136362285,651278,2022-01-27 22:36:47,2022-01-27 22:50:12,Dyrekcyjna / Borowska (Wroclavia),Grabiszyńska / Stalowa,14
+1177,136362478,650230,2022-01-27 22:47:37,2022-01-27 22:51:11,Nowowiejska / Wyszyńskiego,Jedności Narodowej / Wyszyńskiego,4
+1178,136362438,651358,2022-01-27 22:44:57,2022-01-27 22:52:14,"Dworzec Główny, południe",Kamienna / Tomaszowska,8
+1179,136362445,650303,2022-01-27 22:45:27,2022-01-27 22:53:05,Poza stacją,Hubska / Prudnicka,8
+1180,136362453,651264,2022-01-27 22:45:47,2022-01-27 22:53:20,Dyrekcyjna / Borowska (Wroclavia),Komandorska / Kamienna,8
+1181,136362459,57144,2022-01-27 22:46:04,2022-01-27 22:56:49,"Dworzec Główny, południe",Nyska / Jesionowa,11
+1182,136362615,57786,2022-01-27 22:55:16,2022-01-27 23:00:08,Aleja Kromera,Berenta / Kasprowicza,5
+1183,136362519,57460,2022-01-27 22:49:37,2022-01-27 23:01:41,Poza stacją,Poza stacją,13
+1184,136362558,650629,2022-01-27 22:52:14,2022-01-27 23:03:14,Kamienna / Borowska (Aquapark),Powstańcow Śląskich / Aleja Hallera,11
+1185,136362612,651378,2022-01-27 22:55:00,2022-01-27 23:04:28,Kazimierza Wielkiego (Helios),Legnicka / Zachodnia ,10
+1186,136362608,651350,2022-01-27 22:54:36,2022-01-27 23:04:49,Fabryczna / Wagonowa,Grabiszyńska / Stalowa,11
+1187,136362652,651063,2022-01-27 22:57:32,2022-01-27 23:05:58,Grabiszyńska / Stalowa,"Dworzec Główny, południe",9
+1188,136362680,57311,2022-01-27 22:58:46,2022-01-27 23:06:38,Walońska (Angel Poland Group),Walońska (Angel Poland Group),8
+1189,136362779,651331,2022-01-27 23:05:09,2022-01-27 23:08:16,Żelazna / Pereca,Żelazna / Pereca,4
+1190,136362577,57978,2022-01-27 22:53:18,2022-01-27 23:08:43,Racławicka / Rymarska,Poza stacją,16
+1191,136362628,57456,2022-01-27 22:56:11,2022-01-27 23:10:04,Aleja Bielany,al. Karkonoska / Jeździecka,14
+1192,136362765,57211,2022-01-27 23:04:12,2022-01-27 23:12:32,Szczęśliwa (Sky Tower),Powstańcow Śląskich / Aleja Hallera,9
+1193,136362945,651328,2022-01-27 23:13:31,2022-01-27 23:13:46,pl. Orląt Lwowskich,pl. Orląt Lwowskich,1
+1194,136362807,57817,2022-01-27 23:06:43,2022-01-27 23:16:56,Żelazna / Pereca,Zaporoska / Gajowicka,11
+1195,136362869,57978,2022-01-27 23:09:16,2022-01-27 23:17:23,Poza stacją,Klecińska / Duńska,9
+1196,136362907,57767,2022-01-27 23:11:06,2022-01-27 23:19:41,Kościuszki / Komuny Paryskiej / Zgodna,Świdnicka / Piłsudskiego (Hotel Scandic),9
+1197,136363024,57337,2022-01-27 23:19:02,2022-01-27 23:20:27,Klecińska (Wrocław Grabiszyn),Klecińska (Wrocław Grabiszyn),2
+1198,136362860,57579,2022-01-27 23:08:56,2022-01-27 23:20:44,Wita Stwosza / Szewska,Rondo Reagana,12
+1199,136362969,57522,2022-01-27 23:15:21,2022-01-27 23:21:57,Drobnera / Dubois,Plac Jana Pawła II (Akademia Muzyczna),7
+1200,136363035,57132,2022-01-27 23:20:05,2022-01-27 23:22:33,Poza stacją,Plac Dominikański (Galeria Dominikańska),3
+1201,136362971,650275,2022-01-27 23:15:23,2022-01-27 23:23:05,pl. Orląt Lwowskich,Szewska / Kazimierza Wielkiego ,8
+1202,136363069,651209,2022-01-27 23:22:52,2022-01-27 23:23:16,pl. Powstańców Wielkopolskich,pl. Powstańców Wielkopolskich,1
+1203,136362970,57786,2022-01-27 23:15:21,2022-01-27 23:29:00,Berenta / Kasprowicza,Sienkiewicza / Wyszyńskiego,14
+1204,136363114,57545,2022-01-27 23:26:03,2022-01-27 23:29:06,Powstańcow Śląskich / Aleja Hallera,Plac Powstańców Śląskich,4
+1205,136319196,57370,2022-01-26 21:18:53,2022-01-27 23:31:51,Czekoladowa / Wałbrzyska,Zwycięska / Ołtaszyńska,1573
+1206,136363170,650882,2022-01-27 23:29:27,2022-01-27 23:31:51,Sienkiewicza / Wyszyńskiego,Wyszyńskiego / Szczytnicka,3
+1207,136362916,57362,2022-01-27 23:11:36,2022-01-27 23:31:57,Wałbrzyska - pętla tramwajowa,Plac Powstańców Śląskich,21
+1208,136357875,57341,2022-01-27 20:01:46,2022-01-27 23:32:37,Pilczycka / Kozanowska,Na Ostatnim Groszu,211
+1209,136363222,57634,2022-01-27 23:32:20,2022-01-27 23:33:34,Wyszyńskiego / Szczytnicka,Wyszyńskiego / Szczytnicka,2
+1210,136363143,650935,2022-01-27 23:27:21,2022-01-27 23:33:43,Fosa Miejska ,Kościuszki / Komuny Paryskiej / Zgodna,7
+1211,136363175,57132,2022-01-27 23:29:47,2022-01-27 23:34:29,Plac Dominikański (Galeria Dominikańska),Wyszyńskiego / Szczytnicka,5
+1212,136363073,57732,2022-01-27 23:23:08,2022-01-27 23:34:51,Powstańcow Śląskich / Aleja Hallera,"Grochowa / Jemiołowa,",12
+1213,136363044,57633,2022-01-27 23:20:54,2022-01-27 23:35:29,Klecińska (Wrocław Grabiszyn),Strzegomska / Rogowska ,15
+1214,136363076,651361,2022-01-27 23:23:37,2022-01-27 23:35:34,Czekoladowa / Wałbrzyska,Aleja Bielany,12
+1215,136363105,57806,2022-01-27 23:25:21,2022-01-27 23:36:22,Dyrekcyjna / Borowska (Wroclavia),Nyska / Jesionowa,12
+1216,136363136,651114,2022-01-27 23:27:10,2022-01-27 23:36:28,Powstańców Śląskich (Arkady Wrocławskie),Kamienna / Borowska (Aquapark),10
+1217,136363186,650209,2022-01-27 23:30:20,2022-01-27 23:37:33,Fosa Miejska ,Szczęśliwa (Sky Tower),8
+1218,136363231,57744,2022-01-27 23:32:56,2022-01-27 23:38:12,Plac Powstańców Śląskich,Powstańców Śląskich (Arkady Wrocławskie),6
+1219,136363238,57060,2022-01-27 23:33:11,2022-01-27 23:38:27,Wyszyńskiego / Szczytnicka,Traugutta / Pułaskiego,6
+1220,136363078,650926,2022-01-27 23:23:48,2022-01-27 23:39:17,Legnicka (Park Magnolia),Plac Dominikański (Galeria Dominikańska),16
+1221,136363319,57426,2022-01-27 23:38:52,2022-01-27 23:39:25,Świdnicka / Piłsudskiego (Hotel Scandic),Świdnicka / Piłsudskiego (Hotel Scandic),1
+1222,136363318,650285,2022-01-27 23:38:39,2022-01-27 23:45:48,Traugutta / Pułaskiego,Hubska / Prudnicka,8
+1223,136363312,57497,2022-01-27 23:38:22,2022-01-27 23:49:40,Powstańców Śląskich (Arkady Wrocławskie),Wyszyńskiego / Szczytnicka,12
+1224,136363301,650275,2022-01-27 23:37:24,2022-01-27 23:53:02,Szewska / Kazimierza Wielkiego ,Ślężna / Aleja Wiśniowa,16
+1225,136363481,650267,2022-01-27 23:52:11,2022-01-27 23:59:49,Plac Jana Pawła II (Akademia Muzyczna),Plac Jana Pawła II (Akademia Muzyczna),8
